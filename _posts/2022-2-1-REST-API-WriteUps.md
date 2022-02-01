@@ -43,7 +43,7 @@ published: true
 1. [https://abss.me/posts/fcm-takeover/](https://abss.me/posts/fcm-takeover/)
 2. [https://web.archive.org/web/20210519175048/https://blog.dixitaditya.com/bypassing-google-maps-api-key-restrictions/](https://web.archive.org/web/20210519175048/https://blog.dixitaditya.com/bypassing-google-maps-api-key-restrictions/)
 3. [https://web.archive.org/web/20210412151532/https://blogs.ad3sh.com/2020/06/api-endpoint-leads-to-account-takeover.html](https://web.archive.org/web/20210412151532/https://blogs.ad3sh.com/2020/06/api-endpoint-leads-to-account-takeover.html)
-4. [Hacking SMS API Service Provider of a Company |Android App Static Security Analysis | Bug Bounty POC](https://blog.securitybreached.org/2020/02/19/hacking-sms-api-service-provider-of-a-company-android-app-static-security-analysis-bug-bounty-poc/)
+4. [Hacking SMS API Service Provider of a Company Android App Static Security Analysis Bug Bounty POC](https://blog.securitybreached.org/2020/02/19/hacking-sms-api-service-provider-of-a-company-android-app-static-security-analysis-bug-bounty-poc/)
 
 ---
 
