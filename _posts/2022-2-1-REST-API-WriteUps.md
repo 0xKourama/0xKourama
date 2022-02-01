@@ -16,7 +16,7 @@ published: true
 6. [Exploiting Application-Level Profile Semantics (APLS)](https://niemand.com.ar/2021/01/08/exploiting-application-level-profile-semantics-apls-from-spring-data-rest/)
 7. [API based IDOR to leaking Private IP addresses of 6000 businesses](https://rafi-ahamed.medium.com/api-based-idor-to-leaking-private-ip-address-of-6000-businesses-6bc085ac6a6f)
 8. [Exploiting API with AuthToken](https://rafi-ahamed.medium.com/exploiting-api-with-authtoken-3bea7b1fb6a9)
-9. [JS is l0ve ❤️.. $5K for Rest API Key. | by Shivam Kamboj Dattana | Medium](https://sechunter.medium.com/js-is-love-%EF%B8%8F-ca393a4849e9)
+9. [JS is l0ve ❤️ $5K for Rest API Key. by Shivam Kamboj Dattana Medium](https://sechunter.medium.com/js-is-love-%EF%B8%8F-ca393a4849e9)
 10. [How An API Misconfiguration Can Lead To Your Internal Company Data](https://www.secjuice.com/api-misconfiguration-data-breach/)
 11. [https://blogs.ad3sh.com/2020/06/api-endpoint-leads-to-account-takeover.html](https://blogs.ad3sh.com/2020/06/api-endpoint-leads-to-account-takeover.html)
 12. [API secret key Leakage leads to disclosure of Employee’s Information](https://medium.com/@spade.com/api-secret-key-leakage-leads-to-disclosure-of-employees-information-5ca4ce17e1ce)
@@ -42,7 +42,8 @@ published: true
 
 1. [https://abss.me/posts/fcm-takeover/](https://abss.me/posts/fcm-takeover/)
 2. [https://web.archive.org/web/20210519175048/https://blog.dixitaditya.com/bypassing-google-maps-api-key-restrictions/](https://web.archive.org/web/20210519175048/https://blog.dixitaditya.com/bypassing-google-maps-api-key-restrictions/)
-3. [https://web.archive.org/web/20210412151532/https://blogs.ad3sh.com/2020/06/api-endpoint-leads-to-account-takeover.html](https://web.archive.org/web/20210412151532/https://blogs.ad3sh.com/2020/06/api-endpoint-leads-to-account-takeover.html)[Hacking SMS API Service Provider of a Company |Android App Static Security Analysis | Bug Bounty POC](https://blog.securitybreached.org/2020/02/19/hacking-sms-api-service-provider-of-a-company-android-app-static-security-analysis-bug-bounty-poc/)
+3. [https://web.archive.org/web/20210412151532/https://blogs.ad3sh.com/2020/06/api-endpoint-leads-to-account-takeover.html](https://web.archive.org/web/20210412151532/https://blogs.ad3sh.com/2020/06/api-endpoint-leads-to-account-takeover.html)
+4. [Hacking SMS API Service Provider of a Company |Android App Static Security Analysis | Bug Bounty POC](https://blog.securitybreached.org/2020/02/19/hacking-sms-api-service-provider-of-a-company-android-app-static-security-analysis-bug-bounty-poc/)
 
 ---
 
