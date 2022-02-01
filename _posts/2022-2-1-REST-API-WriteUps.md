@@ -6,6 +6,9 @@ tags: [Writeups]
 toc: false
 published: true
 ---
+
+![](https://i.imgur.com/tj2Wh0I.png)
+
 **Web**
 
 1. [breaking-parse-logic-gain-access-to-Nginx-API-read-write-upstreams](https://zoidsec.medium.com/breaking-parse-logic-gain-access-to-nginx-api-read-write-upstreams-1cb062aa44ca)
