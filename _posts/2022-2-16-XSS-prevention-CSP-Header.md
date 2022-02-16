@@ -25,13 +25,13 @@ In general Cross-site scripting prevention can generally be achieved via **two l
 
 In an **HTML** context, you should convert non-whitelisted values into HTML entities:
 
-```ruby=
+```ruby
 < converts to: &lt;
 > converts to: &gt;
 ```
 In a **JavaScript** string context, non-alphanumeric values should be Unicode-escaped:
 
-```RUBY=
+```RUBY
 < converts to: \u003c
 > converts to: \u003e
 ```
@@ -48,7 +48,7 @@ The HTTP **X-XSS-Protection** **response** **Header** is a feature of **Internet
 
 Syntax
 
-```ruby=
+```ruby
 X-XSS-Protection: 0
 X-XSS-Protection: 1
 X-XSS-Protection: 1; mode=block
@@ -85,20 +85,20 @@ With a few exceptions, policies mostly involve specifying server origins and scr
 Implemented via response header:
 
 
-```ruby=
+```ruby
 Content-Security-policy: default-src 'self'; img-src 'self' allowed-website.com; style-src 'self';
 ```
 
 Implemented via meta tag:
 
-```ruby=
+```ruby
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src https://*; child-src 'none';">
 ```
     
 Defining resources
 CSP works by restricting the origins that active and passive content can be loaded from. It can additionally restrict certain aspects of active content such as the execution of inline javascript, and the use of eval()
     
-```ruby=
+```ruby
 default-src 'none';
 img-src 'self';
 script-src 'self' https://code.jquery.com;
