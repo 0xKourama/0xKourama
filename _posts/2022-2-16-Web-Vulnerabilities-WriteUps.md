@@ -37,7 +37,7 @@ published: true
 - [Blind XSS : a mind Game ](https://medium.com/@dirtycoder0124/blind-xss-a-mind-game-to-win-the-battle-4fc67c524678?)
 - [FireFox IOS QR code reader XSS(CVE-2019-17003)](https://payatu.com/blog/nikhil-mittal/firefox-ios-qr-code-reader-xss-(cve-2019-17003))
 - [HTML injection to XSS](https://evanricafort.blogspot.com/2019/12/html-injection-to-xss-bypass-in.html)
-- [CVE-2020-13487 | Authenticated Stored Cross-site Scripting in bbPress](https://hackerone.com/reports/881918)
+- [CVE-2020-13487 Authenticated Stored Cross-site Scripting in bbPress](https://hackerone.com/reports/881918)
 - [XSS at error page of repository code ](https://medium.com/@navne3t/150-xss-at-error-page-of-respository-code-4fc628892742)
 - [XSS like a Pro](https://www.hackerinside.me/2019/12/xss-like-pro.html)
 - [How I turned self XSS to stored XSS via CSRF](https://medium.com/@abhishake100/how-i-turned-self-xss-to-stored-via-csrf-d12eaaf59f2e)
