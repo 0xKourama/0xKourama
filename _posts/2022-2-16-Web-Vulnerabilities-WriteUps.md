@@ -304,3 +304,13 @@ published: true
 - [Reflected XSS in Yahoo](https://medium.com/@TheShahzada/reflected-xss-in-yahoo-6e2b6b177448)
 - [Reflected XSS on ww.yahoo.com](https://medium.com/@saamux/reflected-xss-on-www-yahoo-com-9b1857cecb8c)
 - [XSS because of wrong content type header](https://bugbaba.blogspot.com/2017/08/xss-because-of-wrong-content-type-header.html)
+
+## CSP
+
+- [https://hackerone.com/reports/153666](https://hackerone.com/reports/153666)
+
+- [https://hackerone.com/reports/225833](https://hackerone.com/reports/225833)
+
+- [https://hackerone.com/reports/244766](https://hackerone.com/reports/244766)
+
+- [https://hackerone.com/reports/244724](https://hackerone.com/reports/244724)
