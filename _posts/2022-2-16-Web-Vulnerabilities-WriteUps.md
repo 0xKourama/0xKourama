@@ -1,7 +1,7 @@
 ---
 title: Web Vulnerabilities WriteUps
 layout: post
-categories: [Writeups]
+categories: [Writeups,Web-Vulnerabilities-Writeups]
 tags: [Writeups,XSS]
 toc: false
 published: true
