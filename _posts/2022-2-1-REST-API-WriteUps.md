@@ -1,5 +1,5 @@
 ---
-title: REST-API
+title: REST API WriteUps
 layout: post
 categories: [Writeups,REST-API]
 tags: [Writeups]
