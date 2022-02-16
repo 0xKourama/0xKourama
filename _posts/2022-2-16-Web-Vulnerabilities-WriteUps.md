@@ -7,8 +7,6 @@ toc: false
 published: true
 ---
 
-### 
-
 ## Cross Site Scripting (XSS)
 
 - [From P5 to P2 to 100 BXSS](https://medium.com/@mohameddaher/from-p5-to-p5-to-p2-from-nothing-to-1000-bxss-4dd26bc30a82)
@@ -306,4 +304,3 @@ published: true
 - [Reflected XSS in Yahoo](https://medium.com/@TheShahzada/reflected-xss-in-yahoo-6e2b6b177448)
 - [Reflected XSS on ww.yahoo.com](https://medium.com/@saamux/reflected-xss-on-www-yahoo-com-9b1857cecb8c)
 - [XSS because of wrong content type header](https://bugbaba.blogspot.com/2017/08/xss-because-of-wrong-content-type-header.html)
-- 
