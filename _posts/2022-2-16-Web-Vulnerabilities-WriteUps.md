@@ -280,7 +280,7 @@ published: true
 11. [**Exploiting insecure CORS API api.artsy.net**](https://blog.securitybreached.org/2017/10/10/exploiting-insecure-cross-origin-resource-sharing-cors-api-artsy-net) 
 12. [**Pre domain wildcard CORS exploitation**](https://medium.com/bugbountywriteup/pre-domain-wildcard-cors-exploitation-2d6ac1d4bd30) 
 13. [**Exploiting misconfigured CORS on popular BTC site**](https://medium.com/@arbazhussain/exploiting-misconfigured-cors-on-popular-btc-site-2aedfff906f6) 
-14. [**Cross-origin resource sharing misconfig | steal user information bughunterboy bughunterboy**](https://hackerone.com/reports/235200) 
+14. [**Cross-origin resource sharing misconfig  steal user information bughunterboy bughunterboy**](https://hackerone.com/reports/235200) 
 15. [**[██████] Cross-origin resource sharing misconfiguration (CORS) Vadim jarvis7**](https://hackerone.com/reports/470298) 
 16. [**https://hackerone.com/reports/758785**](https://hackerone.com/reports/758785) 
 17. [**https://hackerone.com/reports/426165**](https://hackerone.com/reports/426165) 
@@ -340,7 +340,7 @@ BLIND - XXE OOB ❌
 8. [**Permanent DoS with one click.**](https://hackerone.com/reports/975827) to Automattic - 123 upvotes, $250
 9. [**a very long name in hey.com can prevent anyone from accessing their contacts and probably can cause denial of service**](https://hackerone.com/reports/1018037) to Basecamp - 116 upvotes, $1000
 10. [**ActiveStorage throws exception when using whitespace as filename, may lead to denial of service of multiple pages**](https://hackerone.com/reports/713407) to HackerOne - 102 upvotes, $2500
-11. [**Denial of Service | twitter.com & mobile.twitter.com**](https://hackerone.com/reports/903740) to Twitter - 85 upvotes, $1120
+11. [**Denial of Service twitter.com & mobile.twitter.com**](https://hackerone.com/reports/903740) to Twitter - 85 upvotes, $1120
 12. [**DoS attack via comment on Issue**](https://hackerone.com/reports/557154) to GitLab - 77 upvotes, $1000
 13. [**DoS of https://nordvpn.com/ via CVE-2018-6389 exploitation**](https://hackerone.com/reports/752010) to Nord Security - 70 upvotes, $200
 14. [**Denial of Service [Chrome]**](https://hackerone.com/reports/921286) to Twitter - 64 upvotes, $560
