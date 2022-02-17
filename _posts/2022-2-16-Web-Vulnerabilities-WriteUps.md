@@ -113,10 +113,10 @@ published: true
 
 ## CSP
 
-1. [https://hackerone.com/reports/153666](https://hackerone.com/reports/153666)
-2. [https://hackerone.com/reports/225833](https://hackerone.com/reports/225833)
-3. [https://hackerone.com/reports/244766](https://hackerone.com/reports/244766)
-4. [https://hackerone.com/reports/244724](https://hackerone.com/reports/244724)
+1. [**https://hackerone.com/reports/153666**](https://hackerone.com/reports/153666)
+2. [**https://hackerone.com/reports/225833**](https://hackerone.com/reports/225833)
+3. [**https://hackerone.com/reports/244766**](https://hackerone.com/reports/244766)
+4. [**https://hackerone.com/reports/244724**](https://hackerone.com/reports/244724)
 
 ## SQLI
 
@@ -153,19 +153,19 @@ published: true
 1. [**bug-bounty-writeups-exploiting-sql-injection-vulnerability**](https://medium.com/sud0root/bug-bounty-writeups-exploiting-sql-injection-vulnerability-20b019553716)
 1. [**twitter**](https://twitter.com/0x01alka/status/816403077074976768)
 1. [**youtube**](https://www.youtube.com/watch?v=8gm1z9bPJ7w)
-1. [https://hackerone.com/reports/1224660](https://hackerone.com/reports/1224660)
-1. [https://hackerone.com/reports/1109311](https://hackerone.com/reports/1109311)
-1. [https://hackerone.com/reports/374027](https://hackerone.com/reports/374027)
-1. [https://hackerone.com/reports/9921](https://hackerone.com/reports/9921)
-1. [https://hackerone.com/reports/319279](https://hackerone.com/reports/319279)
-1. [https://hackerone.com/reports/1069531](https://hackerone.com/reports/1069531)
-1. [https://hackerone.com/reports/924855](https://hackerone.com/reports/924855)
-1. [https://hackerone.com/reports/1039315](https://hackerone.com/reports/1039315)
-1. [https://hackerone.com/reports/786044](https://hackerone.com/reports/786044)
-1. [https://hackerone.com/reports/297478](https://hackerone.com/reports/297478)
-1. [https://hackerone.com/reports/295841](https://hackerone.com/reports/295841)
-1. [https://hackerone.com/reports/519631](https://hackerone.com/reports/519631)
-1. [https://hackerone.com/reports/419017](https://hackerone.com/reports/419017)
+1. [**https://hackerone.com/reports/1224660**](https://hackerone.com/reports/1224660)
+1. [**https://hackerone.com/reports/1109311**](https://hackerone.com/reports/1109311)
+1. [**https://hackerone.com/reports/374027**](https://hackerone.com/reports/374027)
+1. [**https://hackerone.com/reports/9921**](https://hackerone.com/reports/9921)
+1. [**https://hackerone.com/reports/319279**](https://hackerone.com/reports/319279)
+1. [**https://hackerone.com/reports/1069531**](https://hackerone.com/reports/1069531)
+1. [**https://hackerone.com/reports/924855**](https://hackerone.com/reports/924855)
+1. [**https://hackerone.com/reports/1039315**](https://hackerone.com/reports/1039315)
+1. [**https://hackerone.com/reports/786044**](https://hackerone.com/reports/786044)
+1. [**https://hackerone.com/reports/297478**](https://hackerone.com/reports/297478)
+1. [**https://hackerone.com/reports/295841**](https://hackerone.com/reports/295841)
+1. [**https://hackerone.com/reports/519631**](https://hackerone.com/reports/519631)
+1. [**https://hackerone.com/reports/419017**](https://hackerone.com/reports/419017)
 
 
 
@@ -173,25 +173,25 @@ published: true
 
 
 
-1. [https://xmpp.nextcloud.com///;@www.google.com](https://xmpp.nextcloud.com///;@www.google.com)
-1. [[Report-246897] Open Redirect on Twitter](https://hackerone.com/reports/246897): Eldeeb
-1. [[Report-103772] Open Redirect on Shopify](https://hackerone.com/reports/103772): .np
-1. [[Report-309058] Open Redirect on Wordpress](https://hackerone.com/reports/309058): @
-1. [[Report-260744] Open Redirect and XSS on Twitter](https://hackerone.com/reports/260744): https://dev.twitter.com/https:/%5cblackfan.ru/
-1. [[Report-320376] Open Redirect on HackerOne](https://hackerone.com/reports/320376): after index.php/XYZ
-1. [[Report-111968] Interstitial redirect bypass / Open Redirect on HackerOne Zendesk Session](https://hackerone.com/reports/111968)
-1. [[Report-244721] Open Redirect on Mail.Ru](https://hackerone.com/reports/244721)
-1. [[Report-236599] Open Redirect on ExpressionEngine](https://hackerone.com/reports/236599)
-1. [[Report-299403] Open Redirect on HackerOne](https://hackerone.com/reports/299403): RTLO
-1. [[Report-239503] Open Redirect & Information Disclosure on HackerOne](https://hackerone.com/reports/239503)
-1. [[Report-210875] Open Redirect via Host Header](https://hackerone.com/reports/210875)
-1. [[Report-119236] Open Redirect on Uber](https://hackerone.com/reports/119236): IP address to a single number
-1. [[Report-126203] Open Redirect on Uber](https://hackerone.com/reports/126203)
-1. [[Report-144525] Open Redirect bypass on New Relic](https://hackerone.com/reports/144525)
-1. [[Report-104087] Open Redirect bypass using svg on Slack](https://hackerone.com/reports/104087)
-1. [[Report-179568] Open Redirect via window.opener on Open-Xchange](https://hackerone.com/reports/179568)
-1. [Open Redirect to RCE on Google Hangouts Electron app](https://blog.bentkowski.info/2018/07/vulnerability-in-hangouts-chat-aka-how.html) & [RCE Tweet](https://twitter.com/mattaustin/status/1022648925902200832)
-1. Look for “Open redirect” (with Ctrl+f) in our [List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html)
+1. [**https://xmpp.nextcloud.com///;@www.google.com**](https://xmpp.nextcloud.com///;@www.google.com)
+1. [**[Report-246897] Open Redirect on Twitter**](https://hackerone.com/reports/246897): Eldeeb
+1. [**[Report-103772] Open Redirect on Shopify**](https://hackerone.com/reports/103772): .np
+1. [**[Report-309058] Open Redirect on Wordpress**](https://hackerone.com/reports/309058): @
+1. [**[Report-260744] Open Redirect and XSS on Twitter**](https://hackerone.com/reports/260744): https://dev.twitter.com/https:/%5cblackfan.ru/
+1. [**[Report-320376] Open Redirect on HackerOne**](https://hackerone.com/reports/320376): after index.php/XYZ
+1. [**[Report-111968] Interstitial redirect bypass / Open Redirect on HackerOne Zendesk Session**](https://hackerone.com/reports/111968)
+1. [**[Report-244721] Open Redirect on Mail.Ru**](https://hackerone.com/reports/244721)
+1. [**[Report-236599] Open Redirect on ExpressionEngine**](https://hackerone.com/reports/236599)
+1. [**[Report-299403] Open Redirect on HackerOne**](https://hackerone.com/reports/299403): RTLO
+1. [**[Report-239503] Open Redirect & Information Disclosure on HackerOne**](https://hackerone.com/reports/239503)
+1. [**[Report-210875] Open Redirect via Host Header**](https://hackerone.com/reports/210875)
+1. [**[Report-119236] Open Redirect on Uber**](https://hackerone.com/reports/119236): IP address to a single number
+1. [**[Report-126203] Open Redirect on Uber**](https://hackerone.com/reports/126203)
+1. [**[Report-144525] Open Redirect bypass on New Relic**](https://hackerone.com/reports/144525)
+1. [**[Report-104087] Open Redirect bypass using svg on Slack**](https://hackerone.com/reports/104087)
+1. [**[Report-179568] Open Redirect via window.opener on Open-Xchange**](https://hackerone.com/reports/179568)
+1. [**Open Redirect to RCE on Google Hangouts Electron app**](https://blog.bentkowski.info/2018/07/vulnerability-in-hangouts-chat-aka-how.html) & [RCE Tweet](https://twitter.com/mattaustin/status/1022648925902200832)
+1. Look for “Open redirect” (with Ctrl+f) in our [**List of bug bounty writeups**](https://pentester.land/list-of-bug-bounty-writeups.html)
 
 
 ## IDOR
@@ -280,14 +280,14 @@ published: true
 11. [**Exploiting insecure CORS API api.artsy.net**](https://blog.securitybreached.org/2017/10/10/exploiting-insecure-cross-origin-resource-sharing-cors-api-artsy-net) 
 12. [**Pre domain wildcard CORS exploitation**](https://medium.com/bugbountywriteup/pre-domain-wildcard-cors-exploitation-2d6ac1d4bd30) 
 13. [**Exploiting misconfigured CORS on popular BTC site**](https://medium.com/@arbazhussain/exploiting-misconfigured-cors-on-popular-btc-site-2aedfff906f6) 
-14. [**Cross-origin resource sharing misconfig | steal user information - bughunterboy (bughunterboy)**](https://hackerone.com/reports/235200) 
-15. [**[██████] Cross-origin resource sharing misconfiguration (CORS) - Vadim (jarvis7)**](https://hackerone.com/reports/470298) 
-16. [https://hackerone.com/reports/758785](https://hackerone.com/reports/758785) 
-17. [https://hackerone.com/reports/426165](https://hackerone.com/reports/426165) 
-18. [https://hackerone.com/reports/896093](https://hackerone.com/reports/896093) 
-19. [https://hackerone.com/reports/733017](https://hackerone.com/reports/733017) 
-20. [https://hackerone.com/reports/768151](https://hackerone.com/reports/768151) 
-21. [https://hackerone.com/reports/688567](https://hackerone.com/reports/688567) 
+14. [**Cross-origin resource sharing misconfig | steal user information bughunterboy bughunterboy**](https://hackerone.com/reports/235200) 
+15. [**[██████] Cross-origin resource sharing misconfiguration (CORS) Vadim jarvis7**](https://hackerone.com/reports/470298) 
+16. [**https://hackerone.com/reports/758785**](https://hackerone.com/reports/758785) 
+17. [**https://hackerone.com/reports/426165**](https://hackerone.com/reports/426165) 
+18. [**https://hackerone.com/reports/896093**](https://hackerone.com/reports/896093) 
+19. [**https://hackerone.com/reports/733017**](https://hackerone.com/reports/733017) 
+20. [**https://hackerone.com/reports/768151**](https://hackerone.com/reports/768151) 
+21. [**https://hackerone.com/reports/688567**](https://hackerone.com/reports/688567) 
 
 ## SOP
 
@@ -388,54 +388,54 @@ BLIND - XXE OOB ❌
 
 ## **Clickjacking (UI redressing)**
 
-1. [**https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/](https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/) ✅**
-2. [**https://medium.com/@adeshkolte/how-i-earned-750-bounty-reward-from-at-t-bug-bounty-adesh-kolte-ae62dea44083](https://medium.com/@adeshkolte/how-i-earned-750-bounty-reward-from-at-t-bug-bounty-adesh-kolte-ae62dea44083) ✅**
-3. [**https://medium.com/@ameerassadi/binary-com-clickjacking-vulnerability-exploiting-html5-security-features-368c1ff2219d](https://medium.com/@ameerassadi/binary-com-clickjacking-vulnerability-exploiting-html5-security-features-368c1ff2219d) ✅ SandBox** 
-4. [**https://medium.com/@osamaavvan/1800-worth-clickjacking-1f92e79d0414](https://medium.com/@osamaavvan/1800-worth-clickjacking-1f92e79d0414) ✅**
-5. [**https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3](https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3) ✅**
-6. [**https://medium.com/@raushanraj_65039/clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a](https://medium.com/@raushanraj_65039/clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a) ✅**
-7. [**https://medium.com/@raushanraj_65039/google-clickjacking-6a04132b918a](https://medium.com/@raushanraj_65039/google-clickjacking-6a04132b918a) ✅**
-8. [**https://medium.com/bugbountywriteup/chaining-self-xss-with-ui-redressing-is-leading-to-session-hijacking-pwn-users-like-a-boss-efb46249cd14 ✅**](https://medium.com/bugbountywriteup/chaining-self-xss-with-ui-redressing-is-leading-to-session-hijacking-pwn-users-like-a-boss-efb46249cd14)
-9. [**https://seekurity.com/blog/2016/04/22/admin/poc-gallery/facebook-clickjacking-how-we-put-a-new-dress-on-facebook-ui ✅**](https://seekurity.com/blog/2016/04/22/admin/poc-gallery/facebook-clickjacking-how-we-put-a-new-dress-on-facebook-ui)
-10. [**https://websecblog.com/vulns/clickjacking-xss-on-google-org/](https://websecblog.com/vulns/clickjacking-xss-on-google-org/) ✅**
-11. [**Redressing Instagram leaking application tokens via Instagram clickjacking vulnerability](https://www.seekurity.com/blog/general/redressing-instagram-leaking-application-tokens-via-instagram-clickjacking-vulnerability/) ✅**
-12. [**Microsoft Yammer clickjacking exploiting HTML5 security features](https://www.seekurity.com/blog/general/microsoft-yammer-clickjacking-exploiting-html5-security-features/) ✅**
-13. [**Highly wormable clickjacking in player card](https://hackerone.com/reports/85624) to Twitter - 127 upvotes, $5040 ✅**
-14. [**Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) to Twitter - 125 upvotes, $1120 ✅**
-15. [**Clickjacking on donation page](https://hackerone.com/reports/921709) to WordPress - 88 upvotes, $50 ✅**
-16. [**Stealing User emails by clickjacking cards.twitter.com/xxx/xxx](https://hackerone.com/reports/154963) to Twitter - 49 upvotes, $1120  ✅**
-17. [**Clickjacking at join.nordvpn.com](https://hackerone.com/reports/765955) to Nord Security - 17 upvotes, $100 ✅**
-18. [**Clickjacking is the admin page](https://hackerone.com/reports/728004) to Rocket.Chat - 16 upvotes, $0 ✅**
-19. [**Clickjacking on cas.acronis.com login page](https://hackerone.com/reports/971234) to Acronis - 16 upvotes, $0 ✅**
-20. [**Clickjacking at ylands.com](https://hackerone.com/reports/405342) to BOHEMIA INTERACTIVE a.s. - 15 upvotes, $80 ✅**
+1. [**clickjacking-on-google-myaccount-worth-7500**](https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500)
+2. [**how-i-earned-750-bounty-reward-from-at-t-bug-bounty-adesh-kolte**](https://medium.com/@adeshkolte/how-i-earned-750-bounty-reward-from-at-t-bug-bounty-adesh-kolte-ae62dea44083)
+3. [**binary-com-clickjacking-vulnerability-exploiting-html5-security-features-SandBox**](https://medium.com/@ameerassadi/binary-com-clickjacking-vulnerability-exploiting-html5-security-features-368c1ff2219d) 
+4. [**1800-worth-clickjacking-1f92e79d0414**](https://medium.com/@osamaavvan/1800-worth-clickjacking-1f92e79d0414)
+5. [**account-taker-with-clickjacking**](https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3)
+6. [**clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a**](https://medium.com/@raushanraj_65039/clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a)
+7. [**google-clickjacking**](https://medium.com/@raushanraj_65039/google-clickjacking-6a04132b918a)
+8. [**https://medium.com/bugbountywriteup/chaining-self-xss-with-ui-redressing-is-leading-to-session-hijacking-pwn-users-like-a-boss-efb46249cd14**](https://medium.com/bugbountywriteup/chaining-self-xss-with-ui-redressing-is-leading-to-session-hijacking-pwn-users-like-a-boss-efb46249cd14)
+9. [**facebook-clickjacking-how-we-put-a-new-dress-on-facebook-ui**](https://seekurity.com/blog/2016/04/22/admin/poc-gallery/facebook-clickjacking-how-we-put-a-new-dress-on-facebook-ui)
+10. [**clickjacking-xss-on-google-org**](https://websecblog.com/vulns/clickjacking-xss-on-google-org/)
+11. [**Redressing Instagram leaking application tokens via Instagram clickjacking vulnerability**](https://www.seekurity.com/blog/general/redressing-instagram-leaking-application-tokens-via-instagram-clickjacking-vulnerability/)
+12. [**Microsoft Yammer clickjacking exploiting HTML5 security features**](https://www.seekurity.com/blog/general/microsoft-yammer-clickjacking-exploiting-html5-security-features/)
+13. [**Highly wormable clickjacking in player card**](https://hackerone.com/reports/85624) to Twitter - 127 upvotes, $5040
+14. [**Twitter Periscope Clickjacking Vulnerability**](https://hackerone.com/reports/591432) to Twitter - 125 upvotes, $1120
+15. [**Clickjacking on donation page**](https://hackerone.com/reports/921709) to WordPress - 88 upvotes, $50
+16. [**Stealing User emails by clickjacking cards.twitter.com/xxx/xxx**](https://hackerone.com/reports/154963) to Twitter - 49 upvotes, $1120
+17. [**Clickjacking at join.nordvpn.com**](https://hackerone.com/reports/765955) to Nord Security - 17 upvotes, $100
+18. [**Clickjacking is the admin page**](https://hackerone.com/reports/728004) to Rocket.Chat - 16 upvotes, $0
+19. [**Clickjacking on cas.acronis.com login page**](https://hackerone.com/reports/971234) to Acronis - 16 upvotes, $0
+20. [**Clickjacking at ylands.com**](https://hackerone.com/reports/405342) to BOHEMIA INTERACTIVE a.s. - 15 upvotes, $80
 
 ## Host Header Injection
 
-1. [https://chainlover.blogspot.com/2018/11/love-story-of-account-takeover-chaining.html](https://chainlover.blogspot.com/2018/11/love-story-of-account-takeover-chaining.html) 
-2. [https://lightningsecurity.io/blog/host-header-injection/](https://lightningsecurity.io/blog/host-header-injection/) 
-3. [https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-take-over-any-users-account-with-host-header-injection-546fff6d0f2](https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-take-over-any-users-account-with-host-header-injection-546fff6d0f2) 
-4. [https://medium.com/@bilalmerokhel/pwn-them-all-bugbounty-4ee60e13c83](https://medium.com/@bilalmerokhel/pwn-them-all-bugbounty-4ee60e13c83) 
-5. [https://pethuraj.com/blog/how-i-earned-800-for-host-header-injection-vulnerability/](https://pethuraj.com/blog/how-i-earned-800-for-host-header-injection-vulnerability/) 
-6. [https://sites.google.com/site/testsitehacking/10k-host-header](https://sites.google.com/site/testsitehacking/10k-host-header) 
-7. `[https://hackerone.com/reports/698416](https://hackerone.com/reports/698416)` 
-8. `[https://hackerone.com/reports/758380](https://hackerone.com/reports/758380)` 
-9. `[https://hackerone.com/reports/158019](https://hackerone.com/reports/158019)` 
-10. `[https://hackerone.com/reports/182670](https://hackerone.com/reports/182670)` 
-11. `[https://hackerone.com/reports/13286](https://hackerone.com/reports/13286)` 
-12. `[https://hackerone.com/reports/229498](https://hackerone.com/reports/229498)` 
-13. `[https://hackerone.com/reports/170333](https://hackerone.com/reports/170333)` 
-14. `[https://hackerone.com/reports/221908](https://hackerone.com/reports/221908)` 
-15. `[https://hackerone.com/reports/264405](https://hackerone.com/reports/264405)`  **CloudFlare**
-16. `[https://hackerone.com/reports/226659](https://hackerone.com/reports/226659)` 
-17. `[https://hackerone.com/reports/94637](https://hackerone.com/reports/94637)` 
-18. `[https://hackerone.com/reports/791293](https://hackerone.com/reports/791293)` 
-19. `[https://hackerone.com/reports/123513](https://hackerone.com/reports/123513)` 
-20. `[https://hackerone.com/reports/158482](https://hackerone.com/reports/158482)` 
-21. `[https://hackerone.com/reports/7357](https://hackerone.com/reports/7357)` 
-22. [https://sechunter.medium.com/ato-via-host-header-poisoning-dc5c29d2fd0d](https://sechunter.medium.com/ato-via-host-header-poisoning-dc5c29d2fd0d) 
-23. [https://medium.com/@daoud_youssef/from-host-header-injection-to-sql-injection-e7c61a61b575](https://medium.com/@daoud_youssef/from-host-header-injection-to-sql-injection-e7c61a61b575) 
-24. [https://medium.com/@imunissar786/awesome-host-header-injection-worth-2k-a7e5be1dbb1d](https://medium.com/@imunissar786/awesome-host-header-injection-worth-2k-a7e5be1dbb1d) 
-25. [https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82](https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82)
+1. [**love-story-of-account-takeover-chaining**](https://chainlover.blogspot.com/2018/11/love-story-of-account-takeover-chaining.html) 
+2. [**host-header-injection**](https://lightningsecurity.io/blog/host-header-injection/) 
+3. [**how-i-was-able-to-take-over-any-users-account-with-host-header-injection**](https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-take-over-any-users-account-with-host-header-injection-546fff6d0f2) 
+4. [**pwn-them-all-bugbounty**](https://medium.com/@bilalmerokhel/pwn-them-all-bugbounty-4ee60e13c83) 
+5. [**how-i-earned-800-for-host-header-injection-vulnerability**](https://pethuraj.com/blog/how-i-earned-800-for-host-header-injection-vulnerability/) 
+6. [**10k-host-header**](https://sites.google.com/site/testsitehacking/10k-host-header) 
+22. [**ato-via-host-header-poisoning**](https://sechunter.medium.com/ato-via-host-header-poisoning-dc5c29d2fd0d) 
+23. [**from-host-header-injection-to-sql-injection**](https://medium.com/@daoud_youssef/from-host-header-injection-to-sql-injection-e7c61a61b575) 
+24. [**awesome-host-header-injection-worth-2k**](https://medium.com/@imunissar786/awesome-host-header-injection-worth-2k-a7e5be1dbb1d) 
+25. [**bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie**](https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82)
+7. [**https://hackerone.com/reports/698416**](https://hackerone.com/reports/698416) 
+8. [**https://hackerone.com/reports/758380**](https://hackerone.com/reports/758380) 
+9. [**https://hackerone.com/reports/158019**](https://hackerone.com/reports/158019) 
+10. [**https://hackerone.com/reports/182670**](https://hackerone.com/reports/182670) 
+11. [**https://hackerone.com/reports/13286**](https://hackerone.com/reports/13286) 
+12. [**https://hackerone.com/reports/229498**](https://hackerone.com/reports/229498) 
+13. [**https://hackerone.com/reports/170333**](https://hackerone.com/reports/170333) 
+14. [**https://hackerone.com/reports/221908**](https://hackerone.com/reports/221908) 
+15. [**https://hackerone.com/reports/264405**](https://hackerone.com/reports/264405)  **CloudFlare**
+16. [**https://hackerone.com/reports/226659**](https://hackerone.com/reports/226659) 
+17. [**https://hackerone.com/reports/94637**](https://hackerone.com/reports/94637) 
+18. [**https://hackerone.com/reports/791293**](https://hackerone.com/reports/791293) 
+19. [**https://hackerone.com/reports/123513**](https://hackerone.com/reports/123513) 
+20. [**https://hackerone.com/reports/158482**](https://hackerone.com/reports/158482) 
+21. [**https://hackerone.com/reports/7357**](https://hackerone.com/reports/7357) 
 
 ## SSRF
 
@@ -542,12 +542,12 @@ BLIND - XXE OOB ❌
 
 ## OS Command Injection
 
-1. `[https://hackerone.com/reports/680480](https://hackerone.com/reports/680480)` 
-2. `[https://hackerone.com/reports/303061](https://hackerone.com/reports/303061)` 
-3. `[https://hackerone.com/reports/546753](https://hackerone.com/reports/546753)` 
-4. `[https://hackerone.com/reports/688270](https://hackerone.com/reports/688270)` 
-5. `[https://hackerone.com/reports/212696](https://hackerone.com/reports/212696)` 
-6. `[https://hackerone.com/reports/508487](https://hackerone.com/reports/508487)`
+1. [**https://hackerone.com/reports/680480**](https://hackerone.com/reports/680480) 
+2. [**https://hackerone.com/reports/303061**](https://hackerone.com/reports/303061) 
+3. [**https://hackerone.com/reports/546753**](https://hackerone.com/reports/546753) 
+4. [**https://hackerone.com/reports/688270**](https://hackerone.com/reports/688270) 
+5. [**https://hackerone.com/reports/212696**](https://hackerone.com/reports/212696) 
+6. [**https://hackerone.com/reports/508487**](https://hackerone.com/reports/508487)
 
 ## CSRF
 
@@ -641,41 +641,41 @@ BLIND - XXE OOB ❌
 88. [https://www.sec-down.com/wordpress/?p=809](https://www.sec-down.com/wordpress/?p=809) 
 89. [https://ysamm.com/?p=185](https://ysamm.com/?p=185) 
 90. [https://ysamm.com/?p=379](https://ysamm.com/?p=379) 
-91. `[https://hackerone.com/reports/339352](https://hackerone.com/reports/339352)` 
-92. `[https://hackerone.com/reports/293016](https://hackerone.com/reports/293016)` 
-93. `[https://hackerone.com/reports/577920](https://hackerone.com/reports/577920)` 
-94. `[https://hackerone.com/reports/127703](https://hackerone.com/reports/127703)` 
-95. `[https://hackerone.com/reports/334253](https://hackerone.com/reports/334253)`
-96. `[https://hackerone.com/reports/856518](https://hackerone.com/reports/856518)` 
-97. `[https://hackerone.com/reports/177472](https://hackerone.com/reports/177472)` 
-98. `[https://hackerone.com/reports/419891](https://hackerone.com/reports/419891)` 
-99. `[https://hackerone.com/reports/766533](https://hackerone.com/reports/766533)`
-100. `[https://hackerone.com/reports/152569](https://hackerone.com/reports/152569)` 
-101. `[https://hackerone.com/reports/802930](https://hackerone.com/reports/802930)` 
-102. `[https://hackerone.com/reports/856981](https://hackerone.com/reports/856981)`
-103. `[https://hackerone.com/reports/148156](https://hackerone.com/reports/148156)` 
+91. [https://hackerone.com/reports/339352](https://hackerone.com/reports/339352) 
+92. [https://hackerone.com/reports/293016](https://hackerone.com/reports/293016) 
+93. [https://hackerone.com/reports/577920](https://hackerone.com/reports/577920) 
+94. [https://hackerone.com/reports/127703](https://hackerone.com/reports/127703) 
+95. [https://hackerone.com/reports/334253](https://hackerone.com/reports/334253)
+96. [https://hackerone.com/reports/856518](https://hackerone.com/reports/856518) 
+97. [https://hackerone.com/reports/177472](https://hackerone.com/reports/177472) 
+98. [https://hackerone.com/reports/419891](https://hackerone.com/reports/419891) 
+99. [https://hackerone.com/reports/766533](https://hackerone.com/reports/766533)
+100. [https://hackerone.com/reports/152569](https://hackerone.com/reports/152569) 
+101. [https://hackerone.com/reports/802930](https://hackerone.com/reports/802930) 
+102. [https://hackerone.com/reports/856981](https://hackerone.com/reports/856981)
+103. [https://hackerone.com/reports/148156](https://hackerone.com/reports/148156) 
 
 ## LFI/LFD - Path Traversal - RFI
 
 ### **Remote File Inclusion**
 
-- `[https://hackerone.com/reports/14092](https://hackerone.com/reports/14092)` 
+1. [https://hackerone.com/reports/14092](https://hackerone.com/reports/14092)
 
 ### **Path Traversal**
 
-1. `[https://hackerone.com/reports/579517](https://hackerone.com/reports/579517)` 
-2. `[https://hackerone.com/reports/229622](https://hackerone.com/reports/229622)` 
-3. `[https://hackerone.com/reports/765291](https://hackerone.com/reports/765291)` 
-4. `[https://hackerone.com/reports/217344](https://hackerone.com/reports/217344)` 
-5. `[https://hackerone.com/reports/497771](https://hackerone.com/reports/497771)` 
-6. `[https://hackerone.com/reports/301862](https://hackerone.com/reports/301862)` 
+1. [https://hackerone.com/reports/579517](https://hackerone.com/reports/579517) 
+2. [https://hackerone.com/reports/229622](https://hackerone.com/reports/229622) 
+3. [https://hackerone.com/reports/765291](https://hackerone.com/reports/765291) 
+4. [https://hackerone.com/reports/217344](https://hackerone.com/reports/217344) 
+5. [https://hackerone.com/reports/497771](https://hackerone.com/reports/497771) 
+6. [https://hackerone.com/reports/301862](https://hackerone.com/reports/301862) 
 
 ### Local File Inclusion
 
-1. `[https://hackerone.com/reports/492767](https://hackerone.com/reports/492767)` 
-2. `[https://hackerone.com/reports/1007799](https://hackerone.com/reports/1007799)` 
-3. `[https://hackerone.com/reports/7779](https://hackerone.com/reports/7779)` 
-4. `[https://hackerone.com/reports/390013](https://hackerone.com/reports/390013)`
+1. [https://hackerone.com/reports/492767](https://hackerone.com/reports/492767)
+2. [https://hackerone.com/reports/1007799](https://hackerone.com/reports/1007799)
+3. [https://hackerone.com/reports/7779](https://hackerone.com/reports/7779)
+4. [https://hackerone.com/reports/390013](https://hackerone.com/reports/390013
 5. [RFI LFI Writeup](http://hassankhanyusufzai.com/RFI_LFI_writeup/) 
 6. [How we got LFI in apache drill recom like a boss](https://medium.com/bugbountywriteup/how-we-got-lfi-in-apache-drill-recon-like-a-boss-6f739a79d87d) 
 7. [Bugbounty journey from LFI to RCE](https://medium.com/@logicbomb_1/bugbounty-journey-from-lfi-to-rce-how-a69afe5a0899) 
