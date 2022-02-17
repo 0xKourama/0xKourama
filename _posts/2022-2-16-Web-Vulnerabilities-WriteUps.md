@@ -2,7 +2,7 @@
 title: Web Vulnerabilities WriteUps
 layout: post
 categories: [Writeups,Web-Vulnerabilities-Writeups]
-tags: [Writeups,XSS,CSP,SQLI]
+tags: [Writeups,XSS,CSP,SQLI,Open-Redirect,IDOR,HPP,Information-disclosure,CORS,SOP,XXE,DOS,html-injection,S3,clickjacking,HHI,SSRF,os-command-injection,CSRF,LFI,LFD,path-traversal,RFI,file-upload]
 toc: false
 published: true
 ---
