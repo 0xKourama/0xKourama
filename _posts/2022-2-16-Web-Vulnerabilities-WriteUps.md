@@ -327,23 +327,23 @@ BLIND - XXE OOB ❌
 
 1. [**Long String DOS**](https://medium.com/@shahjerry33/long-string-dos-6ba8ceab3aa0)
 2. [**Banner grabbing to DOS and memory corruption**](https://medium.com/bugbountywriteup/banner-grabbing-to-dos-and-memory-corruption-2442b1c25bbb)
-3. [**profile-picture name parameter with large value lead to DoS for other users and programs on the platform**](https://hackerone.com/reports/764434) to HackerOne - 455 upvotes, $2500
-4. [**XMLRPC.php FILE IS enable it will used for Bruteforce attack and Denial of Service(DoS)**](https://hackerone.com/reports/752073) to Nord Security - 146 upvotes, $200
-5. [**XMLRPC.php FILE IS enable it will be used for brute force attack and denial of service**](https://hackerone.com/reports/325040) to LocalTapiola - 20 upvotes, $315
-6. [**DOS on the Issue page by exploiting Mermaid.**](https://hackerone.com/reports/470067) to GitLab - 137 upvotes, $3000
-7. [**Character limitation bypass can lead to DoS on Twitter App and 500 Internal Server Error**](https://hackerone.com/reports/819088) to Twitter - 136 upvotes, $560
-8. [**Permanent DoS with one click.**](https://hackerone.com/reports/975827) to Automattic - 123 upvotes, $250
-9. [**A very long name in hey.com can prevent anyone from accessing their contacts and probably can cause denial of service**](https://hackerone.com/reports/1018037) to Basecamp - 116 upvotes, $1000
-10. [**ActiveStorage throws exception when using whitespace as filename, may lead to denial of service of multiple pages**](https://hackerone.com/reports/713407) to HackerOne - 102 upvotes, $2500
-11. [**Denial of Service twitter.com & mobile.twitter.com**](https://hackerone.com/reports/903740) to Twitter - 85 upvotes, $1120
-12. [**DOS attack via comment on Issue**](https://hackerone.com/reports/557154) to GitLab - 77 upvotes, $1000
-13. [**DOS of https://nordvpn.com/ via CVE-2018-6389 exploitation**](https://hackerone.com/reports/752010) to Nord Security - 70 upvotes, $200
-14. [**Denial of Service [Chrome]**](https://hackerone.com/reports/921286) to Twitter - 64 upvotes, $560
-15. [**DOS: type confusion in mrb_no_method_error**](https://hackerone.com/reports/181871) to Shopify-scripts - 60 upvotes, $20000
-16. [**Api.tumblr.com Denial of Service by cookies manipulation**](https://hackerone.com/reports/1005421) to Automatic - 51 upvotes, $200
-17. [**Application DOS via specially crafted payload on 3d.cs.money**](https://hackerone.com/reports/993582) to CS Money - 35 upvotes, $200
-18. [**Pixel Flood Attack leads to Application level DoS**](https://hackerone.com/reports/970760) to CS Money - 20 upvotes, $200
-19. [**lack of input validation that can lead Denial of Service (DOS)**](https://hackerone.com/reports/768677) to Twitter - 17 upvotes, $560
+3. [**profile-picture name parameter with large value lead to DoS for other users and programs on the platform**](https://hackerone.com/reports/764434)
+4. [**XMLRPC.php FILE IS enable it will used for Bruteforce attack and Denial of Service(DoS)**](https://hackerone.com/reports/752073)
+5. [**XMLRPC.php FILE IS enable it will be used for brute force attack and denial of service**](https://hackerone.com/reports/325040)
+6. [**DOS on the Issue page by exploiting Mermaid.**](https://hackerone.com/reports/470067)
+7. [**Character limitation bypass can lead to DoS on Twitter App and 500 Internal Server Error**](https://hackerone.com/reports/819088)
+8. [**Permanent DoS with one click.**](https://hackerone.com/reports/975827)
+9. [**A very long name in hey.com can prevent anyone from accessing their contacts and probably can cause denial of service**](https://hackerone.com/reports/1018037)
+10. [**ActiveStorage throws exception when using whitespace as filename, may lead to denial of service of multiple pages**](https://hackerone.com/reports/713407)
+11. [**Denial of Service twitter.com & mobile.twitter.com**](https://hackerone.com/reports/903740)
+12. [**DOS attack via comment on Issue**](https://hackerone.com/reports/557154)
+13. [**DOS of https://nordvpn.com/ via CVE-2018-6389 exploitation**](https://hackerone.com/reports/752010)
+14. [**Denial of Service [Chrome]**](https://hackerone.com/reports/921286)
+15. [**DOS: type confusion in mrb_no_method_error**](https://hackerone.com/reports/181871)
+16. [**Api.tumblr.com Denial of Service by cookies manipulation**](https://hackerone.com/reports/1005421)
+17. [**Application DOS via specially crafted payload on 3d.cs.money**](https://hackerone.com/reports/993582)
+18. [**Pixel Flood Attack leads to Application level DoS**](https://hackerone.com/reports/970760)
+19. [**lack of input validation that can lead Denial of Service (DOS)**](https://hackerone.com/reports/768677)pvotes, $560
 
 ## Html Injection
 
