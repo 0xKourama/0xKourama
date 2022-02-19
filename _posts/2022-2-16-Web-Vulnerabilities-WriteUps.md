@@ -7,7 +7,7 @@ toc: false
 published: true
 ---
 
-## Cross Site Scripting | (XSS) 
+## Cross Site Scripting (XSS) 
 
 
 1. [**From P5 to P2 to 100 BXSS**](https://medium.com/@mohameddaher/from-p5-to-p5-to-p2-from-nothing-to-1000-bxss-4dd26bc30a82)
@@ -112,12 +112,12 @@ published: true
 1. [**Magix bugbounty XSS writeup**](https://www.rcesecurity.com/2014/04/magix-bug-bounty-magix-com-rce-sqli-and-xara-com-lfi-xss/)
 
 
-## Content Security Policy | CSP
+## Content Security Policy (CSP)
 
 1. [**csp bypass + xss**](https://hackerone.com/reports/153666)
 2. [**www.hackerone.com website CSP "script-src" includes "unsafe-inline"**](https://hackerone.com/reports/225833)
 3. [**https://wakatime.com/ website CSP "script-src" includes "unsafe-inline"**](https://hackerone.com/reports/244766)
-4. [**Unsafe Inline and Eval CSP Usage**](https://hackerone.com/reports/244724)(https://hamzamohdzubair.github.io/redant/)
+4. [**Unsafe Inline and Eval CSP Usage**](https://hackerone.com/reports/244724)
 
 ---
 
@@ -136,7 +136,7 @@ published: true
 
 ---
 
-## **Clickjacking (UI redressing)**
+## Clickjacking (UI redressing)
 
 1. [**Clickjacking-on-google-myaccount-worth-7500**](https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500)
 2. [**How-i-earned-750-bounty-reward-from-at-t-bug-bounty-adesh-kolte**](https://medium.com/@adeshkolte/how-i-earned-750-bounty-reward-from-at-t-bug-bounty-adesh-kolte-ae62dea44083)
@@ -161,7 +161,7 @@ published: true
 
 ---
 
-## CSRF
+## Cross Site Request Forgery (CSRF)
 
 1. **[Paypal bug bounty: Updating the Paypal. me profile picture without consent (CSRF attack) - Florian Courtial](https://hethical.io/paypal-bug-bounty-updating-the-paypal-me-profile-picture-without-consent-csrf-attack/)**
 2. **[Hacking PayPal Accounts with one click (Patched) - Yasser Ali](http://yasserali.com/hacking-paypal-accounts-with-one-click/)**
@@ -266,7 +266,7 @@ published: true
 
 ---
 
-## CORS
+## Cross Origin Resource Sharing (CORS)
 
 1. [**CORS bug on google's 404 page (rewarded)**](https://medium.com/@jayateerthag/cors-bug-on-googles-404-page-rewarded-2163d58d3c8b) 
 2. [**CORS misconfiguration leading to private information disclosure**](https://medium.com/@sasaxxx777/cors-misconfiguration-leading-to-private-information-disclosure-3034cfcb4b93) 
@@ -290,7 +290,7 @@ published: true
 20. [**CORS Bypassing Misconfiguration Leads to Sensitive Exposure**](https://hackerone.com/reports/768151) 
 21. [**CORS misconfiguration allows to steal client's "password", Authorization token and the customer details e.g. names, SSN, bank account etc.**](https://hackerone.com/reports/688567) 
 
-## SOP
+## Same Origin Policy (SOP)
 
 1. [**SOP-bypass-via-browser-cache**](https://enumerated.wordpress.com/2019/12/24/sop-bypass-via-browser-cache/) 
 2. [**Google-sites-and-exploiting-same-origin-policy**](https://medium.com/@raushanraj_65039/google-sites-and-exploiting-same-origin-policy-d400bf569964)
@@ -325,7 +325,7 @@ published: true
 
 ---
 
-## Information Disc
+## Information Disclosure
 
 1. [**I-found-gcp-service-account-tokennow**](https://blog.carnal0wnage.com/2019/01/i-found-gcp-service-account-tokennow.html) **GCP**
 2. [**What-is-your-gcp-infra-worthabout-700**](https://blog.carnal0wnage.com/2020/03/what-is-your-gcp-infra-worthabout-700.html) **GCP**
@@ -346,7 +346,7 @@ published: true
 
 ---
 
-## DOS
+## Denial Of Service (DOS)
 
 1. [**Long String DOS**](https://medium.com/@shahjerry33/long-string-dos-6ba8ceab3aa0)
 2. [**Banner grabbing to DOS and memory corruption**](https://medium.com/bugbountywriteup/banner-grabbing-to-dos-and-memory-corruption-2442b1c25bbb)
@@ -370,7 +370,7 @@ published: true
 
 ---
 
-## S3
+##  Simple Storage Service (S3)
 
 1. [**Open AWS S3 bucket leaks all Images uploaded to Zomato chat**](https://hackerone.com/reports/507097)
 1. [**AWS S3 bucket writeable for authenticated aws users**](https://hackerone.com/reports/128088)
@@ -443,7 +443,7 @@ published: true
 
 ---
 
-## XXE
+## EXternal Xml Entity (XXE)
 
 1. [**External-xml-entity-via-file-upload-svg**](https://web.archive.org/web/20200724124912/https://blog.0xatul.me/posts/2020/02/external-xml-entity-via-file-upload-svg/)
 2. [**0day-writeup-xxe-in-ubercom**](https://httpsonly.blogspot.com/2017/01/0day-writeup-xxe-in-ubercom.html)
@@ -472,7 +472,7 @@ BLIND - XXE OOB ❌
 
 ---
 
-## IDOR
+## Insecure Direct Object References (IDOR)
 
 1. [**IDOR in HackerOne**](https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431) (Medium)
 2. [**IDOR with Geolocation data not stripped from images**](https://hackerone.com/reports/906907) (h1)
@@ -526,7 +526,7 @@ BLIND - XXE OOB ❌
 
 ---
 
-## Host Header Injection
+## Host Header Injection (HHI)
 
 1. [**Love-story-of-account-takeover-chaining**](https://chainlover.blogspot.com/2018/11/love-story-of-account-takeover-chaining.html) 
 2. [**Host-header-injection**](https://lightningsecurity.io/blog/host-header-injection/) 
@@ -556,7 +556,7 @@ BLIND - XXE OOB ❌
 
 ---
 
-## SSRF
+## server side request forgery (SSRF)
 
 1. **[SSRF to SQLI](https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299)**
 2. **[Escalating xss in phantomjs image rendering to ssrflocal file read](https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/)**
@@ -673,7 +673,7 @@ BLIND - XXE OOB ❌
 
 ## LFI/LFD - Path Traversal - RFI
 
-### **Remote File Inclusion**
+### **Remote File Inclusion** (RFI)
 
 1. **[Remote file Inclusion - RFI in upload](https://hackerone.com/reports/14092)**
 
@@ -686,7 +686,7 @@ BLIND - XXE OOB ❌
 5. **[Critical Full local fylesystem access (LFI/LFD) as admin via Path Traversal in the misconfigured Java servlet on the https://███/](https://hackerone.com/reports/497771)**
 6. **[Path traversal leading to limited CSRF on GET requests on two endpoints](https://hackerone.com/reports/301862)**
 
-### Local File Inclusion
+### **Local File Inclusion** (LFI)
 
 1. **[[https://███] Local File Inclusion via graph.php](https://hackerone.com/reports/492767)**
 2. **[Local File Inclusion In Registration Page](https://hackerone.com/reports/1007799)**
