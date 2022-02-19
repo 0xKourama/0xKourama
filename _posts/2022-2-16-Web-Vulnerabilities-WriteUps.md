@@ -7,6 +7,33 @@ toc: false
 published: true
 ---
 
+
+
+| Vulnerabilities Name                     |
+| ---------------------------------------- |
+| Cross Site Scripting (XSS)               |
+| Content Security Policy (CSP)            |
+| Html Injection                           |
+| Clickjacking (UI redressing)             |
+| Cross Site Request Forgery (CSRF)        |
+| Cross Origin Resource Sharing (CORS)     |
+| Same Origin Policy (SOP)                 |
+| Open Redirect                            |
+| Information Disclosure                   |
+| Denial Of Service (DOS)                  |
+| Simple Storage Service (S3)              |
+| SQLI                                     |
+| EXternal Xml Entity (XXE)                |
+| Insecure Direct Object References (IDOR) |
+| HTTP Parameter Pollution (HPP)           |
+| Host Header Injection (HHI)              |
+| Server Side Request Forgery (SSRF)       |
+| OS Command Injection                     |
+| LFI/LFD - Path Traversal - RFI           |
+| File Upload                              |
+
+
+
 ## Cross Site Scripting (XSS) 
 
 
