@@ -5,7 +5,6 @@ categories: [Writeups,Web-Vulnerabilities-Writeups]
 tags: [Writeups,XSS,CSP,SQLI,Open-Redirect,IDOR,HPP,Information-disclosure,CORS,SOP,XXE,DOS,html-injection,S3,clickjacking,host-header-injection,SSRF,os-command-injection,CSRF,LFI,LFD,path-traversal,RFI,file-upload]
 toc: false
 published: true
----
 
 ## Cross Site Scripting (XSS) 
 
@@ -274,7 +273,7 @@ published: true
 4. [**Chrome CORS**](https://blog.bi.tk/chrome-cors/) 
 5. [**Bypassing CORS**](https://medium.com/@saadahmedx/bypassing-cors-13e46987a45b) 
 6. [**An unexploited CORS misconfiguration reflects further issues**](https://smaranchand.com.np/2019/05/an-unexploited-cors-misconfiguration-reflecting-further-issues/) 
-7. [**Think outside the scope of advanced cors exploitation techniques**](https://medium.com/@sandh0t/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397)  **ADVANCED**
+7. [**Think outside the scope of advanced cors exploitation techniques**](https://medium.com/@sandh0t/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397) 
 8. [**A simple CORS misconfiguration leaked private post of Twitter Facebook Instagram**](https://medium.com/@nahoragg/a-simple-cors-misconfig-leaked-private-post-of-twitter-facebook-instagram-5f1a634feb9d) 
 9. [**Exploiting CORS misconfiguration**](https://bugbaba.blogspot.com/2018/02/exploiting-cors-miss-configuration.html) 
 10. [**Exploiting-misconfigured-cors-via-wildcard-subdomains**](http://www.geekboy.ninja/blog/exploiting-misconfigured-cors-via-wildcard-subdomains/) 
@@ -366,7 +365,7 @@ published: true
 16. [**Api.tumblr.com Denial of Service by cookies manipulation**](https://hackerone.com/reports/1005421)
 17. [**Application DOS via specially crafted payload on 3d.cs.money**](https://hackerone.com/reports/993582)
 18. [**Pixel Flood Attack leads to Application level DoS**](https://hackerone.com/reports/970760)
-19. [**lack of input validation that can lead Denial of Service (DOS)**](https://hackerone.com/reports/768677)pvotes, $560
+19. [**lack of input validation that can lead Denial of Service (DOS)**](https://hackerone.com/reports/768677)
 
 ---
 
@@ -395,7 +394,7 @@ published: true
 ## SQLI
 
 1. [**SQL injection in Harvard subdomain**](https://noob3xploiter.medium.com/sql-injection-in-harvard-subdomain-be67a5dbf664)
-1. [**SQLi in HackerOne (crit)**](https://hackerone.com/reports/363815)(https://hamzamohdzubair.github.io/redant/)
+1. [**SQLi in HackerOne (crit)**](https://hackerone.com/reports/363815)
 1. [**SSRF to sqli**](https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299)
 1. [**Blind sqli Hootsuite**](https://ahussam.me/Blind-sqli-Hootsuite/)
 1. [**Tesla motors blind sql injection**](https://bitquark.co.uk/blog/2014/02/23/tesla_motors_blind_sql_injection) **' + sleep(10) + '**
@@ -474,9 +473,9 @@ BLIND - XXE OOB ❌
 
 ## Insecure Direct Object References (IDOR)
 
-1. [**IDOR in HackerOne**](https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431) (Medium)
-2. [**IDOR with Geolocation data not stripped from images**](https://hackerone.com/reports/906907) (h1)
-3. [**IDOR in HackerOne**](https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431) (Medium)
+1. [**IDOR in HackerOne**](https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431)
+2. [**IDOR with Geolocation data not stripped from images**](https://hackerone.com/reports/906907)
+3. [**IDOR in HackerOne**](https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431)
 5. [**How-i-could-have-hacked-your-uber-account**](https://appsecure.security/blog/how-i-could-have-hacked-your-uber-account)
 6. [**IDOR-via-websockets**](https://footstep.ninja/posts/idor-via-websockets/)
 7. [**Fbctf-IDOR/**](https://georgeosterweil.com/2019-02-20-fbctf-idor/)
@@ -538,21 +537,21 @@ BLIND - XXE OOB ❌
 23. [**From-host-header-injection-to-sql-injection**](https://medium.com/@daoud_youssef/from-host-header-injection-to-sql-injection-e7c61a61b575) 
 24. [**Awesome-host-header-injection-worth-2k**](https://medium.com/@imunissar786/awesome-host-header-injection-worth-2k-a7e5be1dbb1d) 
 25. [**Bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie**](https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82)
-7. [**https://hackerone.com/reports/698416**](https://hackerone.com/reports/698416) 
-8. [**https://hackerone.com/reports/758380**](https://hackerone.com/reports/758380) 
-9. [**https://hackerone.com/reports/158019**](https://hackerone.com/reports/158019) 
-10. [**https://hackerone.com/reports/182670**](https://hackerone.com/reports/182670) 
-11. [**https://hackerone.com/reports/13286**](https://hackerone.com/reports/13286) 
-12. [**https://hackerone.com/reports/229498**](https://hackerone.com/reports/229498) 
-13. [**https://hackerone.com/reports/170333**](https://hackerone.com/reports/170333) 
-14. [**https://hackerone.com/reports/221908**](https://hackerone.com/reports/221908) 
-15. [**https://hackerone.com/reports/264405**](https://hackerone.com/reports/264405)  **CloudFlare**
-16. [**https://hackerone.com/reports/226659**](https://hackerone.com/reports/226659) 
-17. [**https://hackerone.com/reports/94637**](https://hackerone.com/reports/94637) 
-18. [**https://hackerone.com/reports/791293**](https://hackerone.com/reports/791293) 
-19. [**https://hackerone.com/reports/123513**](https://hackerone.com/reports/123513) 
-20. [**https://hackerone.com/reports/158482**](https://hackerone.com/reports/158482) 
-21. [**https://hackerone.com/reports/7357**](https://hackerone.com/reports/7357) 
+7. [**Host Header Injection**](https://hackerone.com/reports/698416) 
+8. [**Host header injection/redirection signup and login page**](https://hackerone.com/reports/758380) 
+9. [**Host Header Injection/Redirection in:https://www.instacart.com/**](https://hackerone.com/reports/158019) 
+10. [**Email link poisoning / Host header attack**](https://hackerone.com/reports/182670) 
+11. [**Host Header Injection - irccloud.com**](https://hackerone.com/reports/13286) 
+12. [**Host header injection/redirection via newsletter signup**](https://hackerone.com/reports/229498) 
+13. [**Host Header Injection/Redirection**](https://hackerone.com/reports/170333) 
+14. [**Host header Injection**](https://hackerone.com/reports/221908) 
+15. [**Header Injection In app.legalrobot.com**](https://hackerone.com/reports/264405)
+16. [**Password Reset link hijacking via Host Header Poisoning**](https://hackerone.com/reports/226659) 
+17. [**Host Header Injection/Redirection**](https://hackerone.com/reports/94637) 
+18. [**Modify Host Header which is sent to email**](https://hackerone.com/reports/791293) 
+19. [**Host Header Injection / Cache Poisoning**](https://hackerone.com/reports/123513) 
+20. [**Host Header poisoning on gratipay.com**](https://hackerone.com/reports/158482) 
+21. [**Host Header is not validated resulting in Open Redirect**](https://hackerone.com/reports/7357) 
 
 ---
 
