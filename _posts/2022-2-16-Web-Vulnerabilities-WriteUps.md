@@ -103,7 +103,7 @@ published: true
 1. [**Stored XSS on Google.com**](https://medium.com/@bughunter.sec7/stored-xss-on-google-com-e7ac12f03b8e)
 1. [**Stored XSS in the Guides gameplaersion (www.dota2.com)**](https://medium.com/@bughunter.sec7/stored-xss-in-the-guides-gameplayversion-www-dota2-com-775fa9a1889b)
 1. [**Admin google.com reflected XSS**](https://buer.haus/2015/01/21/admin-google-com-reflected-cross-site-scripting-xss/)
-1. **[Paypal Stored security bypass** ](https://blog.it-securityguard.com/bugbounty-paypal-stored-xss-security-bypass/)
+1. [**Paypal Stored security bypass** ](https://blog.it-securityguard.com/bugbounty-paypal-stored-xss-security-bypass/)
 1. [**Paypal DOM XSS main domain**](https://blog.it-securityguard.com/bugbounty-paypal-dom-xss-main-domain/)
 1. [**Bugbounty The 5k$ Google XSS**](https://blog.it-securityguard.com/bugbounty-the-5000-google-xss)
 1. [**Facebook stored XSS**](https://buer.haus/2014/06/16/facebook-stored-cross-site-scripting-xss-badges/)
@@ -382,22 +382,22 @@ BLIND - XXE OOB ❌
 1. [**https://hackerone.com/reports/207053**](https://hackerone.com/reports/207053)
 1. [**https://hackerone.com/reports/209251**](https://hackerone.com/reports/209251)
 1. [**https://hackerone.com/reports/129381**](https://hackerone.com/reports/129381)
-1. [**how-i-dumped-millions-of-crypto-currencies-accounts**](https://medium.com/@ddigvijay/how-i-dumped-millions-of-crypto-currencies-accounts-28d388053713)
+1. [**How-i-dumped-millions-of-crypto-currencies-accounts**](https://medium.com/@ddigvijay/how-i-dumped-millions-of-crypto-currencies-accounts-28d388053713)
 1. [**Subdomain Takeover on happymondays.starbucks.com due to non-used AWS S3 DNS record**](https://hackerone.com/reports/186766)
 1. [**Subdomain takeover via unsecured s3 bucket**](https://blog.securitybreached.org/2018/09/24/subdomain-takeover-via-unsecured-s3-bucket/)
 
 ## **Clickjacking (UI redressing)**
 
-1. [**clickjacking-on-google-myaccount-worth-7500**](https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500)
-2. [**how-i-earned-750-bounty-reward-from-at-t-bug-bounty-adesh-kolte**](https://medium.com/@adeshkolte/how-i-earned-750-bounty-reward-from-at-t-bug-bounty-adesh-kolte-ae62dea44083)
-3. [**binary-com-clickjacking-vulnerability-exploiting-html5-security-features-SandBox**](https://medium.com/@ameerassadi/binary-com-clickjacking-vulnerability-exploiting-html5-security-features-368c1ff2219d) 
+1. [**Clickjacking-on-google-myaccount-worth-7500**](https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500)
+2. [**How-i-earned-750-bounty-reward-from-at-t-bug-bounty-adesh-kolte**](https://medium.com/@adeshkolte/how-i-earned-750-bounty-reward-from-at-t-bug-bounty-adesh-kolte-ae62dea44083)
+3. [**Binary-com-clickjacking-vulnerability-exploiting-html5-security-features-SandBox**](https://medium.com/@ameerassadi/binary-com-clickjacking-vulnerability-exploiting-html5-security-features-368c1ff2219d) 
 4. [**1800-worth-clickjacking-1f92e79d0414**](https://medium.com/@osamaavvan/1800-worth-clickjacking-1f92e79d0414)
-5. [**account-taker-with-clickjacking**](https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3)
-6. [**clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a**](https://medium.com/@raushanraj_65039/clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a)
-7. [**google-clickjacking**](https://medium.com/@raushanraj_65039/google-clickjacking-6a04132b918a)
+5. [**Account-taker-with-clickjacking**](https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3)
+6. [**Clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a**](https://medium.com/@raushanraj_65039/clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a)
+7. [**Google-clickjacking**](https://medium.com/@raushanraj_65039/google-clickjacking-6a04132b918a)
 8. [**https://medium.com/bugbountywriteup/chaining-self-xss-with-ui-redressing-is-leading-to-session-hijacking-pwn-users-like-a-boss-efb46249cd14**](https://medium.com/bugbountywriteup/chaining-self-xss-with-ui-redressing-is-leading-to-session-hijacking-pwn-users-like-a-boss-efb46249cd14)
-9. [**facebook-clickjacking-how-we-put-a-new-dress-on-facebook-ui**](https://seekurity.com/blog/2016/04/22/admin/poc-gallery/facebook-clickjacking-how-we-put-a-new-dress-on-facebook-ui)
-10. [**clickjacking-xss-on-google-org**](https://websecblog.com/vulns/clickjacking-xss-on-google-org/)
+9. [**Facebook-clickjacking-how-we-put-a-new-dress-on-facebook-ui**](https://seekurity.com/blog/2016/04/22/admin/poc-gallery/facebook-clickjacking-how-we-put-a-new-dress-on-facebook-ui)
+10. [**Clickjacking-xss-on-google-org**](https://websecblog.com/vulns/clickjacking-xss-on-google-org/)
 11. [**Redressing Instagram leaking application tokens via Instagram clickjacking vulnerability**](https://www.seekurity.com/blog/general/redressing-instagram-leaking-application-tokens-via-instagram-clickjacking-vulnerability/)
 12. [**Microsoft Yammer clickjacking exploiting HTML5 security features**](https://www.seekurity.com/blog/general/microsoft-yammer-clickjacking-exploiting-html5-security-features/)
 13. [**Highly wormable clickjacking in player card**](https://hackerone.com/reports/85624) to Twitter - 127 upvotes, $5040
@@ -411,16 +411,16 @@ BLIND - XXE OOB ❌
 
 ## Host Header Injection
 
-1. [**love-story-of-account-takeover-chaining**](https://chainlover.blogspot.com/2018/11/love-story-of-account-takeover-chaining.html) 
-2. [**host-header-injection**](https://lightningsecurity.io/blog/host-header-injection/) 
-3. [**how-i-was-able-to-take-over-any-users-account-with-host-header-injection**](https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-take-over-any-users-account-with-host-header-injection-546fff6d0f2) 
-4. [**pwn-them-all-bugbounty**](https://medium.com/@bilalmerokhel/pwn-them-all-bugbounty-4ee60e13c83) 
-5. [**how-i-earned-800-for-host-header-injection-vulnerability**](https://pethuraj.com/blog/how-i-earned-800-for-host-header-injection-vulnerability/) 
+1. [**Love-story-of-account-takeover-chaining**](https://chainlover.blogspot.com/2018/11/love-story-of-account-takeover-chaining.html) 
+2. [**Host-header-injection**](https://lightningsecurity.io/blog/host-header-injection/) 
+3. [**How-i-was-able-to-take-over-any-users-account-with-host-header-injection**](https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-take-over-any-users-account-with-host-header-injection-546fff6d0f2) 
+4. [**Pwn-them-all-bugbounty**](https://medium.com/@bilalmerokhel/pwn-them-all-bugbounty-4ee60e13c83) 
+5. [**How-i-earned-800-for-host-header-injection-vulnerability**](https://pethuraj.com/blog/how-i-earned-800-for-host-header-injection-vulnerability/) 
 6. [**10k-host-header**](https://sites.google.com/site/testsitehacking/10k-host-header) 
-22. [**ato-via-host-header-poisoning**](https://sechunter.medium.com/ato-via-host-header-poisoning-dc5c29d2fd0d) 
-23. [**from-host-header-injection-to-sql-injection**](https://medium.com/@daoud_youssef/from-host-header-injection-to-sql-injection-e7c61a61b575) 
-24. [**awesome-host-header-injection-worth-2k**](https://medium.com/@imunissar786/awesome-host-header-injection-worth-2k-a7e5be1dbb1d) 
-25. [**bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie**](https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82)
+22. [**ATO-via-host-header-poisoning**](https://sechunter.medium.com/ato-via-host-header-poisoning-dc5c29d2fd0d) 
+23. [**From-host-header-injection-to-sql-injection**](https://medium.com/@daoud_youssef/from-host-header-injection-to-sql-injection-e7c61a61b575) 
+24. [**Awesome-host-header-injection-worth-2k**](https://medium.com/@imunissar786/awesome-host-header-injection-worth-2k-a7e5be1dbb1d) 
+25. [**Bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie**](https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82)
 7. [**https://hackerone.com/reports/698416**](https://hackerone.com/reports/698416) 
 8. [**https://hackerone.com/reports/758380**](https://hackerone.com/reports/758380) 
 9. [**https://hackerone.com/reports/158019**](https://hackerone.com/reports/158019) 
@@ -439,105 +439,106 @@ BLIND - XXE OOB ❌
 
 ## SSRF
 
-1. [ssrf to sqli](https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299)  (medium)
-2. *[https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/](https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/)*
-3. [https://www.linkedin.com/pulse/escalating-blind-ssrf-get-rce-santosh-kumar-sha](https://www.linkedin.com/pulse/escalating-blind-ssrf-get-rce-santosh-kumar-sha)
-4. *[http://web.archive.org/web/20190522083351/http://10degres.net/aws-takeover-ssrf-javascript/](http://web.archive.org/web/20190522083351/http://10degres.net/aws-takeover-ssrf-javascript/)*
-5. *[https://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html](https://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html)*
-6. http://10degres.net/aws-takeover-ssrf-javascript/
-7. http://blog.haao.sh/notes/downnotifer-ssrf/
-8. http://www.kernelpicnic.net/2017/05/29/Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul.html
-9. https://buer.haus/2016/04/18/esea-server-side-request-forgery-and-querying-aws-meta-data/
-10. https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/
-11. https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/
-12. https://dos.sh/blog/2017/6/21/yahoo-small-business-luminate-and-the-not-so-secret-keys
-13. https://evanricafort.blogspot.com/2019/08/ssrf-vulnerability-in.html
-14. https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/
-15. https://hk.saowen.com/a/a8d21c0bdf39e733395aefc0e331998e3d618558f90cf06135aa4df411804e59
-16. https://jinone.github.io/bugbounty-a-simple-ssrf/
-17. https://medium.com/@0ktavandi/blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration-60ebb6a40b5
-18. https://medium.com/@D0rkerDevil/how-i-convert-ssrf-to-xss-in-a-ssrf-vulnerable-jira-e9f37ad5b158
-19. https://medium.com/@GeneralEG/escalating-ssrf-to-rce-f28c482eb8b9
-20. https://medium.com/@Skylinearafat/how-outdated-jira-instances-suffers-from-multiple-security-vulnerabilities-6a88c45e9ec6
-21. https://medium.com/@adeshkolte/how-i-found-xss-via-ssrf-vulnerability-adesh-kolte-873b30a6b89f
-22. https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb
-23. https://medium.com/@armaanpathan/pdfreacter-ssrf-to-root-level-local-file-read-which-led-to-rce-eb460ffb3129
-24. https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5
-25. https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437
-26. https://medium.com/@elberandre/1-000-ssrf-in-slack-7737935d3884
-27. https://medium.com/@elberandre/ssrf-trick-ssrf-xspa-in-microsofts-bing-webmaster-central-8015b5d487fb
-28. https://medium.com/@know.0nix/hunting-good-bugs-with-only-html-d8fd40d17b38
-29. https://medium.com/@kurtikleiton/blind-ssrf-on-coda-io-c7063f304455
-30. https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915
-31. https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82
-32. https://medium.com/@logicbomb_1/the-unusual-case-of-open-redirection-to-aws-security-credentials-compromise-59acc312f02b
-33. https://medium.com/@maxon3/pcextreme-nl-fake-bug-bounty-1a8bf01d518f
-34. https://medium.com/@michan001/ssrf-on-pdf-generator-36b81e16d67b
-35. https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb
-36. https://medium.com/@ozguralp/using-vulnerability-analytics-feature-like-a-boss-655fc1f1543b
-37. https://medium.com/@pflash0x0punk/ssrf-via-ffmpeg-hls-processing-a04e0288a8c5
-38. https://medium.com/@pratiky054/ssrf-to-read-local-files-and-abusing-the-aws-metadata-8621a4bf382
-39. https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41
-40. https://medium.com/@rooterkaustubh/the-story-of-blind-ssrf-leads-to-internal-host-discovery-ee65b9b91e23
-41. https://medium.com/@rootxharsh_90844/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e
-42. https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532
-43. https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4
-44. https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f
-45. https://medium.com/@w_hat_boy/server-side-request-forgery-ssrf-port-issue-hidden-approch-f4e67bd8cc86
-46. https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326
-47. https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a
-48. https://medium.com/a-bugz-life/the-bugs-are-out-there-hiding-in-plain-sight-12d056613ea3
-49. https://medium.com/bugbountywriteup/bug-bounty-fastmail-feeda67905f5
-50. https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a
-51. https://mike-n1.github.io/SSRF_P4toP2
-52. https://ngailong.wordpress.com/2019/04/07/old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice/amp/
-53. https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/
-54. https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/
-55. https://philippeharewood.com/cve-2018-16794-on-fs-thefacebook-com/
-56. https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html
-57. https://www.ansariosama.com/2017/09/exploiting-single-request-for-multiple.html
-58. https://www.coengoedegebure.com/how-i-got-access-to-local-aws-info-via-jira/
-59. https://www.mohamedharon.com/2019/02/ssrf-server-side-request-forgery-in.html#.XGWpfioiVM4.twitter
-60. https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/
-61. https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/
-62. https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/
-63. https://www.shawarkhan.com/2018/05/getting-read-access-on-edmodo.html
-64. https://ysx.me.uk/a-pair-of-plotly-bugs-stored-xss-and-aws-metadata-ssrf/
-65. [Exploiting an SSRF trials and tribulations](https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a)
-66. [SSRF on PDF generator](https://medium.com/@michan001/ssrf-on-pdf-generator-36b81e16d67b)
-67. [Google VRP SSRF in Google cloud platform stackdriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/)
-68. [Vimeo upload function SSRF](https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437)
-69. [SSRF via ffmeg processing](https://medium.com/@pflash0x0punk/ssrf-via-ffmpeg-hls-processing-a04e0288a8c5)
-70. [My first SSRF using DNS rebinding](https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/)
-71. [Bugbounty simple SSRF](https://jin0ne.blogspot.com/2019/11/bugbounty-simple-ssrf.html)
-72. [SSRF reading local files from downnotifier server](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)
-73. [SSRF vulnerability](https://evanricafort.blogspot.com/2019/08/ssrf-vulnerability-in.html)
-74. [Gain adfly SMTP access with SSRF via gopher protocol](https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb)
-75. [Blind SSRF in stripe.com due to senntry misconfiguration](https://medium.com/@0ktavandi/blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration-60ebb6a40b5)
-76. [SSRF port issue hidden approch](https://medium.com/@w_hat_boy/server-side-request-forgery-ssrf-port-issue-hidden-approch-f4e67bd8cc86)
-77. [The jorney of web cache firewall bypass to SSRF to AWS credentials compromise](https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82)
-78. [SSRF to local file read and abusing aws metadata](https://medium.com/@pratiky054/ssrf-to-read-local-files-and-abusing-the-aws-metadata-8621a4bf382)
-79. [pdfreactor SSRF to root level local files read which lead to RCE](https://medium.com/@armaanpathan/pdfreacter-ssrf-to-root-level-local-file-read-which-led-to-rce-eb460ffb3129)
-80. [SSRF trick : SSRF XSPA in micosoft's bing webwaster](https://medium.com/@elberandre/ssrf-trick-ssrf-xspa-in-microsofts-bing-webmaster-central-8015b5d487fb)
-81. [Downnotifeer SSRF](https://m-q-t.github.io/notes/downnotifer-ssrf/)
-82. [Escalating SSRF to RCE](https://medium.com/cesppa/escalating-ssrf-to-rce-f28c482eb8b9)
-83. [Vimeo SSRF with code execution potential](https://medium.com/@rootxharsh_90844/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e)
-84. [SSRF in slack](https://medium.com/@elberandre/1-000-ssrf-in-slack-7737935d3884)
-85. [Exploiting SSRF like a boss](https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326)
-86. [AWS takeover SSRF javascript](http://10degres.net/aws-takeover-ssrf-javascript/)
-87. [Into the borg of SSRF inside google production network](https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/)
-88. [SSRF to local file disclosure](https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f)
-89. [How I found an SSRF in yahoo guesthouse (recon wins)](https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4)
-90. [Reading internal files using SSRF vulnerability](https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb)
-91. [Airbnb chaining third party open redirect into SSRF via liveperson chat](https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/)
-92. [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876)
-93. [SSRF using Javascript allows to exfill data from Google Metadata](https://hackerone.com/reports/530974)
-94. [SSRF in Google cloud platform stackdriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/)
-95. [SSRF to ROOT Access](https://hackerone.com/reports/341876)
-96. [SSRF reading local files from downnotifier server](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)
-97. [Facebook SSRF](https://medium.com/@amineaboud/10000-facebook-ssrf-bug-bounty-402bd21e58e5)
-98. [31k$ SSRF in Google Cloud Monitoring led to metadata exposure](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html)
-99. [How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!](http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html)
+1. **[SSRF to SQLI](https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299)**
+2. **[Escalating xss in phantomjs image rendering to ssrflocal file read](https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/)**
+3. **[Escalating-blind-ssrf-get-rce-santosh-kumar-sha](https://www.linkedin.com/pulse/escalating-blind-ssrf-get-rce-santosh-kumar-sha)**
+4. **[aws-takeover-ssrf-javascript](http://web.archive.org/web/20190522083351/http://10degres.net/aws-takeover-ssrf-javascript/)**
+5. **[Local-file-read-via-xss-in-dynamically](https://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html)**
+6. **[AWS-takeover-ssrf-javascript](http://10degres.net/aws-takeover-ssrf-javascript/)** 
+7. **[Downnotifer-ssrf](http://blog.haao.sh/notes/downnotifer-ssrf/)** 
+8. **[Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul](http://www.kernelpicnic.net/2017/05/29/Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul.html)**
+9. **[Esea-server-side-request-forgery-and-querying-aws-meta-data](https://buer.haus/2016/04/18/esea-server-side-request-forgery-and-querying-aws-meta-data/)**
+10. **[Airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat](https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/)**
+11. **[Escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/](https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/)**
+12. **[Yahoo-small-business-luminate-and-the-not-so-secret-keys](https://dos.sh/blog/2017/6/21/yahoo-small-business-luminate-and-the-not-so-secret-keys)**
+13. **[SSRF-vulnerability-in](https://evanricafort.blogspot.com/2019/08/ssrf-vulnerability-in.html)**
+14. **[My-first-ssrf-using-dns-rebinfing/](https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/)**
+16. **[Bugbounty-a-simple-ssrf/](https://jinone.github.io/bugbounty-a-simple-ssrf/)**
+17. **[Blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration](https://medium.com/@0ktavandi/blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration-60ebb6a40b5)**
+18. **[Jow-i-convert-ssrf-to-xss-in-a-ssrf-vulnerable-jira](https://medium.com/@D0rkerDevil/how-i-convert-ssrf-to-xss-in-a-ssrf-vulnerable-jira-e9f37ad5b158)**
+19. **[Escalating-ssrf-to-rce](https://medium.com/@GeneralEG/escalating-ssrf-to-rce-f28c482eb8b9)**
+20. **[How-outdated-jira-instances-suffers-from-multiple-security-vulnerabilities](https://medium.com/@Skylinearafat/how-outdated-jira-instances-suffers-from-multiple-security-vulnerabilities-6a88c45e9ec6)**
+21. **[How-i-found-xss-via-ssrf-vulnerability-adesh-kolte](https://medium.com/@adeshkolte/how-i-found-xss-via-ssrf-vulnerability-adesh-kolte-873b30a6b89f)**
+22. **[Gain-adfly-smtp-access-with-ssrf-via-gopher-protocol](https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb)**
+23. **[Pdfreacter-ssrf-to-root-level-local-file-read-which-led-to-rce](https://medium.com/@armaanpathan/pdfreacter-ssrf-to-root-level-local-file-read-which-led-to-rce-eb460ffb3129)**
+24. **[Piercing-the-veal-short-stories-to-read-with-friends](https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5)**
+25. **[Vimeo-upload-function-ssrf](https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437)**
+26. **[1-000-ssrf-in-slack](https://medium.com/@elberandre/1-000-ssrf-in-slack-7737935d3884)**
+27. **[SSRF-trick-ssrf-xspa-in-microsofts-bing-webmaster-central](https://medium.com/@elberandre/ssrf-trick-ssrf-xspa-in-microsofts-bing-webmaster-central-8015b5d487fb)**
+28. **[Hunting-good-bugs-with-only-html](https://medium.com/@know.0nix/hunting-good-bugs-with-only-html-d8fd40d17b38)**
+29. **[Blind-ssrf-on-coda-io](https://medium.com/@kurtikleiton/blind-ssrf-on-coda-io-c7063f304455)**
+30. **[Chain-of-hacks-leading-to-database-compromise](https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915)**
+31. **[The-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise](https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82)**
+32. **[The-unusual-case-of-open-redirection-to-aws-security-credentials-compromise](https://medium.com/@logicbomb_1/the-unusual-case-of-open-redirection-to-aws-security-credentials-compromise-59acc312f02b)**
+33. **[Pcextreme-nl-fake-bug-bounty](https://medium.com/@maxon3/pcextreme-nl-fake-bug-bounty-1a8bf01d518f)**
+34. **[SSRF-on-pdf-generator](https://medium.com/@michan001/ssrf-on-pdf-generator-36b81e16d67b)**
+35. **[Reading-internal-files-using-ssrf-vulnerability](https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb)**
+36. **[Using-vulnerability-analytics-feature-like-a-boss](https://medium.com/@ozguralp/using-vulnerability-analytics-feature-like-a-boss-655fc1f1543b)**
+37. **[SSRF-via-ffmpeg-hls-processing](https://medium.com/@pflash0x0punk/ssrf-via-ffmpeg-hls-processing-a04e0288a8c5)**
+38. **[SSRF-to-read-local-files-and-abusing-the-aws-metadata](https://medium.com/@pratiky054/ssrf-to-read-local-files-and-abusing-the-aws-metadata-8621a4bf382)**
+39. **[SSRF-in-openid-support](https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41)**
+40. **[Yhe-story-of-blind-ssrf-leads-to-internal-host-discovery](https://medium.com/@rooterkaustubh/the-story-of-blind-ssrf-leads-to-internal-host-discovery-ee65b9b91e23)**
+41. **[vimeo-ssrf-with-code-execution-potential](https://medium.com/@rootxharsh_90844/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e)**
+42. **[Just-another-tale-of-severe-bugs-on-a-private-program](https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532)**
+43. **[How-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4](https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4)**
+44. **[From-ssrf-to-local-file-disclosure](https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f)**
+45. **[SSRF-port-issue-hidden-approch](https://medium.com/@w_hat_boy/server-side-request-forgery-ssrf-port-issue-hidden-approch-f4e67bd8cc86)**
+46. **[Exploiting-ssrf-like-a-boss-c090dc63d326](https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326)**
+47. **[Exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a](https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a)**
+48. **[The-bugs-are-out-there-hiding-in-plain-sight-12d056613ea3](https://medium.com/a-bugz-life/the-bugs-are-out-there-hiding-in-plain-sight-12d056613ea3)**
+49. **[Bug-bounty-fastmail](https://medium.com/bugbountywriteup/bug-bounty-fastmail-feeda67905f5)**
+50. **[Piercing-the-veil-server-side-request-forgery-to-niprnet-access](https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a)**
+51. **[SSRF_P4toP2](https://mike-n1.github.io/SSRF_P4toP2)**
+52. **[Old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice](https://ngailong.wordpress.com/2019/04/07/old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice/amp/)**
+53. **[Google-vrp-ssrf-in-google-cloud-platform-stackdriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/)**
+54. **[Into-the-borg-ssrf-inside-google-production-network](https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/)**
+55. **[CVE-2018-16794-on-fs-thefacebook-com](https://philippeharewood.com/cve-2018-16794-on-fs-thefacebook-com/)**
+56. **[Stored-XSS-and-SSRF-Google](https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html)**
+57. **[Exploiting-single-request-for-multiple](https://www.ansariosama.com/2017/09/exploiting-single-request-for-multiple.html)**
+58. **[How-i-got-access-to-local-aws-info-via-jira](https://www.coengoedegebure.com/how-i-got-access-to-local-aws-info-via-jira/)**
+59. **[SSRF-in.html#.XGWpfioiVM4.twitter](https://www.mohamedharon.com/2019/02/ssrf-server-side-request-forgery-in.html#.XGWpfioiVM4.twitter)**
+60. **[SSRF-reading-local-files-from-downnotifier-server/](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)**
+61. **[Ok-google-give-me-all-your-internal-dns-information/](https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/)**
+62. **[01-slack-webrtc-turn-compromise/](https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/)**
+63. **[Getting-read-access-on-edmodo.html](https://www.shawarkhan.com/2018/05/getting-read-access-on-edmodo.html)**
+64. **[A-pair-of-plotly-bugs-stored-xss-and-aws-metadata-ssrf/](https://ysx.me.uk/a-pair-of-plotly-bugs-stored-xss-and-aws-metadata-ssrf/)**
+65. **[Exploiting an SSRF trials and tribulations](https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a)**
+66. **[SSRF on PDF generator](https://medium.com/@michan001/ssrf-on-pdf-generator-36b81e16d67b)**
+67. **[Google VRP SSRF in Google cloud platform stackdriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/)**
+68. **[Vimeo upload function SSRF](https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437)**
+69. **[SSRF via ffmeg processing](https://medium.com/@pflash0x0punk/ssrf-via-ffmpeg-hls-processing-a04e0288a8c5)**
+70. **[My first SSRF using DNS rebinding](https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/)**
+71. **[Bugbounty simple SSRF](https://jin0ne.blogspot.com/2019/11/bugbounty-simple-ssrf.html)**
+72. **[SSRF reading local files from downnotifier server](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)**
+73. **[SSRF vulnerability](https://evanricafort.blogspot.com/2019/08/ssrf-vulnerability-in.html)**
+74. **[Gain adfly SMTP access with SSRF via gopher protocol](https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb)**
+75. **[Blind SSRF in stripe.com due to senntry misconfiguration](https://medium.com/@0ktavandi/blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration-60ebb6a40b5)**
+76. **[SSRF port issue hidden approch](https://medium.com/@w_hat_boy/server-side-request-forgery-ssrf-port-issue-hidden-approch-f4e67bd8cc86)**
+77. **[The jorney of web cache firewall bypass to SSRF to AWS credentials compromise](https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82)**
+78. **[SSRF to local file read and abusing aws metadata](https://medium.com/@pratiky054/ssrf-to-read-local-files-and-abusing-the-aws-metadata-8621a4bf382)**
+79. **[pdfreactor SSRF to root level local files read which lead to RCE](https://medium.com/@armaanpathan/pdfreacter-ssrf-to-root-level-local-file-read-which-led-to-rce-eb460ffb3129)**
+80. **[SSRF trick : SSRF XSPA in micosoft's bing webwaster](https://medium.com/@elberandre/ssrf-trick-ssrf-xspa-in-microsofts-bing-webmaster-central-8015b5d487fb)**
+81. **[Downnotifeer SSRF](https://m-q-t.github.io/notes/downnotifer-ssrf/)**
+82. **[Escalating SSRF to RCE](https://medium.com/cesppa/escalating-ssrf-to-rce-f28c482eb8b9)**
+83. **[Vimeo SSRF with code execution potential](https://medium.com/@rootxharsh_90844/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e)**
+84. **[SSRF in slack](https://medium.com/@elberandre/1-000-ssrf-in-slack-7737935d3884)**
+85. **[Exploiting SSRF like a boss](https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326)**
+86. **[AWS takeover SSRF javascript](http://10degres.net/aws-takeover-ssrf-javascript/)**
+87. **[Into the borg of SSRF inside google production network](https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/)**
+88. **[SSRF to local file disclosure](https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f)**
+89. **[How I found an SSRF in yahoo guesthouse (recon wins)](https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4)**
+90. **[Reading internal files using SSRF vulnerability](https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb)**
+91. **[Airbnb chaining third party open redirect into SSRF via liveperson chat](https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/)**
+92. **[SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876)**
+93. **[SSRF using Javascript allows to exfill data from Google Metadata](https://hackerone.com/reports/530974)**
+94. **[SSRF in Google cloud platform stackdriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/)**
+95. **[SSRF to ROOT Access](https://hackerone.com/reports/341876)**
+96. **[SSRF reading local files from downnotifier server](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)**
+97. **[Facebook SSRF](https://medium.com/@amineaboud/10000-facebook-ssrf-bug-bounty-402bd21e58e5)**
+98. **[31k$ SSRF in Google Cloud Monitoring led to metadata exposure](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html)**
+99. **[How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!](http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html)**
+100. **[My Expense Report resulted in a Server-Side Request Forgery (SSRF) on Lyft to Lyft](https://hackerone.com/reports/885975)**
+101. **[SSRF in Exchange leads to ROOT access in all instances to Shopify](https://hackerone.com/reports/341876)**
 
 ## OS Command Injection
 
