@@ -7,7 +7,8 @@ toc: false
 published: true
 ---
 
-## Cross Site Scripting (XSS)
+## Cross Site Scripting (XSS) [![](https://img.shields.io/badge/Medium-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+
 
 1. [**From P5 to P2 to 100 BXSS**](https://medium.com/@mohameddaher/from-p5-to-p5-to-p2-from-nothing-to-1000-bxss-4dd26bc30a82)
 1. [**Google Acquisition XSS (Apigee)**](https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4)
@@ -35,7 +36,7 @@ published: true
 1. [**Blind XSS : a mind Game**](https://medium.com/@dirtycoder0124/blind-xss-a-mind-game-to-win-the-battle-4fc67c524678?)
 1. [**FireFox IOS QR code reader XSS(CVE-2019-17003)**](https://payatu.com/blog/nikhil-mittal/firefox-ios-qr-code-reader-xss-(cve-2019-17003))
 1. [**HTML injection to XSS**](https://evanricafort.blogspot.com/2019/12/html-injection-to-xss-bypass-in.html)
-1. [**CVE-2020-13487 Authenticated Stored Cross-site Scripting in bbPress**](https://hackerone.com/reports/881918)
+1. [**CVE-2020-13487 Authenticated Stored Cross-site Scripting in bbPress**](https://hackerone.com/reports/881918) [![](https://img.shields.io/badge/h1-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
 1. [**XSS at error page of repository code**](https://medium.com/@navne3t/150-xss-at-error-page-of-respository-code-4fc628892742)
 1. [**XSS like a Pro**](https://www.hackerinside.me/2019/12/xss-like-pro.html)
 1. [**How I turned self XSS to stored XSS via CSRF**](https://medium.com/@abhishake100/how-i-turned-self-xss-to-stored-via-csrf-d12eaaf59f2e)
@@ -113,15 +114,15 @@ published: true
 
 ## CSP
 
-1. [**csp bypass + xss**](https://hackerone.com/reports/153666)
-2. [**www.hackerone.com website CSP "script-src" includes "unsafe-inline"**](https://hackerone.com/reports/225833)
-3. [**https://wakatime.com/ website CSP "script-src" includes "unsafe-inline"**](https://hackerone.com/reports/244766)
-4. [**Unsafe Inline and Eval CSP Usage**](https://hackerone.com/reports/244724)
+1. [**csp bypass + xss**](https://hackerone.com/reports/153666) [![](https://img.shields.io/badge/h1-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
+2. [**www.hackerone.com website CSP "script-src" includes "unsafe-inline"**](https://hackerone.com/reports/225833) [![](https://img.shields.io/badge/h1-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/) 
+3. [**https://wakatime.com/ website CSP "script-src" includes "unsafe-inline"**](https://hackerone.com/reports/244766) [![](https://img.shields.io/badge/h1-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
+4. [**Unsafe Inline and Eval CSP Usage**](https://hackerone.com/reports/244724) [![](https://img.shields.io/badge/h1-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
 
 ## SQLI
 
 1. [**SQL injection in Harvard subdomain**](https://noob3xploiter.medium.com/sql-injection-in-harvard-subdomain-be67a5dbf664)
-1. [**SQLi in HackerOne (crit)**](https://hackerone.com/reports/363815)
+1. [**SQLi in HackerOne (crit)**](https://hackerone.com/reports/363815) [![](https://img.shields.io/badge/h1-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
 1. [**SSRF to sqli**](https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299)
 1. [**Blind sqli Hootsuite**](https://ahussam.me/Blind-sqli-Hootsuite/)
 1. [**Tesla motors blind sql injection**](https://bitquark.co.uk/blog/2014/02/23/tesla_motors_blind_sql_injection) **' + sleep(10) + '**
