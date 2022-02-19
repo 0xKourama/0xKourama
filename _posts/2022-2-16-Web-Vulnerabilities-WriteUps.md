@@ -232,7 +232,7 @@ published: true
 38. [**IDOR - Deleting other user's signature via /appsuite/api/snippet?action=update (although an error is thrown)**](https://hackerone.com/reports/199321)
 39. [**IDOR to view User Order Information**](https://hackerone.com/reports/287789)
 
-## HTTP Parameter Pollution
+## HTTP Parameter Pollution (HPP)
 
 1. [**Recaptcha-bypass-via-http-parameter-pollution**](https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution/)
 2. [**Twitter-hpp-vulnerability**](https://blog.mert.ninja/twitter-hpp-vulnerability/)
@@ -241,7 +241,6 @@ published: true
 5. [**Bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http**](https://logicbomb.medium.com/bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http-4288068b901f)
 6. [**From-parameter-pollution-to-xss**](https://medium.com/@momenbasel/from-parameter-pollution-to-xss-d095e13be060)
 7. [**How-i-earned-60k-from-private-program**](https://medium.com/@sivakrishnasamireddi/how-i-earned-60k-from-private-program-71bd51554490)
-8. [**https://hackerone.com/reports/10553**](https://hackerone.com/reports/105953)
 
 ## Information Disc
 
@@ -252,7 +251,7 @@ published: true
 5. [**From-github-recon-to-account-takeover**](https://addictivehackers.blogspot.com/2019/08/from-github-recon-to-account-takeover.html) **ATO**
 6. [**Graphql-bug-to-steal-anyones-address**](https://medium.com/@pratiky054/graphql-bug-to-steal-anyones-address-fc34f0374417) **GraphQl**
 7. [**How-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores**](https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd) **IMPORTANT**
-8. [**https://web.archive.org/web/20191204223739/https://daleys.space/writeup/0day/2019/09/09/verizon-leak.html**](https://web.archive.org/web/20191204223739/https://daleys.space/writeup/0day/2019/09/09/verizon-leak.html)
+8. [**Accessing 2 million Verizon Pay Monthly contracts**](https://web.archive.org/web/20191204223739/https://daleys.space/writeup/0day/2019/09/09/verizon-leak.html)
 9. [**Business-logic-plex-tv**](https://blog.evanricafort.com/2019/07/business-logic-plex-tv.html)
 10. [**Leak-can-i-take-user-information-please**](https://flex0geek.blogspot.com/2019/10/leak-can-i-take-user-information-please.html)
 11. [**How-i-could-have-hacked-all-uber-accounts**](https://hackernoon.com/how-i-could-have-hacked-all-uber-accounts-rtzl3z72)
@@ -273,18 +272,18 @@ published: true
 7. [**Think outside the scope of advanced cors exploitation techniques**](https://medium.com/@sandh0t/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397)  **ADVANCED**
 8. [**A simple CORS misconfiguration leaked private post of Twitter Facebook Instagram**](https://medium.com/@nahoragg/a-simple-cors-misconfig-leaked-private-post-of-twitter-facebook-instagram-5f1a634feb9d) 
 9. [**Exploiting CORS misconfiguration**](https://bugbaba.blogspot.com/2018/02/exploiting-cors-miss-configuration.html) 
-10. [**exploiting-misconfigured-cors-via-wildcard-subdomains**](http://www.geekboy.ninja/blog/exploiting-misconfigured-cors-via-wildcard-subdomains/) 
+10. [**Exploiting-misconfigured-cors-via-wildcard-subdomains**](http://www.geekboy.ninja/blog/exploiting-misconfigured-cors-via-wildcard-subdomains/) 
 11. [**Exploiting insecure CORS API api.artsy.net**](https://blog.securitybreached.org/2017/10/10/exploiting-insecure-cross-origin-resource-sharing-cors-api-artsy-net) 
 12. [**Pre domain wildcard CORS exploitation**](https://medium.com/bugbountywriteup/pre-domain-wildcard-cors-exploitation-2d6ac1d4bd30) 
 13. [**Exploiting misconfigured CORS on popular BTC site**](https://medium.com/@arbazhussain/exploiting-misconfigured-cors-on-popular-btc-site-2aedfff906f6) 
 14. [**Cross-origin resource sharing misconfig  steal user information bughunterboy bughunterboy**](https://hackerone.com/reports/235200) 
 15. [**[██████] Cross-origin resource sharing misconfiguration (CORS) Vadim jarvis7**](https://hackerone.com/reports/470298) 
-16. [**https://hackerone.com/reports/758785**](https://hackerone.com/reports/758785) 
-17. [**https://hackerone.com/reports/426165**](https://hackerone.com/reports/426165) 
-18. [**https://hackerone.com/reports/896093**](https://hackerone.com/reports/896093) 
-19. [**https://hackerone.com/reports/733017**](https://hackerone.com/reports/733017) 
-20. [**https://hackerone.com/reports/768151**](https://hackerone.com/reports/768151) 
-21. [**https://hackerone.com/reports/688567**](https://hackerone.com/reports/688567) 
+16. [**CORS Misconfiguration on nordvpn.com leading to Private Information Disclosure,Account takeover**](https://hackerone.com/reports/758785) 
+17. [**CORS Misconfiguration [www.zomato.com], could lead to disclosure of sensitive information**](https://hackerone.com/reports/426165) 
+18. [**CORS misconfiguration**](https://hackerone.com/reports/896093) 
+19. [**CORS Misconfiguration Leads to Exposing User Data**](https://hackerone.com/reports/733017) 
+20. [**CORS Bypassing Misconfiguration Leads to Sensitive Exposure**](https://hackerone.com/reports/768151) 
+21. [**CORS misconfiguration allows to steal client's "password", Authorization token and the customer details e.g. names, SSN, bank account etc.**](https://hackerone.com/reports/688567) 
 
 ## SOP
 
@@ -293,9 +292,9 @@ published: true
 3. [**SOP-bypass**](https://medium.com/bugbountywriteup/sop-bypass-ecae7f4a5c00 )
 4. [**Stealing-local-files-with-simple-html-file**](https://www.netsparker.com/blog/web-security/stealing-local-files-with-simple-html-file/ )
 5. [**Hacking-the-same-origin-policy**](https://medium.com/swlh/hacking-the-same-origin-policy-f9f49ad592fc)
-6. [**https://hackerone.com/reports/244504**](https://hackerone.com/reports/244504) 
-7. [**https://hackerone.com/reports/103787**](https://hackerone.com/reports/103787)
-8. [**https://hackerone.com/reports/761726**](https://hackerone.com/reports/761726) 
+6. [**Possible SOP bypass in www.starbucks.com due to insecure crossdomain.xml**](https://hackerone.com/reports/244504) 
+7. [**CSRF possible when SOP Bypass/UXSS is available**](https://hackerone.com/reports/103787)
+8. [**SOP bypass using browser cache**](https://hackerone.com/reports/761726) 
 
 ## XXE
 
@@ -309,9 +308,8 @@ published: true
 10. [**From-blind-xxe-to-root-level-file-read-access**](https://honoki.net/2018/12/12/from-blind-xxe-to-root-level-file-read-access/)
 14. [**SOAP-based-unauthenticated-out-of-band-xml-external-entity-oob-xxe-in-a-help-desk-software**](https://infosecwriteups.com/soap-based-unauthenticated-out-of-band-xml-external-entity-oob-xxe-in-a-help-desk-software-c27a6abf182a)
 15. [**How-i-loose-5005-in-a-day-dos-billion-laugh-attack-xxe**](https://www.protector47.com/2020/03/08/how-i-loose-5005-in-a-day-dos-billion-laugh-attack-xxe/)
-17. [**Hackerone-tops_by_bug_type**](https://github.com/0xKourama/hackerone-reports/blob/master/tops_by_bug_type/TOPXXE.md)
-18. [**https://hackerone.com/reports/500515**](https://hackerone.com/reports/500515)
-9. [**https://hackerone.com/reports/248668**](https://hackerone.com/reports/248668)
+18. [**XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx**](https://hackerone.com/reports/500515)
+19. [**XXE on sms-be-vip.twitter.com in SXMP Processor**](https://hackerone.com/reports/248668)
 
 BLIND - XXE OOB ❌
 
@@ -321,9 +319,9 @@ BLIND - XXE OOB ❌
 12. [**Blind-xml-external-entities-out-of-band-channel-vulnerability-paypal-case-study**](https://r00thunt.com/2018/10/05/blind-xml-external-entities-out-of-band-channel-vulnerability-paypal-case-study/)
 13. [**OOB-xxe-in-prizmdoc-cve-2018-15805**](https://blog.niksthehacker.com/oob-xxe-in-prizmdoc-cve-2018-15805-dfb1e474345c)
 14. [**Exploiting-out-of-band-xxe-using**](https://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html)
-15. [**https://hackerone.com/reports/33448**8](https://hackerone.com/reports/334488)
-16. [**https://hackerone.com/reports/395296**](https://hackerone.com/reports/395296)
-17. [**https://hackerone.com/reports/312543**](https://hackerone.com/reports/312543)
+15. [**Blind XXE via Powerpoint files**](https://hackerone.com/reports/334488)
+16. [**Phone Call to XXE via Interactive Voice Response**](https://hackerone.com/reports/395296)
+17. [**XXE in Site Audit function exposing file and directory contents**](https://hackerone.com/reports/312543)
 
 ## DOS
 
@@ -333,7 +331,7 @@ BLIND - XXE OOB ❌
 4. [**XMLRPC.php FILE IS enable it will used for Bruteforce attack and Denial of Service(DoS)**](https://hackerone.com/reports/752073) to Nord Security - 146 upvotes, $200
 5. [**XMLRPC.php FILE IS enable it will be used for brute force attack and denial of service**](https://hackerone.com/reports/325040) to LocalTapiola - 20 upvotes, $315
 6. [**DOS on the Issue page by exploiting Mermaid.**](https://hackerone.com/reports/470067) to GitLab - 137 upvotes, $3000
-7. [**character limitation bypass can lead to DoS on Twitter App and 500 Internal Server Error**](https://hackerone.com/reports/819088) to Twitter - 136 upvotes, $560
+7. [**Character limitation bypass can lead to DoS on Twitter App and 500 Internal Server Error**](https://hackerone.com/reports/819088) to Twitter - 136 upvotes, $560
 8. [**Permanent DoS with one click.**](https://hackerone.com/reports/975827) to Automattic - 123 upvotes, $250
 9. [**A very long name in hey.com can prevent anyone from accessing their contacts and probably can cause denial of service**](https://hackerone.com/reports/1018037) to Basecamp - 116 upvotes, $1000
 10. [**ActiveStorage throws exception when using whitespace as filename, may lead to denial of service of multiple pages**](https://hackerone.com/reports/713407) to HackerOne - 102 upvotes, $2500
@@ -342,7 +340,7 @@ BLIND - XXE OOB ❌
 13. [**DOS of https://nordvpn.com/ via CVE-2018-6389 exploitation**](https://hackerone.com/reports/752010) to Nord Security - 70 upvotes, $200
 14. [**Denial of Service [Chrome]**](https://hackerone.com/reports/921286) to Twitter - 64 upvotes, $560
 15. [**DOS: type confusion in mrb_no_method_error**](https://hackerone.com/reports/181871) to Shopify-scripts - 60 upvotes, $20000
-16. [**api.tumblr.com Denial of Service by cookies manipulation**](https://hackerone.com/reports/1005421) to Automatic - 51 upvotes, $200
+16. [**Api.tumblr.com Denial of Service by cookies manipulation**](https://hackerone.com/reports/1005421) to Automatic - 51 upvotes, $200
 17. [**Application DOS via specially crafted payload on 3d.cs.money**](https://hackerone.com/reports/993582) to CS Money - 35 upvotes, $200
 18. [**Pixel Flood Attack leads to Application level DoS**](https://hackerone.com/reports/970760) to CS Money - 20 upvotes, $200
 19. [**lack of input validation that can lead Denial of Service (DOS)**](https://hackerone.com/reports/768677) to Twitter - 17 upvotes, $560
@@ -365,20 +363,20 @@ BLIND - XXE OOB ❌
 
 
 
-1. [**https://hackerone.com/reports/507097**](https://hackerone.com/reports/507097)
-1. [**https://hackerone.com/reports/128088**](https://hackerone.com/reports/128088)
-1. [**https://hackerone.com/reports/819278**](https://hackerone.com/reports/819278) 
-1. [**https://hackerone.com/reports/209223**](https://hackerone.com/reports/209223) 
-1. [**https://hackerone.com/reports/764243**](https://hackerone.com/reports/764243) 
-1. [**https://hackerone.com/reports/809212**](https://hackerone.com/reports/809212) 
-1. [**https://hackerone.com/reports/229690**](https://hackerone.com/reports/229690) 
-1. [**https://hackerone.com/reports/278191**](https://hackerone.com/reports/278191) 
-1. [**https://hackerone.com/reports/1276733**](https://hackerone.com/reports/1276733)
-1. [**https://hackerone.com/reports/1316650**](https://hackerone.com/reports/1316650)
-1. [**https://hackerone.com/reports/947725**](https://hackerone.com/reports/947725)
-1. [**https://hackerone.com/reports/207053**](https://hackerone.com/reports/207053)
-1. [**https://hackerone.com/reports/209251**](https://hackerone.com/reports/209251)
-1. [**https://hackerone.com/reports/129381**](https://hackerone.com/reports/129381)
+1. [**Open AWS S3 bucket leaks all Images uploaded to Zomato chat**](https://hackerone.com/reports/507097)
+1. [**AWS S3 bucket writeable for authenticated aws users**](https://hackerone.com/reports/128088)
+1. [**Open S3 Bucket Accessible by any Aws User**](https://hackerone.com/reports/819278) 
+1. [**Open S3 Bucket WriteAble To Any Aws User**](https://hackerone.com/reports/209223) 
+1. [**API - Amazon S3 bucket misconfiguration**](https://hackerone.com/reports/764243) 
+1. [**No ACL on S3 Bucket in [https://www.██████████/]**](https://hackerone.com/reports/809212) 
+1. [**Amazon S3 bucket misconfiguration (share)**](https://hackerone.com/reports/229690) 
+1. [**Listing of Amazon S3 Bucket accessible to any amazon authenticated user (metrics.pscp.tv)**](https://hackerone.com/reports/278191) 
+1. [**S3 bucket Upload on studio.redditinc.com (s3-r-w.ap-east-1.amazonaws.com)**](https://hackerone.com/reports/1276733)
+1. [**unclaimed s3 bucket takeover in the 3 js file located on the github page of brave software**](https://hackerone.com/reports/1316650)
+1. [**S3 bucket data at http://rockset-support.s3-us-west-2.amazonaws.com/ reveals user addresses based on latitudes and longitudes.**](https://hackerone.com/reports/947725)
+1. [**Writable RubyCi Amazon s3 bucket**](https://hackerone.com/reports/207053)
+1. [**public report - Reproducible - Writable RubyCi Amazon s3 bucket[207053]**](https://hackerone.com/reports/209251)
+1. [**niche s3 buckets are readable/writeable/deleteable by authorized AWS users**](https://hackerone.com/reports/129381)
 1. [**How-i-dumped-millions-of-crypto-currencies-accounts**](https://medium.com/@ddigvijay/how-i-dumped-millions-of-crypto-currencies-accounts-28d388053713)
 1. [**Subdomain Takeover on happymondays.starbucks.com due to non-used AWS S3 DNS record**](https://hackerone.com/reports/186766)
 1. [**Subdomain takeover via unsecured s3 bucket**](https://blog.securitybreached.org/2018/09/24/subdomain-takeover-via-unsecured-s3-bucket/)
@@ -397,14 +395,14 @@ BLIND - XXE OOB ❌
 10. [**Clickjacking-xss-on-google-org**](https://websecblog.com/vulns/clickjacking-xss-on-google-org/)
 11. [**Redressing Instagram leaking application tokens via Instagram clickjacking vulnerability**](https://www.seekurity.com/blog/general/redressing-instagram-leaking-application-tokens-via-instagram-clickjacking-vulnerability/)
 12. [**Microsoft Yammer clickjacking exploiting HTML5 security features**](https://www.seekurity.com/blog/general/microsoft-yammer-clickjacking-exploiting-html5-security-features/)
-13. [**Highly wormable clickjacking in player card**](https://hackerone.com/reports/85624) to Twitter - 127 upvotes, $5040
-14. [**Twitter Periscope Clickjacking Vulnerability**](https://hackerone.com/reports/591432) to Twitter - 125 upvotes, $1120
-15. [**Clickjacking on donation page**](https://hackerone.com/reports/921709) to WordPress - 88 upvotes, $50
-16. [**Stealing User emails by clickjacking cards.twitter.com/xxx/xxx**](https://hackerone.com/reports/154963) to Twitter - 49 upvotes, $1120
-17. [**Clickjacking at join.nordvpn.com**](https://hackerone.com/reports/765955) to Nord Security - 17 upvotes, $100
-18. [**Clickjacking is the admin page**](https://hackerone.com/reports/728004) to Rocket.Chat - 16 upvotes, $0
-19. [**Clickjacking on cas.acronis.com login page**](https://hackerone.com/reports/971234) to Acronis - 16 upvotes, $0
-20. [**Clickjacking at ylands.com**](https://hackerone.com/reports/405342) to BOHEMIA INTERACTIVE a.s. - 15 upvotes, $80
+13. [**Highly wormable clickjacking in player card**](https://hackerone.com/reports/85624)
+14. [**Twitter Periscope Clickjacking Vulnerability**](https://hackerone.com/reports/591432)
+15. [**Clickjacking on donation page**](https://hackerone.com/reports/921709)
+16. [**Stealing User emails by clickjacking cards.twitter.com/xxx/xxx**](https://hackerone.com/reports/154963)
+17. [**Clickjacking at join.nordvpn.com**](https://hackerone.com/reports/765955)
+18. [**Clickjacking is the admin page**](https://hackerone.com/reports/728004)
+19. [**Clickjacking on cas.acronis.com login page**](https://hackerone.com/reports/971234)
+20. [**Clickjacking at ylands.com**](https://hackerone.com/reports/405342)
 
 ## Host Header Injection
 
@@ -547,109 +545,107 @@ BLIND - XXE OOB ❌
 
 ## CSRF
 
-1. [Paypal bug bounty: Updating the Paypal. me profile picture without consent (CSRF attack) - Florian Courtial](https://hethical.io/paypal-bug-bounty-updating-the-paypal-me-profile-picture-without-consent-csrf-attack/) 
-2. [Hacking PayPal Accounts with one click (Patched) - Yasser Ali](http://yasserali.com/hacking-paypal-accounts-with-one-click/) 
-3. [Add tweet to collection CSRF - Vijay Kumar](https://hackerone.com/reports/100820) 
-4. [Facebookmarketingdevelopers.com: Proxies, CSRF Quandry, and API Fun - phwd](http://philippeharewood.com/facebookmarketingdevelopers-com-proxies-csrf-quandry-and-api-fun/)
-5. [How I Hack your Beats account? Apple Bug Bounty - @aaditya_purani](https://aadityapurani.com/2016/07/20/how-i-hacked-your-beats-account-apple-bug-bounty/)
-6. [FORM POST JSON: JSON CSRF on POST Heartbeats API - Dr.Jones](https://hackerone.com/reports/245346)
-7. [Hacking Facebook accounts using CSRF in Oculus-Facebook integration](https://www.josipfranjkovic.com/blog/hacking-facebook-oculus-integration-csrf)
-8. [Cross site request forgery (CSRF) - Sjoerd Langkemper - Jan 9, 2019](http://www.sjoerdlangkemper.nl/2019/01/09/csrf/)
-9. [Cross-Site Request Forgery Attack - PwnFunction](https://www.youtube.com/watch?v=eWEgUcHPle0)
-10. [Wiping Out CSRF - Joe Rozner - Oct 17, 2017](https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f)
-11. [Bypass referer check logic for CSRF](https://www.hahwul.com/2019/10/11/bypass-referer-check-logic-for-csrf/)
-12. [https://www.hahwul.com/2019/10/bypass-referer-check-logic-for-csrf.html](https://www.hahwul.com/2019/10/bypass-referer-check-logic-for-csrf.html)
-13. [https://whitton.io/articles/messenger-site-wide-csrf/](https://whitton.io/articles/messenger-site-wide-csrf/)
-14. https://medium.com/@saadahmedx/bypass-csrf-with-clickjacking-worth-1250-6c70cc263f40
-15. [Bypass CSRF with clickjacking on Google org](https://medium.com/@saadahmedx/bypass-csrf-with-clickjacking-worth-1250-6c70cc263f40)
-16. [CSRF combined with IDOR within Document Converter exposes files](https://hackerone.com/reports/398316) to Open-Xchange - 51 upvotes, $500
-17. [Clickjacking & CSRF attack can be done at https://app.mavenlink.com/login](https://hackerone.com/reports/14494) to Mavenlink - 1 upvotes, $0
-18. http://infosecflash.com/2019/01/05/how-i-could-have-taken-over-any-pinterest-account/
-19. https://ahussam.me/Leaking-WordPress-CSRF-Tokens/
-20. https://blog.ayoubaitelmokhtar.com/2018/06/paypal-bbp-i-couldve-deleted-all-smc.html
-21. https://blog.darabi.me/2019/12/instagram-delete-media-csrf.html
-22. https://blog.ripstech.com/2019/wordpress-csrf-to-rce/
-23. https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/
-24. https://blog.securityevaluators.com/collecting-shells-by-the-sea-of-nas-vulnerabilities-155a0bd7c525
-25. https://blog.usejournal.com/cors-to-csrf-attack-c33a595d441
-26. https://blog.yappare.com/2018/01/1800-in-less-than-hour.html
-27. https://bughunt1307.herokuapp.com/googlebugs.html
-28. https://fellchase.blogspot.com/2020/02/site-wide-csrf-on-popular-program.html
-29. https://flex0geek.blogspot.com/2020/02/using-csrf-i-got-weird-account-takeover.html
-30. https://gauravnarwani.com/admin-hijacked-by-sea-surf-pirates/
-31. https://hackademic.co.in/youtube-bug/
-32. https://haiderm.com/how-i-was-able-to-delete-13k-microsoft-translator-projects/
-33. https://kongwenbin.com/fastest-fix-on-open-bug-bounty-platform/
-34. https://ladysecspeare.wordpress.com/2020/04/05/how-a-simple-csrf-attack-turned-into-a-p1-level-bug/
-35. https://medium.com/@Hossam.Mesbah/cross-site-request-forgery-critical-exploitable-in-infected-site-a271aedeed2f
-36. https://medium.com/@Jacksonkv22/oauth-misconfiguration-lead-to-complete-account-takeover-c8e4e89a96a
-37. https://medium.com/@Skylinearafat/a-very-useful-technique-to-bypass-the-csrf-protection-for-fun-and-profit-471af64da276
-38. https://medium.com/@abhishake100/how-i-turned-self-xss-to-stored-via-csrf-d12eaaf59f2e
-39. https://medium.com/@adeshkolte/cross-site-request-forgery-vulnerability-leads-to-user-profile-change-in-microsoft-express-logic-dc3481ab47ba
-40. https://medium.com/@adeshkolte/how-i-got-500-from-microsoft-for-csrf-vulnerability-700accaf48b9
-41. https://medium.com/@adeshkolte/how-i-made-1000-at-t-bug-bounty-h1-14e68b284e2f
-42. https://medium.com/@adeshkolte/lintern-ute-account-takeover-via-csrf-adesh-kolte-307f7065ee74
-43. https://medium.com/@androgaming1912/how-i-found-password-bypass-vulnerability-on-private-document-at-scribd-com-c0905e8dcc9a
-44. https://medium.com/@armaanpathan/brute-forcing-user-ids-via-csrf-to-delete-all-users-with-csrf-attack-216ccd4d832c
-45. https://medium.com/@ch3ckm4te/self-xss-to-account-takeover-72c89775cf8f
-46. https://medium.com/@daniel.thatcher/obtaining-xss-using-moodle-features-and-minor-bugs-2035665989cc
-47. https://medium.com/@iSecMax/how-i-hacked-companies-related-to-the-crypto-currency-and-earned-60-000-93e9b3299f4e
-48. https://medium.com/@irounakdhadiwal999/stored-iframe-injection-csrf-account-takeover-42c93ad13f5d
-49. https://medium.com/@kishorehariram/account-taken-over-in-style-8a547342a5ad
-50. https://medium.com/@kongwenbin/fastest-fix-on-open-bug-bounty-platform-4bb03ff846e8
-51. https://medium.com/@lokeshdlk77/csrf-email-confirmation-vulnerability-for-gmail-g-suite-in-facebook-5ab551a0a526
-52. https://medium.com/@mr_hacker/csrf-bypass-using-cross-frame-scripting-c349d6f33eb6
-53. https://medium.com/@navne3t/csrf-csrf-csrf-f203e6452a9c
-54. https://medium.com/@nishantrustlingup/my-first-csrf-to-account-takeover-worth-750-1332641d4304
-55. https://medium.com/@nnez/always-escalate-from-self-xss-to-persistent-xss-on-login-portal-54265b0adfd0
-56. https://medium.com/@osamaavvan/exploiting-websocket-application-wide-xss-csrf-66e9e2ac8dfa
-57. https://medium.com/@pig.wig45/json-csrf-attack-on-a-social-networking-site-hackerone-platform-3d7aed3239b0
-58. https://medium.com/@rajeshranjan457/how-i-csrfd-my-first-bounty-a62b593d3f4d
-59. https://medium.com/@renwa/self-xss-csrf-to-stored-xss-54f9f423a7f1
-60. https://medium.com/@saadahmedx/account-takeover-worth-900-cacbe10de58e
-61. https://medium.com/@saadahmedx/bypass-csrf-with-clickjacking-worth-1250-6c70cc263f40
-62. https://medium.com/@sainttobs/csrf-token-bypasss-a-tale-of-my-2k-bug-ff7f51166ea1
-63. https://medium.com/@secureITmania/how-i-exploit-the-json-csrf-with-method-override-technique-71c0a9a7f3b0
-64. https://medium.com/@sherazkhalid_60362/account-takeover-by-chaining-two-vulnerabilities-bb447753b089
-65. https://medium.com/@shub66452/account-takeover-using-csrf-json-based-a0e6efd1bffc
-66. https://medium.com/@valeriyshevchenko/how-i-hacked-one-cryptocurrency-service-db3cb0f81d6c
-67. https://medium.com/@vbharad/2-fa-bypass-via-csrf-attack-8f2f6a6e3871
-68. https://medium.com/@xhzeem/the-accounttakeover-killing-chain-6ba23f4c9d4
-69. https://medium.com/a-bugz-life/4x-csrfs-chained-for-company-account-takeover-f9fada416986
-70. https://medium.com/bugbountywriteup/a-simple-bypass-of-registration-activation-that-lead-to-many-bug-a-story-about-how-my-friend-5df0889f1062
-71. https://medium.com/bugbountywriteup/critical-bypass-csrf-protection-on-ibm-313ffb68dd0c
-72. https://medium.com/bugbountywriteup/csrf-account-takeover-explained-automated-manual-bug-bounty-447e4b96485b
-73. https://medium.com/bugbountywriteup/csrf-account-takeover-in-a-company-worth-1b-6e966813c262
-74. https://medium.com/bugbountywriteup/csrf-attack-can-lead-to-stored-xss-f40ba91f1e4f
-75. https://medium.com/intigriti/how-i-hijacked-your-account-when-you-opened-my-cat-picture-9a0a0acca9e8
-76. https://medium.com/tenable-techblog/stealing-downloads-from-slack-users-be6829a55f63
-77. https://mike-n1.github.io/Chain_XSS
-78. https://ninadmathpati.com/how-i-was-able-to-bypass-the-current-password/
-79. https://nirmaldahal.com.np/r-xss-csrf-bypass-to-account-takeover/?__cf_chl_jschl_tk__=d2126b03db2a812a5531feaf545778312401bf1d-1589689403-0-AeUUwidHL9iXCyI5xkfK9YG0i5nb3qc8GtpcX97TylUt6sbNvr1DfRlTfV_2JXFOhtrfyyOYwMkMlB_oQxH8RqXIjvXrTUuipHiCQsPHcztJl1CxaJlslqhTQSLtRqnny7uqJxeV_KxTFaupU6v6klWfK-U8l_SHZTTEposq37_WtcvFiPYM95HGaE5M9I6UisfG5pavR1HZALc9RFVKKSiCrPHXllEJ2msyjXQc65GCSaR-eWHsN0EiNCgDPvAlyQSWT5ygg2bgn6QEM_ZIZDrvME3YcoWx4SGIdj26qT5K_J4RqGZdjUAJIZy-AUqEuh4mLzKqZd3F6bXPKqQylEI
-80. https://noobe.io/articles/2019-10/xss-to-account-takeover
-81. https://pentester.land/Hacking%20%E2%80%94%20Always%20Check%20the%20Cross-domain%20Policy
-82. https://rafiem.github.io/bugbounty/tokopedia/site-wide-csrf-graphql/
-83. https://santuysec.com/2020/01/21/google-bug-bounty-csrf-in-learndigital-withgoogle-com/
-84. https://smaranchand.com.np/2019/10/an-inconsistent-csrf/
-85. https://soroush.secproject.com/blog/2019/04/yet-other-examples-of-abusing-csrf-in-logout/
-86. https://www.imperva.com/blog/facebook-privacy-bug/
-87. https://www.sagarvd.me/
-88. [https://www.sec-down.com/wordpress/?p=809](https://www.sec-down.com/wordpress/?p=809) 
-89. [https://ysamm.com/?p=185](https://ysamm.com/?p=185) 
-90. [https://ysamm.com/?p=379](https://ysamm.com/?p=379) 
-91. [https://hackerone.com/reports/339352](https://hackerone.com/reports/339352) 
-92. [https://hackerone.com/reports/293016](https://hackerone.com/reports/293016) 
-93. [https://hackerone.com/reports/577920](https://hackerone.com/reports/577920) 
-94. [https://hackerone.com/reports/127703](https://hackerone.com/reports/127703) 
-95. [https://hackerone.com/reports/334253](https://hackerone.com/reports/334253)
-96. [https://hackerone.com/reports/856518](https://hackerone.com/reports/856518) 
-97. [https://hackerone.com/reports/177472](https://hackerone.com/reports/177472) 
-98. [https://hackerone.com/reports/419891](https://hackerone.com/reports/419891) 
-99. [https://hackerone.com/reports/766533](https://hackerone.com/reports/766533)
-100. [https://hackerone.com/reports/152569](https://hackerone.com/reports/152569) 
-101. [https://hackerone.com/reports/802930](https://hackerone.com/reports/802930) 
-102. [https://hackerone.com/reports/856981](https://hackerone.com/reports/856981)
-103. [https://hackerone.com/reports/148156](https://hackerone.com/reports/148156) 
+1. **[Paypal bug bounty: Updating the Paypal. me profile picture without consent (CSRF attack) - Florian Courtial](https://hethical.io/paypal-bug-bounty-updating-the-paypal-me-profile-picture-without-consent-csrf-attack/)**
+2. **[Hacking PayPal Accounts with one click (Patched) - Yasser Ali](http://yasserali.com/hacking-paypal-accounts-with-one-click/)**
+3. **[Add tweet to collection CSRF - Vijay Kumar](https://hackerone.com/reports/100820)**
+4. **[Facebookmarketingdevelopers.com: Proxies, CSRF Quandry, and API Fun - phwd](http://philippeharewood.com/facebookmarketingdevelopers-com-proxies-csrf-quandry-and-api-fun/)**
+5. **[How I Hack your Beats account? Apple Bug Bounty - @aaditya_purani](https://aadityapurani.com/2016/07/20/how-i-hacked-your-beats-account-apple-bug-bounty/)**
+6. **[FORM POST JSON: JSON CSRF on POST Heartbeats API - Dr.Jones](https://hackerone.com/reports/245346)**
+7. **[Hacking Facebook accounts using CSRF in Oculus-Facebook integration](https://www.josipfranjkovic.com/blog/hacking-facebook-oculus-integration-csrf)**
+8. **[Cross site request forgery (CSRF) - Sjoerd Langkemper - Jan 9, 2019](http://www.sjoerdlangkemper.nl/2019/01/09/csrf/)**
+9. **[Cross-Site Request Forgery Attack - PwnFunction](https://www.youtube.com/watch?v=eWEgUcHPle0)**
+10. **[Wiping Out CSRF - Joe Rozner - Oct 17, 2017](https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f)**
+11. **[Bypass referer check logic for CSRF](https://www.hahwul.com/2019/10/11/bypass-referer-check-logic-for-csrf/)**
+12. **[Bypass-referer-check-logic-for-csrf.html](https://www.hahwul.com/2019/10/bypass-referer-check-logic-for-csrf.html)**
+13. **[Messenger-site-wide-csrf/](https://whitton.io/articles/messenger-site-wide-csrf/)**
+14. **[Bypass-csrf-with-clickjacking-worth-1250-6c70cc263f40](https://medium.com/@saadahmedx/bypass-csrf-with-clickjacking-worth-1250-6c70cc263f40)**
+15. **[Bypass CSRF with clickjacking on Google org](https://medium.com/@saadahmedx/bypass-csrf-with-clickjacking-worth-1250-6c70cc263f40)**
+16. **[CSRF combined with IDOR within Document Converter exposes files](https://hackerone.com/reports/398316)**
+17. **[Clickjacking & CSRF attack can be done at](https://hackerone.com/reports/14494) [https://app.mavenlink.com/login](https://app.mavenlink.com/login)**
+18. **[How-i-could-have-taken-over-any-pinterest-account](http://infosecflash.com/2019/01/05/how-i-could-have-taken-over-any-pinterest-account/)**
+19. **[Leaking-WordPress-CSRF-Tokens](https://ahussam.me/Leaking-WordPress-CSRF-Tokens/)**
+20. **[Paypal-bbp-i-couldve-deleted-all-smc](https://blog.ayoubaitelmokhtar.com/2018/06/paypal-bbp-i-couldve-deleted-all-smc.html)**
+21. **[Instagram-delete-media-csrf.html](https://blog.darabi.me/2019/12/instagram-delete-media-csrf.html)**
+22. **[Wordpress-csrf-to-rce/](https://blog.ripstech.com/2019/wordpress-csrf-to-rce/)**
+23. **[RCE-on-a-facebook-server](https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/)**
+24. **[Collecting-shells-by-the-sea-of-nas-vulnerabilities](https://blog.securityevaluators.com/collecting-shells-by-the-sea-of-nas-vulnerabilities-155a0bd7c525)**
+25. **[CORS-to-CSRF-attack](https://blog.usejournal.com/cors-to-csrf-attack-c33a595d441)**
+26. **[1800-in-less-than-hour](https://blog.yappare.com/2018/01/1800-in-less-than-hour.html)**
+27. **[Googlebugs](https://bughunt1307.herokuapp.com/googlebugs.html)**
+28. **[Site-wide-csrf-on-popular-program](https://fellchase.blogspot.com/2020/02/site-wide-csrf-on-popular-program.html)**
+29. **[Using-CSRF-i-got-weird-account-takeover](https://flex0geek.blogspot.com/2020/02/using-csrf-i-got-weird-account-takeover.html)**
+30. **[Admin-hijacked-by-sea-surf-pirates](https://gauravnarwani.com/admin-hijacked-by-sea-surf-pirates/)**
+31. **[How I could have hijacked a victim’s YouTube notifications! (Google VRP Writeup)](https://hackademic.co.in/youtube-bug/)**
+32. **[How-i-was-able-to-delete-13k-microsoft-translator-projects](https://haiderm.com/how-i-was-able-to-delete-13k-microsoft-translator-projects/)**
+33. **[Fastest-fix-on-open-bug-bounty-platform](https://kongwenbin.com/fastest-fix-on-open-bug-bounty-platform/)**
+34. **[How-a-simple-csrf-attack-turned-into-a-p1-level-bug](https://ladysecspeare.wordpress.com/2020/04/05/how-a-simple-csrf-attack-turned-into-a-p1-level-bug/)**
+35. **[CSRF-critical-exploitable-in-infected-site](https://medium.com/@Hossam.Mesbah/cross-site-request-forgery-critical-exploitable-in-infected-site-a271aedeed2f)**
+36. **[Oauth-misconfiguration-lead-to-complete-account-takeover](https://medium.com/@Jacksonkv22/oauth-misconfiguration-lead-to-complete-account-takeover-c8e4e89a96a)**
+37. **[A-very-useful-technique-to-bypass-the-csrf-protection-for-fun-and-profit](https://medium.com/@Skylinearafat/a-very-useful-technique-to-bypass-the-csrf-protection-for-fun-and-profit-471af64da276)**
+38. **[How-i-turned-self-xss-to-stored-via-csrf](https://medium.com/@abhishake100/how-i-turned-self-xss-to-stored-via-csrf-d12eaaf59f2e)**
+39. **[CSRF-vulnerability-leads-to-user-profile-change-in-microsoft-express-logic](https://medium.com/@adeshkolte/cross-site-request-forgery-vulnerability-leads-to-user-profile-change-in-microsoft-express-logic-dc3481ab47ba)**
+40. **[How-i-got-500-from-microsoft-for-csrf-vulnerability](https://medium.com/@adeshkolte/how-i-got-500-from-microsoft-for-csrf-vulnerability-700accaf48b9)**
+41. **[How-i-made-1000-at-t-bug-bounty-h1](https://medium.com/@adeshkolte/how-i-made-1000-at-t-bug-bounty-h1-14e68b284e2f)**
+42. **[Lintern-ute-account-takeover-via-csrf-adesh-kolte](https://medium.com/@adeshkolte/lintern-ute-account-takeover-via-csrf-adesh-kolte-307f7065ee74)**
+43. **[How-i-found-password-bypass-vulnerability-on-private-document-at-scribd-com](https://medium.com/@androgaming1912/how-i-found-password-bypass-vulnerability-on-private-document-at-scribd-com-c0905e8dcc9a)**
+44. **[Brute-forcing-user-ids-via-csrf-to-delete-all-users-with-csrf-attack](https://medium.com/@armaanpathan/brute-forcing-user-ids-via-csrf-to-delete-all-users-with-csrf-attack-216ccd4d832c)**
+45. **[Self-xss-to-account-takeover](https://medium.com/@ch3ckm4te/self-xss-to-account-takeover-72c89775cf8f)**
+46. **[Obtaining-xss-using-moodle-features-and-minor-bugs](https://medium.com/@daniel.thatcher/obtaining-xss-using-moodle-features-and-minor-bugs-2035665989cc)**
+47. **[How-i-hacked-companies-related-to-the-crypto-currency-and-earned-60-000](https://medium.com/@iSecMax/how-i-hacked-companies-related-to-the-crypto-currency-and-earned-60-000-93e9b3299f4e)**
+48. **[Stored-iframe-injection-csrf-account-takeover](https://medium.com/@irounakdhadiwal999/stored-iframe-injection-csrf-account-takeover-42c93ad13f5d)**
+49. **[Account-taken-over-in-style](https://medium.com/@kishorehariram/account-taken-over-in-style-8a547342a5ad)**
+50. **[Fastest-fix-on-open-bug-bounty-platform](https://medium.com/@kongwenbin/fastest-fix-on-open-bug-bounty-platform-4bb03ff846e8)**
+51. **[CSRF-email-confirmation-vulnerability-for-gmail-g-suite-in-facebook](https://medium.com/@lokeshdlk77/csrf-email-confirmation-vulnerability-for-gmail-g-suite-in-facebook-5ab551a0a526)**
+52. **[CSRF-bypass-using-cross-frame-scripting](https://medium.com/@mr_hacker/csrf-bypass-using-cross-frame-scripting-c349d6f33eb6)**
+53. **[CSRF CSRF CSRF](https://medium.com/@navne3t/csrf-csrf-csrf-f203e6452a9c)**
+54. **[My-first-csrf-to-account-takeover-worth-750](https://medium.com/@nishantrustlingup/my-first-csrf-to-account-takeover-worth-750-1332641d4304)**
+55. **[Always-escalate-from-self-xss-to-persistent-xss-on-login-portal](https://medium.com/@nnez/always-escalate-from-self-xss-to-persistent-xss-on-login-portal-54265b0adfd0)**
+56. **[Exploiting-websocket-application-wide-xss-csrf](https://medium.com/@osamaavvan/exploiting-websocket-application-wide-xss-csrf-66e9e2ac8dfa)**
+57. **[JSON-CSRF-attack-on-a-social-networking-site-hackerone-platform](https://medium.com/@pig.wig45/json-csrf-attack-on-a-social-networking-site-hackerone-platform-3d7aed3239b0)**
+58. **[How-i-csrfd-my-first-bounty](https://medium.com/@rajeshranjan457/how-i-csrfd-my-first-bounty-a62b593d3f4d)**
+59. **[Self-xss-csrf-to-stored-xss](https://medium.com/@renwa/self-xss-csrf-to-stored-xss-54f9f423a7f1)**
+60. **[ATO-worth-900](https://medium.com/@saadahmedx/account-takeover-worth-900-cacbe10de58e)**
+61. **[Bypass-csrf-with-clickjacking-worth-1250](https://medium.com/@saadahmedx/bypass-csrf-with-clickjacking-worth-1250-6c70cc263f40)**
+62. **[CSRF-token-bypasss-a-tale-of-my-2k-bug](https://medium.com/@sainttobs/csrf-token-bypasss-a-tale-of-my-2k-bug-ff7f51166ea1)**
+63. **[How-i-exploit-the-json-csrf-with-method-override-technique](https://medium.com/@secureITmania/how-i-exploit-the-json-csrf-with-method-override-technique-71c0a9a7f3b0)**
+64. **[ATO-by-chaining-two-vulnerabilities](https://medium.com/@sherazkhalid_60362/account-takeover-by-chaining-two-vulnerabilities-bb447753b089)**
+65. **[Account-takeover-using-csrf-json-based](https://medium.com/@shub66452/account-takeover-using-csrf-json-based-a0e6efd1bffc)**
+66. **[How-i-hacked-one-cryptocurrency-service](https://medium.com/@valeriyshevchenko/how-i-hacked-one-cryptocurrency-service-db3cb0f81d6c)**
+67. **[2fa-bypass-via-csrf-attack](https://medium.com/@vbharad/2-fa-bypass-via-csrf-attack-8f2f6a6e3871)**
+68. **[The-accounttakeover-killing-chain](https://medium.com/@xhzeem/the-accounttakeover-killing-chain-6ba23f4c9d4)**
+69. **[4x-csrfs-chained-for-company-account-takeover](https://medium.com/a-bugz-life/4x-csrfs-chained-for-company-account-takeover-f9fada416986)**
+70. **[A-simple-bypass-of-registration-activation-that-lead-to-many-bug-a-story-about-how-my-friend](https://medium.com/bugbountywriteup/a-simple-bypass-of-registration-activation-that-lead-to-many-bug-a-story-about-how-my-friend-5df0889f1062)**
+71. **[Critical-bypass-csrf-protection-on-ibm](https://medium.com/bugbountywriteup/critical-bypass-csrf-protection-on-ibm-313ffb68dd0c)**
+72. **[CSRF-account-takeover-explained-automated-manual-bug-bounty](https://medium.com/bugbountywriteup/csrf-account-takeover-explained-automated-manual-bug-bounty-447e4b96485b)**
+73. **[CSRF-account-takeover-in-a-company-worth-1b](https://medium.com/bugbountywriteup/csrf-account-takeover-in-a-company-worth-1b-6e966813c262)**
+74. **[CSRF-attack-can-lead-to-stored-xss](https://medium.com/bugbountywriteup/csrf-attack-can-lead-to-stored-xss-f40ba91f1e4f)**
+75. **[How-i-hijacked-your-account-when-you-opened-my-cat-picture](https://medium.com/intigriti/how-i-hijacked-your-account-when-you-opened-my-cat-picture-9a0a0acca9e8)**
+76. **[Stealing-downloads-from-slack-users](https://medium.com/tenable-techblog/stealing-downloads-from-slack-users-be6829a55f63)**
+77. **[Chain_XSS](https://mike-n1.github.io/Chain_XSS)**
+78. **[How-i-was-able-to-bypass-the-current-password/](https://ninadmathpati.com/how-i-was-able-to-bypass-the-current-password/)**
+79. **[RXSS-CSRF-bypass-to-account-takeover](https://nirmaldahal.com.np/r-xss-csrf-bypass-to-account-takeover/?cf_chl_jschl_tk=d2126b03db2a812a5531feaf545778312401bf1d-1589689403-0-AeUUwidHL9iXCyI5xkfK9YG0i5nb3qc8GtpcX97TylUt6sbNvr1DfRlTfV_2JXFOhtrfyyOYwMkMlB_oQxH8RqXIjvXrTUuipHiCQsPHcztJl1CxaJlslqhTQSLtRqnny7uqJxeV_KxTFaupU6v6klWfK-U8l_SHZTTEposq37_WtcvFiPYM95HGaE5M9I6UisfG5pavR1HZALc9RFVKKSiCrPHXllEJ2msyjXQc65GCSaR-eWHsN0EiNCgDPvAlyQSWT5ygg2bgn6QEM_ZIZDrvME3YcoWx4SGIdj26qT5K_J4RqGZdjUAJIZy-AUqEuh4mLzKqZd3F6bXPKqQylEI)**
+80. **[XSS-to-ATO](https://noobe.io/articles/2019-10/xss-to-account-takeover)**
+82. **[Site-wide-CSRF-GraphQL](https://rafiem.github.io/bugbounty/tokopedia/site-wide-csrf-graphql/)**
+83. **[Google-bug-bounty-csrf-in-learndigital-withgoogle-com](https://santuysec.com/2020/01/21/google-bug-bounty-csrf-in-learndigital-withgoogle-com/)**
+84. **[An-inconsistent-CSRF](https://smaranchand.com.np/2019/10/an-inconsistent-csrf/)**
+85. **[Yet-other-examples-of-abusing-CSRF-in-logout/](https://soroush.secproject.com/blog/2019/04/yet-other-examples-of-abusing-csrf-in-logout/)**
+86. **[Facebook-privacy-bug/](https://www.imperva.com/blog/facebook-privacy-bug/)**
+88. **[An interesting Google vulnerability that got me 3133.7 reward.](https://www.sec-down.com/wordpress/?p=809)**
+89. **[Facebook CSRF protection bypass which leads to Account Takeover.](https://ysamm.com/?p=185)**
+90. **[Facebook CSRF bug which lead to Instagram Partial account takeover.](https://ysamm.com/?p=379)**
+91. **[CSRF logs the victim into attacker's account](https://hackerone.com/reports/339352)**
+92. **[CSRF log victim into the attacker account](https://hackerone.com/reports/293016)**
+93. **[Login csrf in analytics.mopub.com](https://hackerone.com/reports/577920)**
+94. **[CRITICAL Full account takeover using CSRF](https://hackerone.com/reports/127703)**
+95. **[CSRF at Apply to this program that lead to submit your request automatic with out any validation](https://hackerone.com/reports/334253)**
+96. **[CSRF - Close Account](https://hackerone.com/reports/856518)**
+97. **[CSRF: add item to victim's cart automatically (starbucks.com - updatecart)](https://hackerone.com/reports/177472)**
+98. **[Cross-Site Request Forgery (CSRF) vulnerability on API endpoint allows account takeovers](https://hackerone.com/reports/419891)**
+99. **[CSRF - Modify Project Settings](https://hackerone.com/reports/766533)**
+100. **[Cross-Site Request Forgery (CSRF)](https://hackerone.com/reports/152569)**
+101. **[CSRF on https://market.my.games](https://hackerone.com/reports/802930)**
+102. **[CSRF - Modify Company Info](https://hackerone.com/reports/856981)**
+
 
 ## LFI/LFD - Path Traversal - RFI
 
