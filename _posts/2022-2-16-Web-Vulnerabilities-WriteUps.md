@@ -556,7 +556,7 @@ BLIND - XXE OOB ❌
 
 ---
 
-## server side request forgery (SSRF)
+## Server Side Request Forgery (SSRF)
 
 1. **[SSRF to SQLI](https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299)**
 2. **[Escalating xss in phantomjs image rendering to ssrflocal file read](https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/)**
