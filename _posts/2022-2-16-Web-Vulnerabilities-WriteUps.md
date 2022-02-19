@@ -201,7 +201,7 @@ published: true
 2. [**IDOR with Geolocation data not stripped from images**](https://hackerone.com/reports/906907) (h1)
 3. [**IDOR in HackerOne**](https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431) (Medium)
 4. [**https://hackerone.com/reports/287789**](https://hackerone.com/reports/287789)
-5. **https://appsecure.security/blog/how-i-could-have-hacked-your-uber-account**
+5. [**how-i-could-have-hacked-your-uber-account**](https://appsecure.security/blog/how-i-could-have-hacked-your-uber-account)
 6. [**https://footstep.ninja/posts/idor-via-websockets/**](https://footstep.ninja/posts/idor-via-websockets/)
 7. [**https://georgeosterweil.com/2019-02-20-fbctf-idor/**](https://georgeosterweil.com/2019-02-20-fbctf-idor/)
 8. [**Disclosing privately shared gaming clips of any user**](https://bugreader.com/rony@disclosing-privately-shared-gaming-clips-of-any-user-128)
@@ -530,15 +530,14 @@ BLIND - XXE OOB ❌
 89. [How I found an SSRF in yahoo guesthouse (recon wins)](https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4)
 90. [Reading internal files using SSRF vulnerability](https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb)
 91. [Airbnb chaining third party open redirect into SSRF via liveperson chat](https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/)
-92. 
-93. [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876)
-94. [SSRF using Javascript allows to exfill data from Google Metadata](https://hackerone.com/reports/530974)
-95. [SSRF in Google cloud platform stackdriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/)
-96. [SSRF to ROOT Access](https://hackerone.com/reports/341876)
-97. [SSRF reading local files from downnotifier server](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)
-98. [Facebook SSRF](https://medium.com/@amineaboud/10000-facebook-ssrf-bug-bounty-402bd21e58e5)
-99. [31k$ SSRF in Google Cloud Monitoring led to metadata exposure](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html)
-100. [How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!](http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html)
+92. [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876)
+93. [SSRF using Javascript allows to exfill data from Google Metadata](https://hackerone.com/reports/530974)
+94. [SSRF in Google cloud platform stackdriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/)
+95. [SSRF to ROOT Access](https://hackerone.com/reports/341876)
+96. [SSRF reading local files from downnotifier server](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)
+97. [Facebook SSRF](https://medium.com/@amineaboud/10000-facebook-ssrf-bug-bounty-402bd21e58e5)
+98. [31k$ SSRF in Google Cloud Monitoring led to metadata exposure](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html)
+99. [How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!](http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html)
 
 ## OS Command Injection
 
