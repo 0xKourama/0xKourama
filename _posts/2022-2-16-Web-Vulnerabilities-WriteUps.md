@@ -113,10 +113,10 @@ published: true
 
 ## CSP
 
-1. [**https://hackerone.com/reports/153666**](https://hackerone.com/reports/153666)
-2. [**https://hackerone.com/reports/225833**](https://hackerone.com/reports/225833)
-3. [**https://hackerone.com/reports/244766**](https://hackerone.com/reports/244766)
-4. [**https://hackerone.com/reports/244724**](https://hackerone.com/reports/244724)
+1. [**csp bypass + xss**](https://hackerone.com/reports/153666)
+2. [**www.hackerone.com website CSP "script-src" includes "unsafe-inline"**](https://hackerone.com/reports/225833)
+3. [**https://wakatime.com/ website CSP "script-src" includes "unsafe-inline"**](https://hackerone.com/reports/244766)
+4. [**Unsafe Inline and Eval CSP Usage**](https://hackerone.com/reports/244724)
 
 ## SQLI
 
@@ -153,27 +153,25 @@ published: true
 1. [**Bug-bounty-writeups-exploiting-sql-injection-vulnerability**](https://medium.com/sud0root/bug-bounty-writeups-exploiting-sql-injection-vulnerability-20b019553716)
 1. [**Twitter**](https://twitter.com/0x01alka/status/816403077074976768)
 1. [**Youtube**](https://www.youtube.com/watch?v=8gm1z9bPJ7w)
-1. [**https://hackerone.com/reports/1224660**](https://hackerone.com/reports/1224660)
-1. [**https://hackerone.com/reports/1109311**](https://hackerone.com/reports/1109311)
-1. [**https://hackerone.com/reports/374027**](https://hackerone.com/reports/374027)
-1. [**https://hackerone.com/reports/9921**](https://hackerone.com/reports/9921)
-1. [**https://hackerone.com/reports/319279**](https://hackerone.com/reports/319279)
-1. [**https://hackerone.com/reports/1069531**](https://hackerone.com/reports/1069531)
-1. [**https://hackerone.com/reports/924855**](https://hackerone.com/reports/924855)
-1. [**https://hackerone.com/reports/1039315**](https://hackerone.com/reports/1039315)
-1. [**https://hackerone.com/reports/786044**](https://hackerone.com/reports/786044)
-1. [**https://hackerone.com/reports/297478**](https://hackerone.com/reports/297478)
-1. [**https://hackerone.com/reports/295841**](https://hackerone.com/reports/295841)
-1. [**https://hackerone.com/reports/519631**](https://hackerone.com/reports/519631)
-1. [**https://hackerone.com/reports/419017**](https://hackerone.com/reports/419017)
+1. [**bypass sql injection #1109311**](https://hackerone.com/reports/1224660)
+1. [**SQL injection in https://www.acronis.cz/ via the log parameter**](https://hackerone.com/reports/1109311)
+1. [**blind sql injection**](https://hackerone.com/reports/374027)
+1. [**Time based sql injection**](https://hackerone.com/reports/9921)
+1. [**[critical] sql injection by GET method**](https://hackerone.com/reports/319279)
+1. [**Blind SQL Injection**](https://hackerone.com/reports/1069531)
+1. [**SQL injection [futexpert.mtngbissau.com]**](https://hackerone.com/reports/924855)
+1. [**Sql injection on docs.atavist.com**](https://hackerone.com/reports/1039315)
+1. [**[windows10.hi-tech.mail.ru] Blind SQL Injection**](https://hackerone.com/reports/786044)
+1. [**SQL injection in https://labs.data.gov/dashboard/datagov/csv_to_json via User-agent**](https://hackerone.com/reports/297478)
+1. [**Blind SQL injection in Hall of Fap**](https://hackerone.com/reports/295841)
+1. [**SQL Injection in ████**](https://hackerone.com/reports/519631)
+1. [**SQL Injection in ████**](https://hackerone.com/reports/419017)
 
 
 
 ## Open Redirect
 
 
-
-1. [**https://xmpp.nextcloud.com///;@www.google.com**](https://xmpp.nextcloud.com///;@www.google.com)
 1. [**[Report-246897] Open Redirect on Twitter**](https://hackerone.com/reports/246897): Eldeeb
 1. [**[Report-103772] Open Redirect on Shopify**](https://hackerone.com/reports/103772): .np
 1. [**[Report-309058] Open Redirect on Wordpress**](https://hackerone.com/reports/309058): @
@@ -191,7 +189,6 @@ published: true
 1. [**[Report-104087] Open Redirect bypass using svg on Slack**](https://hackerone.com/reports/104087)
 1. [**[Report-179568] Open Redirect via window.opener on Open-Xchange**](https://hackerone.com/reports/179568)
 1. [**Open Redirect to RCE on Google Hangouts Electron app**](https://blog.bentkowski.info/2018/07/vulnerability-in-hangouts-chat-aka-how.html) & [RCE Tweet](https://twitter.com/mattaustin/status/1022648925902200832)
-1. Look for “Open redirect” (with Ctrl+f) in our [**List of bug bounty writeups**](https://pentester.land/list-of-bug-bounty-writeups.html)
 
 
 ## IDOR
@@ -200,9 +197,9 @@ published: true
 1. [**IDOR in HackerOne**](https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431) (Medium)
 2. [**IDOR with Geolocation data not stripped from images**](https://hackerone.com/reports/906907) (h1)
 3. [**IDOR in HackerOne**](https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431) (Medium)
-5. [**how-i-could-have-hacked-your-uber-account**](https://appsecure.security/blog/how-i-could-have-hacked-your-uber-account)
-6. [**https://footstep.ninja/posts/idor-via-websockets/**](https://footstep.ninja/posts/idor-via-websockets/)
-7. [**https://georgeosterweil.com/2019-02-20-fbctf-idor/**](https://georgeosterweil.com/2019-02-20-fbctf-idor/)
+5. [**How-i-could-have-hacked-your-uber-account**](https://appsecure.security/blog/how-i-could-have-hacked-your-uber-account)
+6. [**IDOR-via-websockets**](https://footstep.ninja/posts/idor-via-websockets/)
+7. [**Fbctf-IDOR/**](https://georgeosterweil.com/2019-02-20-fbctf-idor/)
 8. [**Disclosing privately shared gaming clips of any user**](https://bugreader.com/rony@disclosing-privately-shared-gaming-clips-of-any-user-128)
 9. [**Adding anyone including non-friend and blocked people as co-host in personal event!**](https://bugreader.com/binit@adding-anyone-including-non-friend-and-blocked-people-as-co-host-in-personal-event-181)
 10. [**Page analyst could view job application details**](https://bugreader.com/rony@page-analyst-could-view-job-application-details-213)
@@ -213,27 +210,27 @@ published: true
 15. [**Gsuite Hangouts Chat 5k IDOR**](https://secreltyhiddenwriteups.blogspot.com/2018/07/gsuite-hangouts-chat-5k-idor.html)
 16. [**How I pwned a company using IDOR and Blind XSS**](https://www.ansariosama.com/2017/11/how-i-pwned-company-using-idor-blind-xss.html)
 17. [**Disclose Private Dashboard Chart's name and data in Facebook Analytics**](https://bugreader.com/jubabaghdad@disclose-private-dashboard-charts-name-and-data-in-facebook-analytics-184)
-18. [**IDOR when editing users leads to Account Takeover without User Interaction at CrowdSignal**](https://hackerone.com/reports/915114) to Automattic - 177 upvotes, $650
-19. [**IDOR leads to Edit Anyone's Blogs / Websites**](https://hackerone.com/reports/974222) to Automattic - 125 upvotes, $200
-20. [**IDOR and statistics leakage in Orders**](https://hackerone.com/reports/544329) to Twitter - 108 upvotes, $289
-21. [**IDOR in https://3d.cs.money/**](https://hackerone.com/reports/990878) to CS Money - 107 upvotes, $200
-22. [**IDOR leading to downloading of any attachment**](https://hackerone.com/reports/668439) to BCM Messenger - 101 upvotes, $100
-23. [**IDOR when moving contents at CrowdSignal**](https://hackerone.com/reports/915127) to Automattic - 75 upvotes, $550
-24. [**http://galnagli.com/DoD_IDOR/**](http://galnagli.com/DoD_IDOR/)
-25. [**https://hackerone.com/reports/230328**](https://hackerone.com/reports/230328)
-26. [**IDOR to delete images from other stores**](https://hackerone.com/reports/404797) to Zomato - 48 upvotes, $600
-27. [**IDOR in marketing calendar tool**](https://hackerone.com/reports/797685) to Semrush - 48 upvotes, $500
-28. [**IDOR when creating App on [platform.streamlabs.com/api/v1/store/whitelist] with user_id field**](https://hackerone.com/reports/983070) to Logitech - 47 upvotes, $100
-29. [**IDOR with Geolocation data not stripped from images**](https://hackerone.com/reports/906907) to IRCCloud - 36 upvotes, $200
-30. [**IDOR in semrush academy**](https://hackerone.com/reports/783708) to Semrush - 35 upvotes, $505
-31. [**Idor on the DELETE /comments/**](https://hackerone.com/reports/861849) to RGhost - 29 upvotes, $0
-32. [**[NR Insights] IDOR - Modify the filter settings for any NR Insights dashboard through internal_api endpoint**](https://hackerone.com/reports/459443) to New Relic - 26 upvotes, $2500
-33. [**IDOR in editing courses**](https://hackerone.com/reports/227522) to Maximum - 26 upvotes, $300
-34. [**IDOR when editing email leads to Account Takeover on Atavist**](https://hackerone.com/reports/950881) to Automattic - 23 upvotes, $150
-35. [**IDOR to view User Order Information**](https://hackerone.com/reports/287789) to BOHEMIA INTERACTIVE a.s. - 21 upvotes, $130
-36. [**IDOR on deleting drafts on https://apps.topcoder.com/wiki/users/viewmydrafts.action via discardDraftId parameter**](https://hackerone.com/reports/868590) to Topcoder - 21 upvotes, $0
-37. [**IDOR - Deleting other user's signature via /appsuite/api/snippet?action=update (although an error is thrown)**](https://hackerone.com/reports/199321) to Open-Xchange - 19 upvotes, $300
-38. [**https://hackerone.com/reports/287789**](https://hackerone.com/reports/287789)
+18. [**DoD_IDOR**](http://galnagli.com/DoD_IDOR/)
+19. [**IDOR when editing users leads to Account Takeover without User Interaction at CrowdSignal**](https://hackerone.com/reports/915114)
+20. [**IDOR leads to Edit Anyone's Blogs / Websites**](https://hackerone.com/reports/974222)
+21. [**IDOR and statistics leakage in Orders**](https://hackerone.com/reports/544329)
+22. [**IDOR in https://3d.cs.money/**](https://hackerone.com/reports/990878)
+23. [**IDOR leading to downloading of any attachment**](https://hackerone.com/reports/668439)
+25. [**IDOR when moving contents at CrowdSignal**](https://hackerone.com/reports/915127)
+26. [**IDOR unsubscribe Anyone from NextClouds Newsletters by knowing their Email**](https://hackerone.com/reports/230328)
+27. [**IDOR to delete images from other stores**](https://hackerone.com/reports/404797)
+28. [**IDOR in marketing calendar tool**](https://hackerone.com/reports/797685)
+29. [**IDOR when creating App on [platform.streamlabs.com/api/v1/store/whitelist] with user_id field**](https://hackerone.com/reports/983070)
+30. [**IDOR with Geolocation data not stripped from images**](https://hackerone.com/reports/906907)
+31. [**IDOR in semrush academy**](https://hackerone.com/reports/783708)
+32. [**IDOR on the DELETE /comments/**](https://hackerone.com/reports/861849)
+33. [**IDOR [NR Insights] - Modify the filter settings for any NR Insights dashboard through internal_api endpoint**](https://hackerone.com/reports/459443)
+34. [**IDOR in editing courses**](https://hackerone.com/reports/227522)
+35. [**IDOR when editing email leads to Account Takeover on Atavist**](https://hackerone.com/reports/950881)
+36. [**IDOR to view User Order Information**](https://hackerone.com/reports/287789)
+37. [**IDOR on deleting drafts on https://apps.topcoder.com/wiki/users/viewmydrafts.action via discardDraftId parameter**](https://hackerone.com/reports/868590)
+38. [**IDOR - Deleting other user's signature via /appsuite/api/snippet?action=update (although an error is thrown)**](https://hackerone.com/reports/199321)
+39. [**IDOR to view User Order Information**](https://hackerone.com/reports/287789)
 
 ## HTTP Parameter Pollution
 
@@ -542,12 +539,11 @@ BLIND - XXE OOB ❌
 
 ## OS Command Injection
 
-1. [**https://hackerone.com/reports/680480**](https://hackerone.com/reports/680480) 
-2. [**https://hackerone.com/reports/303061**](https://hackerone.com/reports/303061) 
-3. [**https://hackerone.com/reports/546753**](https://hackerone.com/reports/546753) 
-4. [**https://hackerone.com/reports/688270**](https://hackerone.com/reports/688270) 
+1. [**Command Injection (via CVE-2019-11510 and CVE-2019-11539)**](https://hackerone.com/reports/680480) 
+2. [**RCE using bash command injection on /system/images (toimitilat.lahitapiola.fi)**](https://hackerone.com/reports/303061) 
+3. [**Remote Code Execution via Extract App Plugin**](https://hackerone.com/reports/546753) 
+4. [**OS Command Injection in Nexus Repository Manager 2.x(bypass CVE-2019-5475)**](https://hackerone.com/reports/688270) 
 5. [**https://hackerone.com/reports/212696**](https://hackerone.com/reports/212696) 
-6. [**https://hackerone.com/reports/508487**](https://hackerone.com/reports/508487)
 
 ## CSRF
 
