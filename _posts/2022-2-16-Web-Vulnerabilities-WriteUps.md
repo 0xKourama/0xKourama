@@ -7,7 +7,7 @@ toc: false
 published: true
 ---
 
-## Cross Site Scripting (XSS) 
+## Cross Site Scripting | (XSS) 
 
 
 1. [**From P5 to P2 to 100 BXSS**](https://medium.com/@mohameddaher/from-p5-to-p5-to-p2-from-nothing-to-1000-bxss-4dd26bc30a82)
@@ -112,242 +112,16 @@ published: true
 1. [**Magix bugbounty XSS writeup**](https://www.rcesecurity.com/2014/04/magix-bug-bounty-magix-com-rce-sqli-and-xara-com-lfi-xss/)
 
 
-## CSP
+## Content Security Policy | CSP
 
 1. [**csp bypass + xss**](https://hackerone.com/reports/153666)
 2. [**www.hackerone.com website CSP "script-src" includes "unsafe-inline"**](https://hackerone.com/reports/225833)
 3. [**https://wakatime.com/ website CSP "script-src" includes "unsafe-inline"**](https://hackerone.com/reports/244766)
 4. [**Unsafe Inline and Eval CSP Usage**](https://hackerone.com/reports/244724)(https://hamzamohdzubair.github.io/redant/)
 
-## SQLI
-
-1. [**SQL injection in Harvard subdomain**](https://noob3xploiter.medium.com/sql-injection-in-harvard-subdomain-be67a5dbf664)
-1. [**SQLi in HackerOne (crit)**](https://hackerone.com/reports/363815)(https://hamzamohdzubair.github.io/redant/)
-1. [**SSRF to sqli**](https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299)
-1. [**Blind sqli Hootsuite**](https://ahussam.me/Blind-sqli-Hootsuite/)
-1. [**Tesla motors blind sql injection**](https://bitquark.co.uk/blog/2014/02/23/tesla_motors_blind_sql_injection) **' + sleep(10) + '**
-1. [**Popping_a_shell_on_the_oculus_developer_portal**](https://bitquark.co.uk/blog/2014/08/31/popping_a_shell_on_the_oculus_developer_portal)
-1. [**Pwning-child-company-to-get-access-to-parentcompanys-slack-team**](https://blog.parthmalhotra.com/pwning-child-company-to-get-access-to-parentcompanys-slack-team/)
-1. [**SQL-injection-in-insert-update-query-without-comma**](https://blog.redforce.io/sql-injection-in-insert-update-query-without-comma/)
-1. [**SQLI-extracting-data-without-knowing-columns-names**](https://blog.redforce.io/sqli-extracting-data-without-knowing-columns-names/)
-1. [**SQLI-bootcampnutanix-com-bug-bounty-poc**](https://blog.securitybreached.org/2018/09/08/sqli-bootcampnutanix-com-bug-bounty-poc/)
-1. [**Zol-zimbabwe-authbypass-sqli-xss**](https://blog.securitybreached.org/2018/09/09/zol-zimbabwe-authbypass-sqli-xss/)
-1. [**SQLI-login-bypass-autotraders**](https://blog.securitybreached.org/2018/09/10/sqli-login-bypass-autotraders/)
-1. [**SQL-injection-via-stopping-the-redirection-to-a-login-page**](https://medium.com/@St00rm/sql-injection-via-stopping-the-redirection-to-a-login-page-52b0792d5592)
-1. [**Yahoo-root-access-sql-injection-tw-yahoo-com**](https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/)
-1. [**Step-by-step-exploiting-sql-injection**](https://josipfranjkovic.blogspot.com/2014/09/step-by-step-exploiting-sql-injection.html)
-1. [**Fileupload-blind-sqli**](https://jspin.re/fileupload-blind-sqli/)
-1. [**First-bug-bounty-submission**](https://renaudmarti.net/posts/first-bug-bounty-submission/)
-1. [**Exploiting-a-tricky-blind-sql-injection-inside-limit-clause**](https://blog.noob.ninja/exploiting-a-tricky-blind-sql-injection-inside-limit-clause/)
-1. [**H1-4420-From-Quiz-to-Admin-Chaining-Two-0-Days-to-Compromise-an-Uber-Wordpress**](https://www.rcesecurity.com/2019/09/H1-4420-From-Quiz-to-Admin-Chaining-Two-0-Days-to-Compromise-an-Uber-Wordpress/)
-1. [**Hacking-the-nhs-for-fun-and-no-profit**](https://nathonsecurity.medium.com/hacking-the-nhs-for-fun-and-no-profit-90931029dcb4)
-1. [**Hacking-makes-me-forget-my-pain**](https://abidafahd.medium.com/hacking-makes-me-forget-my-pain-b04bf51d0407)
-1. [**SQL-injection-vulnerability-in-university-of-cambridge**](https://adeshkolte.medium.com/sql-injection-vulnerability-in-university-of-cambridge-b4c8d0381e1)
-1. [**SQL-injection-bug-bounty**](https://ariffadhlullah2310.medium.com/sql-injection-bug-bounty-110e92e71ec3)
-1. [**Shodan-is-your-friend-if-you-lose-him-you-will-lose-many**](https://bathinivijaysimhareddy.medium.com/shodan-is-your-friend-if-you-lose-him-you-will-lose-many-657d07472f75)
-1. [**SQL-injection-through-user-agent**](https://frostnull.medium.com/sql-injection-through-user-agent-44a1150f6888)
-1. [**Union-based-sql-injection-write-up-a-private-company-site**](https://nuraalamdipu.medium.com/union-based-sql-injection-write-up-a-private-company-site-273f89a49ed9)
-1. [**SQL-injection-for-50-bounty-but-still-worth-reading**](https://orthonviper.medium.com/sql-injection-for-50-bounty-but-still-worth-reading-468442c1cc1a)
-1. [**Source-code-analysis-in-ysurvey-luminate-bug**](https://rojanrijal.medium.com/source-code-analysis-in-ysurvey-luminate-bug-c86dc29b70c4)
-1. [**SQL-injection-saadahmedx**](https://saadahmedx.medium.com/sql-injection-c87a390afdd3)
-1. [**A-five-minute-sql-i**](https://infosecwriteups.com/a-five-minute-sql-i-16ab75b20fe4)
-1. [**Bug-bounty-writeups-exploiting-sql-injection-vulnerability**](https://medium.com/sud0root/bug-bounty-writeups-exploiting-sql-injection-vulnerability-20b019553716)
-1. [**Twitter**](https://twitter.com/0x01alka/status/816403077074976768)
-1. [**Youtube**](https://www.youtube.com/watch?v=8gm1z9bPJ7w)
-1. [**bypass sql injection #1109311**](https://hackerone.com/reports/1224660)
-1. [**SQL injection in https://www.acronis.cz/ via the log parameter**](https://hackerone.com/reports/1109311)
-1. [**blind sql injection**](https://hackerone.com/reports/374027)
-1. [**Time based sql injection**](https://hackerone.com/reports/9921)
-1. [**[critical] sql injection by GET method**](https://hackerone.com/reports/319279)
-1. [**Blind SQL Injection**](https://hackerone.com/reports/1069531)
-1. [**SQL injection [futexpert.mtngbissau.com]**](https://hackerone.com/reports/924855)
-1. [**Sql injection on docs.atavist.com**](https://hackerone.com/reports/1039315)
-1. [**[windows10.hi-tech.mail.ru] Blind SQL Injection**](https://hackerone.com/reports/786044)
-1. [**SQL injection in https://labs.data.gov/dashboard/datagov/csv_to_json via User-agent**](https://hackerone.com/reports/297478)
-1. [**Blind SQL injection in Hall of Fap**](https://hackerone.com/reports/295841)
-1. [**SQL Injection in ████**](https://hackerone.com/reports/519631)
-1. [**SQL Injection in ████**](https://hackerone.com/reports/419017)
-
-
-
-## Open Redirect
-
-
-1. [**[Report-246897] Open Redirect on Twitter**](https://hackerone.com/reports/246897): Eldeeb
-1. [**[Report-103772] Open Redirect on Shopify**](https://hackerone.com/reports/103772): .np
-1. [**[Report-309058] Open Redirect on Wordpress**](https://hackerone.com/reports/309058): @
-1. [**[Report-260744] Open Redirect and XSS on Twitter**](https://hackerone.com/reports/260744): https://dev.twitter.com/https:/%5cblackfan.ru/
-1. [**[Report-320376] Open Redirect on HackerOne**](https://hackerone.com/reports/320376): after index.php/XYZ
-1. [**[Report-111968] Interstitial redirect bypass / Open Redirect on HackerOne Zendesk Session**](https://hackerone.com/reports/111968)
-1. [**[Report-244721] Open Redirect on Mail.Ru**](https://hackerone.com/reports/244721)
-1. [**[Report-236599] Open Redirect on ExpressionEngine**](https://hackerone.com/reports/236599)
-1. [**[Report-299403] Open Redirect on HackerOne**](https://hackerone.com/reports/299403): RTLO
-1. [**[Report-239503] Open Redirect & Information Disclosure on HackerOne**](https://hackerone.com/reports/239503)
-1. [**[Report-210875] Open Redirect via Host Header**](https://hackerone.com/reports/210875)
-1. [**[Report-119236] Open Redirect on Uber**](https://hackerone.com/reports/119236): IP address to a single number
-1. [**[Report-126203] Open Redirect on Uber**](https://hackerone.com/reports/126203)
-1. [**[Report-144525] Open Redirect bypass on New Relic**](https://hackerone.com/reports/144525)
-1. [**[Report-104087] Open Redirect bypass using svg on Slack**](https://hackerone.com/reports/104087)
-1. [**[Report-179568] Open Redirect via window.opener on Open-Xchange**](https://hackerone.com/reports/179568)
-1. [**Open Redirect to RCE on Google Hangouts Electron app**](https://blog.bentkowski.info/2018/07/vulnerability-in-hangouts-chat-aka-how.html) & [RCE Tweet](https://twitter.com/mattaustin/status/1022648925902200832)
-
-
-## IDOR
-
-
-1. [**IDOR in HackerOne**](https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431) (Medium)
-2. [**IDOR with Geolocation data not stripped from images**](https://hackerone.com/reports/906907) (h1)
-3. [**IDOR in HackerOne**](https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431) (Medium)
-5. [**How-i-could-have-hacked-your-uber-account**](https://appsecure.security/blog/how-i-could-have-hacked-your-uber-account)
-6. [**IDOR-via-websockets**](https://footstep.ninja/posts/idor-via-websockets/)
-7. [**Fbctf-IDOR/**](https://georgeosterweil.com/2019-02-20-fbctf-idor/)
-8. [**Disclosing privately shared gaming clips of any user**](https://bugreader.com/rony@disclosing-privately-shared-gaming-clips-of-any-user-128)
-9. [**Adding anyone including non-friend and blocked people as co-host in personal event!**](https://bugreader.com/binit@adding-anyone-including-non-friend-and-blocked-people-as-co-host-in-personal-event-181)
-10. [**Page analyst could view job application details**](https://bugreader.com/rony@page-analyst-could-view-job-application-details-213)
-11. [**Deleting Anyone's Video Poll**](https://bugreader.com/testgrounds@deleting-anyones-video-poll-175)
-12. [**IDOR bug to See hidden slowvote of any user even when you dont have access right**](https://hackerone.com/reports/661978)
-13. [**IDOR allow to extract all registered email**](https://hackerone.com/reports/302485)
-14. [**Another image removal vulnerability on Facebook**](https://blog.darabi.me/2020/06/image-removal-vulnerability-on-facebook.html)
-15. [**Gsuite Hangouts Chat 5k IDOR**](https://secreltyhiddenwriteups.blogspot.com/2018/07/gsuite-hangouts-chat-5k-idor.html)
-16. [**How I pwned a company using IDOR and Blind XSS**](https://www.ansariosama.com/2017/11/how-i-pwned-company-using-idor-blind-xss.html)
-17. [**Disclose Private Dashboard Chart's name and data in Facebook Analytics**](https://bugreader.com/jubabaghdad@disclose-private-dashboard-charts-name-and-data-in-facebook-analytics-184)
-18. [**DoD_IDOR**](http://galnagli.com/DoD_IDOR/)
-19. [**IDOR when editing users leads to Account Takeover without User Interaction at CrowdSignal**](https://hackerone.com/reports/915114)
-20. [**IDOR leads to Edit Anyone's Blogs / Websites**](https://hackerone.com/reports/974222)
-21. [**IDOR and statistics leakage in Orders**](https://hackerone.com/reports/544329)
-22. [**IDOR in https://3d.cs.money/**](https://hackerone.com/reports/990878)
-23. [**IDOR leading to downloading of any attachment**](https://hackerone.com/reports/668439)
-25. [**IDOR when moving contents at CrowdSignal**](https://hackerone.com/reports/915127)
-26. [**IDOR unsubscribe Anyone from NextClouds Newsletters by knowing their Email**](https://hackerone.com/reports/230328)
-27. [**IDOR to delete images from other stores**](https://hackerone.com/reports/404797)
-28. [**IDOR in marketing calendar tool**](https://hackerone.com/reports/797685)
-29. [**IDOR when creating App on [platform.streamlabs.com/api/v1/store/whitelist] with user_id field**](https://hackerone.com/reports/983070)
-30. [**IDOR with Geolocation data not stripped from images**](https://hackerone.com/reports/906907)
-31. [**IDOR in semrush academy**](https://hackerone.com/reports/783708)
-32. [**IDOR on the DELETE /comments/**](https://hackerone.com/reports/861849)
-33. [**IDOR [NR Insights] - Modify the filter settings for any NR Insights dashboard through internal_api endpoint**](https://hackerone.com/reports/459443)
-34. [**IDOR in editing courses**](https://hackerone.com/reports/227522)
-35. [**IDOR when editing email leads to Account Takeover on Atavist**](https://hackerone.com/reports/950881)
-36. [**IDOR to view User Order Information**](https://hackerone.com/reports/287789)
-37. [**IDOR on deleting drafts on https://apps.topcoder.com/wiki/users/viewmydrafts.action via discardDraftId parameter**](https://hackerone.com/reports/868590)
-38. [**IDOR - Deleting other user's signature via /appsuite/api/snippet?action=update (although an error is thrown)**](https://hackerone.com/reports/199321)
-39. [**IDOR to view User Order Information**](https://hackerone.com/reports/287789)
-
-## HTTP Parameter Pollution (HPP)
-
-1. [**Recaptcha-bypass-via-http-parameter-pollution**](https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution/)
-2. [**Twitter-hpp-vulnerability**](https://blog.mert.ninja/twitter-hpp-vulnerability/)
-3. [**Improper-input-validation-add-custom-text-and-urls-in-sms-send-by-snapchat-bug-bounty-poc**](https://blog.securitybreached.org/2020/01/26/improper-input-validation-add-custom-text-and-urls-in-sms-send-by-snapchat-bug-bounty-poc/)
-4. [**Tale-of-account-takeovers-part**](https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-1-b24e1f3c3187)
-5. [**Bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http**](https://logicbomb.medium.com/bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http-4288068b901f)
-6. [**From-parameter-pollution-to-xss**](https://medium.com/@momenbasel/from-parameter-pollution-to-xss-d095e13be060)
-7. [**How-i-earned-60k-from-private-program**](https://medium.com/@sivakrishnasamireddi/how-i-earned-60k-from-private-program-71bd51554490)
-
-## Information Disc
-
-1. [**I-found-gcp-service-account-tokennow**](https://blog.carnal0wnage.com/2019/01/i-found-gcp-service-account-tokennow.html) **GCP**
-2. [**What-is-your-gcp-infra-worthabout-700**](https://blog.carnal0wnage.com/2020/03/what-is-your-gcp-infra-worthabout-700.html) **GCP**
-3. [**Getting-access-zendesk-gcp**](https://blog.assetnote.io/bug-bounty/2019/04/23/getting-access-zendesk-gcp/) **GCP**
-4. [**Aaronesau blog**](https://aaronesau.com/blog/posts/5) **Debug**
-5. [**From-github-recon-to-account-takeover**](https://addictivehackers.blogspot.com/2019/08/from-github-recon-to-account-takeover.html) **ATO**
-6. [**Graphql-bug-to-steal-anyones-address**](https://medium.com/@pratiky054/graphql-bug-to-steal-anyones-address-fc34f0374417) **GraphQl**
-7. [**How-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores**](https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd) **IMPORTANT**
-8. [**Accessing 2 million Verizon Pay Monthly contracts**](https://web.archive.org/web/20191204223739/https://daleys.space/writeup/0day/2019/09/09/verizon-leak.html)
-9. [**Business-logic-plex-tv**](https://blog.evanricafort.com/2019/07/business-logic-plex-tv.html)
-10. [**Leak-can-i-take-user-information-please**](https://flex0geek.blogspot.com/2019/10/leak-can-i-take-user-information-please.html)
-11. [**How-i-could-have-hacked-all-uber-accounts**](https://hackernoon.com/how-i-could-have-hacked-all-uber-accounts-rtzl3z72)
-12. [**How-i-found-credential-enriched-redis-dump**](https://medium.com/@D0rkerDevil/how-i-found-credential-enriched-redis-dump-2b9e808024c4)
-13. [**How-to-look-for-js-files-vulnerability-for-fun-and-profit**](https://medium.com/@Skylinearafat/how-to-look-for-js-files-vulnerability-for-fun-and-profit-78bfdfbd6731)
-14. [**Unauthorized-access-to-all-user-information-leaks**](https://medium.com/@cc1h2e1/unauthorized-access-to-all-user-information-leaks-5db95746aecf)
-15. [**How-i-get-my-first-p1-sensitive-information-disclosure-using-wpscan**](https://medium.com/@harrmahar/how-i-get-my-first-p1-sensitive-information-disclosure-using-wpscan-c2fba00ac361)
-16. [**Recon-to-sensitive-information-disclosure-in-minutes**](https://hbothra22.medium.com/recon-to-sensitive-information-disclosure-in-minutes-503fc7ccdf0b)
-
-## CORS
-
-1. [**CORS bug on google's 404 page (rewarded)**](https://medium.com/@jayateerthag/cors-bug-on-googles-404-page-rewarded-2163d58d3c8b) 
-2. [**CORS misconfiguration leading to private information disclosure**](https://medium.com/@sasaxxx777/cors-misconfiguration-leading-to-private-information-disclosure-3034cfcb4b93) 
-3. [**CORS misconfiguration account takeover out of scope to grab items in scope**](https://medium.com/@mashoud1122/cors-misconfiguration-account-takeover-out-of-scope-to-grab-items-in-scope-66d9d18c7a46) 
-4. [**Chrome CORS**](https://blog.bi.tk/chrome-cors/) 
-5. [**Bypassing CORS**](https://medium.com/@saadahmedx/bypassing-cors-13e46987a45b) 
-6. [**An unexploited CORS misconfiguration reflects further issues**](https://smaranchand.com.np/2019/05/an-unexploited-cors-misconfiguration-reflecting-further-issues/) 
-7. [**Think outside the scope of advanced cors exploitation techniques**](https://medium.com/@sandh0t/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397)  **ADVANCED**
-8. [**A simple CORS misconfiguration leaked private post of Twitter Facebook Instagram**](https://medium.com/@nahoragg/a-simple-cors-misconfig-leaked-private-post-of-twitter-facebook-instagram-5f1a634feb9d) 
-9. [**Exploiting CORS misconfiguration**](https://bugbaba.blogspot.com/2018/02/exploiting-cors-miss-configuration.html) 
-10. [**Exploiting-misconfigured-cors-via-wildcard-subdomains**](http://www.geekboy.ninja/blog/exploiting-misconfigured-cors-via-wildcard-subdomains/) 
-11. [**Exploiting insecure CORS API api.artsy.net**](https://blog.securitybreached.org/2017/10/10/exploiting-insecure-cross-origin-resource-sharing-cors-api-artsy-net) 
-12. [**Pre domain wildcard CORS exploitation**](https://medium.com/bugbountywriteup/pre-domain-wildcard-cors-exploitation-2d6ac1d4bd30) 
-13. [**Exploiting misconfigured CORS on popular BTC site**](https://medium.com/@arbazhussain/exploiting-misconfigured-cors-on-popular-btc-site-2aedfff906f6) 
-14. [**Cross-origin resource sharing misconfig  steal user information bughunterboy bughunterboy**](https://hackerone.com/reports/235200) 
-15. [**[██████] Cross-origin resource sharing misconfiguration (CORS) Vadim jarvis7**](https://hackerone.com/reports/470298) 
-16. [**CORS Misconfiguration on nordvpn.com leading to Private Information Disclosure,Account takeover**](https://hackerone.com/reports/758785) 
-17. [**CORS Misconfiguration [www.zomato.com], could lead to disclosure of sensitive information**](https://hackerone.com/reports/426165) 
-18. [**CORS misconfiguration**](https://hackerone.com/reports/896093) 
-19. [**CORS Misconfiguration Leads to Exposing User Data**](https://hackerone.com/reports/733017) 
-20. [**CORS Bypassing Misconfiguration Leads to Sensitive Exposure**](https://hackerone.com/reports/768151) 
-21. [**CORS misconfiguration allows to steal client's "password", Authorization token and the customer details e.g. names, SSN, bank account etc.**](https://hackerone.com/reports/688567) 
-
-## SOP
-
-1. [**SOP-bypass-via-browser-cache**](https://enumerated.wordpress.com/2019/12/24/sop-bypass-via-browser-cache/) 
-2. [**Google-sites-and-exploiting-same-origin-policy**](https://medium.com/@raushanraj_65039/google-sites-and-exploiting-same-origin-policy-d400bf569964)
-3. [**SOP-bypass**](https://medium.com/bugbountywriteup/sop-bypass-ecae7f4a5c00 )
-4. [**Stealing-local-files-with-simple-html-file**](https://www.netsparker.com/blog/web-security/stealing-local-files-with-simple-html-file/ )
-5. [**Hacking-the-same-origin-policy**](https://medium.com/swlh/hacking-the-same-origin-policy-f9f49ad592fc)
-6. [**Possible SOP bypass in www.starbucks.com due to insecure crossdomain.xml**](https://hackerone.com/reports/244504) 
-7. [**CSRF possible when SOP Bypass/UXSS is available**](https://hackerone.com/reports/103787)
-8. [**SOP bypass using browser cache**](https://hackerone.com/reports/761726) 
-
-## XXE
-
-1. [**External-xml-entity-via-file-upload-svg**](https://web.archive.org/web/20200724124912/https://blog.0xatul.me/posts/2020/02/external-xml-entity-via-file-upload-svg/)
-2. [**0day-writeup-xxe-in-ubercom**](https://httpsonly.blogspot.com/2017/01/0day-writeup-xxe-in-ubercom.html)
-3. [**An-interesting-xxe-in-sap**](https://medium.com/@zain.sabahat/an-interesting-xxe-in-sap-8b35fec6ef33)
-4. [**Bug-bounty-fastmail**](https://infosecwriteups.com/bug-bounty-fastmail-feeda67905f5)
-5. [**Exploiting-xxe-with-local-dtd-files**](https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/)
-6. [**XSS-to-XXE-in-Prince**](https://www.corben.io/XSS-to-XXE-in-Prince/)
-7. [**Multiple-vulnerabilities-in-oracle-ebs**](https://web.archive.org/web/20210122093352/https://www.guptashubham.com/multiple-vulnerabilities-in-oracle-ebs/)
-10. [**From-blind-xxe-to-root-level-file-read-access**](https://honoki.net/2018/12/12/from-blind-xxe-to-root-level-file-read-access/)
-14. [**SOAP-based-unauthenticated-out-of-band-xml-external-entity-oob-xxe-in-a-help-desk-software**](https://infosecwriteups.com/soap-based-unauthenticated-out-of-band-xml-external-entity-oob-xxe-in-a-help-desk-software-c27a6abf182a)
-15. [**How-i-loose-5005-in-a-day-dos-billion-laugh-attack-xxe**](https://www.protector47.com/2020/03/08/how-i-loose-5005-in-a-day-dos-billion-laugh-attack-xxe/)
-18. [**XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx**](https://hackerone.com/reports/500515)
-19. [**XXE on sms-be-vip.twitter.com in SXMP Processor**](https://hackerone.com/reports/248668)
-
-BLIND - XXE OOB ❌
-
-1. [**A-tale-of-two-formats-exploiting-insecure-xml-and-zip-file-parsers-to-create**](https://spaceraccoon.dev/a-tale-of-two-formats-exploiting-insecure-xml-and-zip-file-parsers-to-create-a)
-2. [**How-I-Found-CVE-2018-8819-Out-of-Band-(OOB)-XXE**]( https://www.coalfire.com/The-Coalfire-Blog/June-2018/How-I-Found-CVE-2018-8819-Out-of-Band-(OOB)-XXE?feed=blogs)
-11. [**XXE-oob-exploitation-at-java-17**](http://lab.onsec.ru/2014/06/xxe-oob-exploitation-at-java-17.html)
-12. [**Blind-xml-external-entities-out-of-band-channel-vulnerability-paypal-case-study**](https://r00thunt.com/2018/10/05/blind-xml-external-entities-out-of-band-channel-vulnerability-paypal-case-study/)
-13. [**OOB-xxe-in-prizmdoc-cve-2018-15805**](https://blog.niksthehacker.com/oob-xxe-in-prizmdoc-cve-2018-15805-dfb1e474345c)
-14. [**Exploiting-out-of-band-xxe-using**](https://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html)
-15. [**Blind XXE via Powerpoint files**](https://hackerone.com/reports/334488)
-16. [**Phone Call to XXE via Interactive Voice Response**](https://hackerone.com/reports/395296)
-17. [**XXE in Site Audit function exposing file and directory contents**](https://hackerone.com/reports/312543)
-
-## DOS
-
-1. [**Long String DOS**](https://medium.com/@shahjerry33/long-string-dos-6ba8ceab3aa0)
-2. [**Banner grabbing to DOS and memory corruption**](https://medium.com/bugbountywriteup/banner-grabbing-to-dos-and-memory-corruption-2442b1c25bbb)
-3. [**profile-picture name parameter with large value lead to DoS for other users and programs on the platform**](https://hackerone.com/reports/764434)
-4. [**XMLRPC.php FILE IS enable it will used for Bruteforce attack and Denial of Service(DoS)**](https://hackerone.com/reports/752073)
-5. [**XMLRPC.php FILE IS enable it will be used for brute force attack and denial of service**](https://hackerone.com/reports/325040)
-6. [**DOS on the Issue page by exploiting Mermaid.**](https://hackerone.com/reports/470067)
-7. [**Character limitation bypass can lead to DoS on Twitter App and 500 Internal Server Error**](https://hackerone.com/reports/819088)
-8. [**Permanent DoS with one click.**](https://hackerone.com/reports/975827)
-9. [**A very long name in hey.com can prevent anyone from accessing their contacts and probably can cause denial of service**](https://hackerone.com/reports/1018037)
-10. [**ActiveStorage throws exception when using whitespace as filename, may lead to denial of service of multiple pages**](https://hackerone.com/reports/713407)
-11. [**Denial of Service twitter.com & mobile.twitter.com**](https://hackerone.com/reports/903740)
-12. [**DOS attack via comment on Issue**](https://hackerone.com/reports/557154)
-13. [**DOS of https://nordvpn.com/ via CVE-2018-6389 exploitation**](https://hackerone.com/reports/752010)
-14. [**Denial of Service [Chrome]**](https://hackerone.com/reports/921286)
-15. [**DOS: type confusion in mrb_no_method_error**](https://hackerone.com/reports/181871)
-16. [**Api.tumblr.com Denial of Service by cookies manipulation**](https://hackerone.com/reports/1005421)
-17. [**Application DOS via specially crafted payload on 3d.cs.money**](https://hackerone.com/reports/993582)
-18. [**Pixel Flood Attack leads to Application level DoS**](https://hackerone.com/reports/970760)
-19. [**lack of input validation that can lead Denial of Service (DOS)**](https://hackerone.com/reports/768677)pvotes, $560
+---
 
 ## Html Injection
-
 
 1. [**HTML-injection-in-clause-email**](https://evanricafort.blogspot.com/2019/07/html-injection-in-clause-email.html)
 2. [**HTML-injection-to-xss-bypass-in**](https://evanricafort.blogspot.com/2019/12/html-injection-to-xss-bypass-in.html)
@@ -360,27 +134,7 @@ BLIND - XXE OOB ❌
 9. [**How-i-caught-multiple-vulnerabilities-in-udemy-com**](https://bugdisclose.medium.com/how-i-caught-multiple-vulnerabilities-in-udemy-com-14012a8a1421)
 10. [**Got-easiest-bounty-with-html-injection-via-email-confirmation**](https://medium.com/cyberverse/got-easiest-bounty-with-html-injection-via-email-confirmation-b1b10575a105)
 
-## S3
-
-
-
-1. [**Open AWS S3 bucket leaks all Images uploaded to Zomato chat**](https://hackerone.com/reports/507097)
-1. [**AWS S3 bucket writeable for authenticated aws users**](https://hackerone.com/reports/128088)
-1. [**Open S3 Bucket Accessible by any Aws User**](https://hackerone.com/reports/819278) 
-1. [**Open S3 Bucket WriteAble To Any Aws User**](https://hackerone.com/reports/209223) 
-1. [**API - Amazon S3 bucket misconfiguration**](https://hackerone.com/reports/764243) 
-1. [**No ACL on S3 Bucket in [https://www.██████████/]**](https://hackerone.com/reports/809212) 
-1. [**Amazon S3 bucket misconfiguration (share)**](https://hackerone.com/reports/229690) 
-1. [**Listing of Amazon S3 Bucket accessible to any amazon authenticated user (metrics.pscp.tv)**](https://hackerone.com/reports/278191) 
-1. [**S3 bucket Upload on studio.redditinc.com (s3-r-w.ap-east-1.amazonaws.com)**](https://hackerone.com/reports/1276733)
-1. [**unclaimed s3 bucket takeover in the 3 js file located on the github page of brave software**](https://hackerone.com/reports/1316650)
-1. [**S3 bucket data at http://rockset-support.s3-us-west-2.amazonaws.com/ reveals user addresses based on latitudes and longitudes.**](https://hackerone.com/reports/947725)
-1. [**Writable RubyCi Amazon s3 bucket**](https://hackerone.com/reports/207053)
-1. [**public report - Reproducible - Writable RubyCi Amazon s3 bucket[207053]**](https://hackerone.com/reports/209251)
-1. [**niche s3 buckets are readable/writeable/deleteable by authorized AWS users**](https://hackerone.com/reports/129381)
-1. [**How-i-dumped-millions-of-crypto-currencies-accounts**](https://medium.com/@ddigvijay/how-i-dumped-millions-of-crypto-currencies-accounts-28d388053713)
-1. [**Subdomain Takeover on happymondays.starbucks.com due to non-used AWS S3 DNS record**](https://hackerone.com/reports/186766)
-1. [**Subdomain takeover via unsecured s3 bucket**](https://blog.securitybreached.org/2018/09/24/subdomain-takeover-via-unsecured-s3-bucket/)
+---
 
 ## **Clickjacking (UI redressing)**
 
@@ -405,144 +159,7 @@ BLIND - XXE OOB ❌
 19. [**Clickjacking on cas.acronis.com login page**](https://hackerone.com/reports/971234)
 20. [**Clickjacking at ylands.com**](https://hackerone.com/reports/405342)
 
-## Host Header Injection
-
-1. [**Love-story-of-account-takeover-chaining**](https://chainlover.blogspot.com/2018/11/love-story-of-account-takeover-chaining.html) 
-2. [**Host-header-injection**](https://lightningsecurity.io/blog/host-header-injection/) 
-3. [**How-i-was-able-to-take-over-any-users-account-with-host-header-injection**](https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-take-over-any-users-account-with-host-header-injection-546fff6d0f2) 
-4. [**Pwn-them-all-bugbounty**](https://medium.com/@bilalmerokhel/pwn-them-all-bugbounty-4ee60e13c83) 
-5. [**How-i-earned-800-for-host-header-injection-vulnerability**](https://pethuraj.com/blog/how-i-earned-800-for-host-header-injection-vulnerability/) 
-6. [**10k-host-header**](https://sites.google.com/site/testsitehacking/10k-host-header) 
-22. [**ATO-via-host-header-poisoning**](https://sechunter.medium.com/ato-via-host-header-poisoning-dc5c29d2fd0d) 
-23. [**From-host-header-injection-to-sql-injection**](https://medium.com/@daoud_youssef/from-host-header-injection-to-sql-injection-e7c61a61b575) 
-24. [**Awesome-host-header-injection-worth-2k**](https://medium.com/@imunissar786/awesome-host-header-injection-worth-2k-a7e5be1dbb1d) 
-25. [**Bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie**](https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82)
-7. [**https://hackerone.com/reports/698416**](https://hackerone.com/reports/698416) 
-8. [**https://hackerone.com/reports/758380**](https://hackerone.com/reports/758380) 
-9. [**https://hackerone.com/reports/158019**](https://hackerone.com/reports/158019) 
-10. [**https://hackerone.com/reports/182670**](https://hackerone.com/reports/182670) 
-11. [**https://hackerone.com/reports/13286**](https://hackerone.com/reports/13286) 
-12. [**https://hackerone.com/reports/229498**](https://hackerone.com/reports/229498) 
-13. [**https://hackerone.com/reports/170333**](https://hackerone.com/reports/170333) 
-14. [**https://hackerone.com/reports/221908**](https://hackerone.com/reports/221908) 
-15. [**https://hackerone.com/reports/264405**](https://hackerone.com/reports/264405)  **CloudFlare**
-16. [**https://hackerone.com/reports/226659**](https://hackerone.com/reports/226659) 
-17. [**https://hackerone.com/reports/94637**](https://hackerone.com/reports/94637) 
-18. [**https://hackerone.com/reports/791293**](https://hackerone.com/reports/791293) 
-19. [**https://hackerone.com/reports/123513**](https://hackerone.com/reports/123513) 
-20. [**https://hackerone.com/reports/158482**](https://hackerone.com/reports/158482) 
-21. [**https://hackerone.com/reports/7357**](https://hackerone.com/reports/7357) 
-
-## SSRF
-
-1. **[SSRF to SQLI](https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299)**
-2. **[Escalating xss in phantomjs image rendering to ssrflocal file read](https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/)**
-3. **[Escalating-blind-ssrf-get-rce-santosh-kumar-sha](https://www.linkedin.com/pulse/escalating-blind-ssrf-get-rce-santosh-kumar-sha)**
-4. **[aws-takeover-ssrf-javascript](http://web.archive.org/web/20190522083351/http://10degres.net/aws-takeover-ssrf-javascript/)**
-5. **[Local-file-read-via-xss-in-dynamically](https://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html)**
-6. **[AWS-takeover-ssrf-javascript](http://10degres.net/aws-takeover-ssrf-javascript/)** 
-7. **[Downnotifer-ssrf](http://blog.haao.sh/notes/downnotifer-ssrf/)** 
-8. **[Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul](http://www.kernelpicnic.net/2017/05/29/Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul.html)**
-9. **[Esea-server-side-request-forgery-and-querying-aws-meta-data](https://buer.haus/2016/04/18/esea-server-side-request-forgery-and-querying-aws-meta-data/)**
-10. **[Airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat](https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/)**
-11. **[Escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/](https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/)**
-12. **[Yahoo-small-business-luminate-and-the-not-so-secret-keys](https://dos.sh/blog/2017/6/21/yahoo-small-business-luminate-and-the-not-so-secret-keys)**
-13. **[SSRF-vulnerability-in](https://evanricafort.blogspot.com/2019/08/ssrf-vulnerability-in.html)**
-14. **[My-first-ssrf-using-dns-rebinfing/](https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/)**
-16. **[Bugbounty-a-simple-ssrf/](https://jinone.github.io/bugbounty-a-simple-ssrf/)**
-17. **[Blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration](https://medium.com/@0ktavandi/blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration-60ebb6a40b5)**
-18. **[Jow-i-convert-ssrf-to-xss-in-a-ssrf-vulnerable-jira](https://medium.com/@D0rkerDevil/how-i-convert-ssrf-to-xss-in-a-ssrf-vulnerable-jira-e9f37ad5b158)**
-19. **[Escalating-ssrf-to-rce](https://medium.com/@GeneralEG/escalating-ssrf-to-rce-f28c482eb8b9)**
-20. **[How-outdated-jira-instances-suffers-from-multiple-security-vulnerabilities](https://medium.com/@Skylinearafat/how-outdated-jira-instances-suffers-from-multiple-security-vulnerabilities-6a88c45e9ec6)**
-21. **[How-i-found-xss-via-ssrf-vulnerability-adesh-kolte](https://medium.com/@adeshkolte/how-i-found-xss-via-ssrf-vulnerability-adesh-kolte-873b30a6b89f)**
-22. **[Gain-adfly-smtp-access-with-ssrf-via-gopher-protocol](https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb)**
-23. **[Pdfreacter-ssrf-to-root-level-local-file-read-which-led-to-rce](https://medium.com/@armaanpathan/pdfreacter-ssrf-to-root-level-local-file-read-which-led-to-rce-eb460ffb3129)**
-24. **[Piercing-the-veal-short-stories-to-read-with-friends](https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5)**
-25. **[Vimeo-upload-function-ssrf](https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437)**
-26. **[1-000-ssrf-in-slack](https://medium.com/@elberandre/1-000-ssrf-in-slack-7737935d3884)**
-27. **[SSRF-trick-ssrf-xspa-in-microsofts-bing-webmaster-central](https://medium.com/@elberandre/ssrf-trick-ssrf-xspa-in-microsofts-bing-webmaster-central-8015b5d487fb)**
-28. **[Hunting-good-bugs-with-only-html](https://medium.com/@know.0nix/hunting-good-bugs-with-only-html-d8fd40d17b38)**
-29. **[Blind-ssrf-on-coda-io](https://medium.com/@kurtikleiton/blind-ssrf-on-coda-io-c7063f304455)**
-30. **[Chain-of-hacks-leading-to-database-compromise](https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915)**
-31. **[The-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise](https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82)**
-32. **[The-unusual-case-of-open-redirection-to-aws-security-credentials-compromise](https://medium.com/@logicbomb_1/the-unusual-case-of-open-redirection-to-aws-security-credentials-compromise-59acc312f02b)**
-33. **[Pcextreme-nl-fake-bug-bounty](https://medium.com/@maxon3/pcextreme-nl-fake-bug-bounty-1a8bf01d518f)**
-34. **[SSRF-on-pdf-generator](https://medium.com/@michan001/ssrf-on-pdf-generator-36b81e16d67b)**
-35. **[Reading-internal-files-using-ssrf-vulnerability](https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb)**
-36. **[Using-vulnerability-analytics-feature-like-a-boss](https://medium.com/@ozguralp/using-vulnerability-analytics-feature-like-a-boss-655fc1f1543b)**
-37. **[SSRF-via-ffmpeg-hls-processing](https://medium.com/@pflash0x0punk/ssrf-via-ffmpeg-hls-processing-a04e0288a8c5)**
-38. **[SSRF-to-read-local-files-and-abusing-the-aws-metadata](https://medium.com/@pratiky054/ssrf-to-read-local-files-and-abusing-the-aws-metadata-8621a4bf382)**
-39. **[SSRF-in-openid-support](https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41)**
-40. **[Yhe-story-of-blind-ssrf-leads-to-internal-host-discovery](https://medium.com/@rooterkaustubh/the-story-of-blind-ssrf-leads-to-internal-host-discovery-ee65b9b91e23)**
-41. **[vimeo-ssrf-with-code-execution-potential](https://medium.com/@rootxharsh_90844/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e)**
-42. **[Just-another-tale-of-severe-bugs-on-a-private-program](https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532)**
-43. **[How-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4](https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4)**
-44. **[From-ssrf-to-local-file-disclosure](https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f)**
-45. **[SSRF-port-issue-hidden-approch](https://medium.com/@w_hat_boy/server-side-request-forgery-ssrf-port-issue-hidden-approch-f4e67bd8cc86)**
-46. **[Exploiting-ssrf-like-a-boss-c090dc63d326](https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326)**
-47. **[Exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a](https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a)**
-48. **[The-bugs-are-out-there-hiding-in-plain-sight-12d056613ea3](https://medium.com/a-bugz-life/the-bugs-are-out-there-hiding-in-plain-sight-12d056613ea3)**
-49. **[Bug-bounty-fastmail](https://medium.com/bugbountywriteup/bug-bounty-fastmail-feeda67905f5)**
-50. **[Piercing-the-veil-server-side-request-forgery-to-niprnet-access](https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a)**
-51. **[SSRF_P4toP2](https://mike-n1.github.io/SSRF_P4toP2)**
-52. **[Old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice](https://ngailong.wordpress.com/2019/04/07/old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice/amp/)**
-53. **[Google-vrp-ssrf-in-google-cloud-platform-stackdriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/)**
-54. **[Into-the-borg-ssrf-inside-google-production-network](https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/)**
-55. **[CVE-2018-16794-on-fs-thefacebook-com](https://philippeharewood.com/cve-2018-16794-on-fs-thefacebook-com/)**
-56. **[Stored-XSS-and-SSRF-Google](https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html)**
-57. **[Exploiting-single-request-for-multiple](https://www.ansariosama.com/2017/09/exploiting-single-request-for-multiple.html)**
-58. **[How-i-got-access-to-local-aws-info-via-jira](https://www.coengoedegebure.com/how-i-got-access-to-local-aws-info-via-jira/)**
-59. **[SSRF-in.html#.XGWpfioiVM4.twitter](https://www.mohamedharon.com/2019/02/ssrf-server-side-request-forgery-in.html#.XGWpfioiVM4.twitter)**
-60. **[SSRF-reading-local-files-from-downnotifier-server/](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)**
-61. **[Ok-google-give-me-all-your-internal-dns-information/](https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/)**
-62. **[01-slack-webrtc-turn-compromise/](https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/)**
-63. **[Getting-read-access-on-edmodo.html](https://www.shawarkhan.com/2018/05/getting-read-access-on-edmodo.html)**
-64. **[A-pair-of-plotly-bugs-stored-xss-and-aws-metadata-ssrf/](https://ysx.me.uk/a-pair-of-plotly-bugs-stored-xss-and-aws-metadata-ssrf/)**
-65. **[Exploiting an SSRF trials and tribulations](https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a)**
-66. **[SSRF on PDF generator](https://medium.com/@michan001/ssrf-on-pdf-generator-36b81e16d67b)**
-67. **[Google VRP SSRF in Google cloud platform stackdriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/)**
-68. **[Vimeo upload function SSRF](https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437)**
-69. **[SSRF via ffmeg processing](https://medium.com/@pflash0x0punk/ssrf-via-ffmpeg-hls-processing-a04e0288a8c5)**
-70. **[My first SSRF using DNS rebinding](https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/)**
-71. **[Bugbounty simple SSRF](https://jin0ne.blogspot.com/2019/11/bugbounty-simple-ssrf.html)**
-72. **[SSRF reading local files from downnotifier server](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)**
-73. **[SSRF vulnerability](https://evanricafort.blogspot.com/2019/08/ssrf-vulnerability-in.html)**
-74. **[Gain adfly SMTP access with SSRF via gopher protocol](https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb)**
-75. **[Blind SSRF in stripe.com due to senntry misconfiguration](https://medium.com/@0ktavandi/blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration-60ebb6a40b5)**
-76. **[SSRF port issue hidden approch](https://medium.com/@w_hat_boy/server-side-request-forgery-ssrf-port-issue-hidden-approch-f4e67bd8cc86)**
-77. **[The jorney of web cache firewall bypass to SSRF to AWS credentials compromise](https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82)**
-78. **[SSRF to local file read and abusing aws metadata](https://medium.com/@pratiky054/ssrf-to-read-local-files-and-abusing-the-aws-metadata-8621a4bf382)**
-79. **[pdfreactor SSRF to root level local files read which lead to RCE](https://medium.com/@armaanpathan/pdfreacter-ssrf-to-root-level-local-file-read-which-led-to-rce-eb460ffb3129)**
-80. **[SSRF trick : SSRF XSPA in micosoft's bing webwaster](https://medium.com/@elberandre/ssrf-trick-ssrf-xspa-in-microsofts-bing-webmaster-central-8015b5d487fb)**
-81. **[Downnotifeer SSRF](https://m-q-t.github.io/notes/downnotifer-ssrf/)**
-82. **[Escalating SSRF to RCE](https://medium.com/cesppa/escalating-ssrf-to-rce-f28c482eb8b9)**
-83. **[Vimeo SSRF with code execution potential](https://medium.com/@rootxharsh_90844/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e)**
-84. **[SSRF in slack](https://medium.com/@elberandre/1-000-ssrf-in-slack-7737935d3884)**
-85. **[Exploiting SSRF like a boss](https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326)**
-86. **[AWS takeover SSRF javascript](http://10degres.net/aws-takeover-ssrf-javascript/)**
-87. **[Into the borg of SSRF inside google production network](https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/)**
-88. **[SSRF to local file disclosure](https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f)**
-89. **[How I found an SSRF in yahoo guesthouse (recon wins)](https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4)**
-90. **[Reading internal files using SSRF vulnerability](https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb)**
-91. **[Airbnb chaining third party open redirect into SSRF via liveperson chat](https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/)**
-92. **[SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876)**
-93. **[SSRF using Javascript allows to exfill data from Google Metadata](https://hackerone.com/reports/530974)**
-94. **[SSRF in Google cloud platform stackdriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/)**
-95. **[SSRF to ROOT Access](https://hackerone.com/reports/341876)**
-96. **[SSRF reading local files from downnotifier server](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)**
-97. **[Facebook SSRF](https://medium.com/@amineaboud/10000-facebook-ssrf-bug-bounty-402bd21e58e5)**
-98. **[31k$ SSRF in Google Cloud Monitoring led to metadata exposure](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html)**
-99. **[How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!](http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html)**
-100. **[My Expense Report resulted in a Server-Side Request Forgery (SSRF) on Lyft to Lyft](https://hackerone.com/reports/885975)**
-101. **[SSRF in Exchange leads to ROOT access in all instances to Shopify](https://hackerone.com/reports/341876)**
-
-## OS Command Injection
-
-1. [**Command Injection (via CVE-2019-11510 and CVE-2019-11539)**](https://hackerone.com/reports/680480) 
-2. [**RCE using bash command injection on /system/images (toimitilat.lahitapiola.fi)**](https://hackerone.com/reports/303061) 
-3. [**Remote Code Execution via Extract App Plugin**](https://hackerone.com/reports/546753) 
-4. [**OS Command Injection in Nexus Repository Manager 2.x(bypass CVE-2019-5475)**](https://hackerone.com/reports/688270) 
-5. [**https://hackerone.com/reports/212696**](https://hackerone.com/reports/212696) 
+---
 
 ## CSRF
 
@@ -647,6 +264,412 @@ BLIND - XXE OOB ❌
 101. **[CSRF on https://market.my.games](https://hackerone.com/reports/802930)**
 102. **[CSRF - Modify Company Info](https://hackerone.com/reports/856981)**
 
+---
+
+## CORS
+
+1. [**CORS bug on google's 404 page (rewarded)**](https://medium.com/@jayateerthag/cors-bug-on-googles-404-page-rewarded-2163d58d3c8b) 
+2. [**CORS misconfiguration leading to private information disclosure**](https://medium.com/@sasaxxx777/cors-misconfiguration-leading-to-private-information-disclosure-3034cfcb4b93) 
+3. [**CORS misconfiguration account takeover out of scope to grab items in scope**](https://medium.com/@mashoud1122/cors-misconfiguration-account-takeover-out-of-scope-to-grab-items-in-scope-66d9d18c7a46) 
+4. [**Chrome CORS**](https://blog.bi.tk/chrome-cors/) 
+5. [**Bypassing CORS**](https://medium.com/@saadahmedx/bypassing-cors-13e46987a45b) 
+6. [**An unexploited CORS misconfiguration reflects further issues**](https://smaranchand.com.np/2019/05/an-unexploited-cors-misconfiguration-reflecting-further-issues/) 
+7. [**Think outside the scope of advanced cors exploitation techniques**](https://medium.com/@sandh0t/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397)  **ADVANCED**
+8. [**A simple CORS misconfiguration leaked private post of Twitter Facebook Instagram**](https://medium.com/@nahoragg/a-simple-cors-misconfig-leaked-private-post-of-twitter-facebook-instagram-5f1a634feb9d) 
+9. [**Exploiting CORS misconfiguration**](https://bugbaba.blogspot.com/2018/02/exploiting-cors-miss-configuration.html) 
+10. [**Exploiting-misconfigured-cors-via-wildcard-subdomains**](http://www.geekboy.ninja/blog/exploiting-misconfigured-cors-via-wildcard-subdomains/) 
+11. [**Exploiting insecure CORS API api.artsy.net**](https://blog.securitybreached.org/2017/10/10/exploiting-insecure-cross-origin-resource-sharing-cors-api-artsy-net) 
+12. [**Pre domain wildcard CORS exploitation**](https://medium.com/bugbountywriteup/pre-domain-wildcard-cors-exploitation-2d6ac1d4bd30) 
+13. [**Exploiting misconfigured CORS on popular BTC site**](https://medium.com/@arbazhussain/exploiting-misconfigured-cors-on-popular-btc-site-2aedfff906f6) 
+14. [**Cross-origin resource sharing misconfig  steal user information bughunterboy bughunterboy**](https://hackerone.com/reports/235200) 
+15. [**[██████] Cross-origin resource sharing misconfiguration (CORS) Vadim jarvis7**](https://hackerone.com/reports/470298) 
+16. [**CORS Misconfiguration on nordvpn.com leading to Private Information Disclosure,Account takeover**](https://hackerone.com/reports/758785) 
+17. [**CORS Misconfiguration [www.zomato.com], could lead to disclosure of sensitive information**](https://hackerone.com/reports/426165) 
+18. [**CORS misconfiguration**](https://hackerone.com/reports/896093) 
+19. [**CORS Misconfiguration Leads to Exposing User Data**](https://hackerone.com/reports/733017) 
+20. [**CORS Bypassing Misconfiguration Leads to Sensitive Exposure**](https://hackerone.com/reports/768151) 
+21. [**CORS misconfiguration allows to steal client's "password", Authorization token and the customer details e.g. names, SSN, bank account etc.**](https://hackerone.com/reports/688567) 
+
+## SOP
+
+1. [**SOP-bypass-via-browser-cache**](https://enumerated.wordpress.com/2019/12/24/sop-bypass-via-browser-cache/) 
+2. [**Google-sites-and-exploiting-same-origin-policy**](https://medium.com/@raushanraj_65039/google-sites-and-exploiting-same-origin-policy-d400bf569964)
+3. [**SOP-bypass**](https://medium.com/bugbountywriteup/sop-bypass-ecae7f4a5c00 )
+4. [**Stealing-local-files-with-simple-html-file**](https://www.netsparker.com/blog/web-security/stealing-local-files-with-simple-html-file/ )
+5. [**Hacking-the-same-origin-policy**](https://medium.com/swlh/hacking-the-same-origin-policy-f9f49ad592fc)
+6. [**Possible SOP bypass in www.starbucks.com due to insecure crossdomain.xml**](https://hackerone.com/reports/244504) 
+7. [**CSRF possible when SOP Bypass/UXSS is available**](https://hackerone.com/reports/103787)
+8. [**SOP bypass using browser cache**](https://hackerone.com/reports/761726)
+
+---
+
+## Open Redirect
+
+1. [**[Report-246897] Open Redirect on Twitter**](https://hackerone.com/reports/246897): Eldeeb
+1. [**[Report-103772] Open Redirect on Shopify**](https://hackerone.com/reports/103772): .np
+1. [**[Report-309058] Open Redirect on Wordpress**](https://hackerone.com/reports/309058): @
+1. [**[Report-260744] Open Redirect and XSS on Twitter**](https://hackerone.com/reports/260744): https://dev.twitter.com/https:/%5cblackfan.ru/
+1. [**[Report-320376] Open Redirect on HackerOne**](https://hackerone.com/reports/320376): after index.php/XYZ
+1. [**[Report-111968] Interstitial redirect bypass / Open Redirect on HackerOne Zendesk Session**](https://hackerone.com/reports/111968)
+1. [**[Report-244721] Open Redirect on Mail.Ru**](https://hackerone.com/reports/244721)
+1. [**[Report-236599] Open Redirect on ExpressionEngine**](https://hackerone.com/reports/236599)
+1. [**[Report-299403] Open Redirect on HackerOne**](https://hackerone.com/reports/299403): RTLO
+1. [**[Report-239503] Open Redirect & Information Disclosure on HackerOne**](https://hackerone.com/reports/239503)
+1. [**[Report-210875] Open Redirect via Host Header**](https://hackerone.com/reports/210875)
+1. [**[Report-119236] Open Redirect on Uber**](https://hackerone.com/reports/119236): IP address to a single number
+1. [**[Report-126203] Open Redirect on Uber**](https://hackerone.com/reports/126203)
+1. [**[Report-144525] Open Redirect bypass on New Relic**](https://hackerone.com/reports/144525)
+1. [**[Report-104087] Open Redirect bypass using svg on Slack**](https://hackerone.com/reports/104087)
+1. [**[Report-179568] Open Redirect via window.opener on Open-Xchange**](https://hackerone.com/reports/179568)
+1. [**Open Redirect to RCE on Google Hangouts Electron app**](https://blog.bentkowski.info/2018/07/vulnerability-in-hangouts-chat-aka-how.html) & [RCE Tweet](https://twitter.com/mattaustin/status/1022648925902200832)
+
+---
+
+## Information Disc
+
+1. [**I-found-gcp-service-account-tokennow**](https://blog.carnal0wnage.com/2019/01/i-found-gcp-service-account-tokennow.html) **GCP**
+2. [**What-is-your-gcp-infra-worthabout-700**](https://blog.carnal0wnage.com/2020/03/what-is-your-gcp-infra-worthabout-700.html) **GCP**
+3. [**Getting-access-zendesk-gcp**](https://blog.assetnote.io/bug-bounty/2019/04/23/getting-access-zendesk-gcp/) **GCP**
+4. [**Aaronesau blog**](https://aaronesau.com/blog/posts/5) **Debug**
+5. [**From-github-recon-to-account-takeover**](https://addictivehackers.blogspot.com/2019/08/from-github-recon-to-account-takeover.html) **ATO**
+6. [**Graphql-bug-to-steal-anyones-address**](https://medium.com/@pratiky054/graphql-bug-to-steal-anyones-address-fc34f0374417) **GraphQl**
+7. [**How-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores**](https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd) **IMPORTANT**
+8. [**Accessing 2 million Verizon Pay Monthly contracts**](https://web.archive.org/web/20191204223739/https://daleys.space/writeup/0day/2019/09/09/verizon-leak.html)
+9. [**Business-logic-plex-tv**](https://blog.evanricafort.com/2019/07/business-logic-plex-tv.html)
+10. [**Leak-can-i-take-user-information-please**](https://flex0geek.blogspot.com/2019/10/leak-can-i-take-user-information-please.html)
+11. [**How-i-could-have-hacked-all-uber-accounts**](https://hackernoon.com/how-i-could-have-hacked-all-uber-accounts-rtzl3z72)
+12. [**How-i-found-credential-enriched-redis-dump**](https://medium.com/@D0rkerDevil/how-i-found-credential-enriched-redis-dump-2b9e808024c4)
+13. [**How-to-look-for-js-files-vulnerability-for-fun-and-profit**](https://medium.com/@Skylinearafat/how-to-look-for-js-files-vulnerability-for-fun-and-profit-78bfdfbd6731)
+14. [**Unauthorized-access-to-all-user-information-leaks**](https://medium.com/@cc1h2e1/unauthorized-access-to-all-user-information-leaks-5db95746aecf)
+15. [**How-i-get-my-first-p1-sensitive-information-disclosure-using-wpscan**](https://medium.com/@harrmahar/how-i-get-my-first-p1-sensitive-information-disclosure-using-wpscan-c2fba00ac361)
+16. [**Recon-to-sensitive-information-disclosure-in-minutes**](https://hbothra22.medium.com/recon-to-sensitive-information-disclosure-in-minutes-503fc7ccdf0b)
+
+---
+
+## DOS
+
+1. [**Long String DOS**](https://medium.com/@shahjerry33/long-string-dos-6ba8ceab3aa0)
+2. [**Banner grabbing to DOS and memory corruption**](https://medium.com/bugbountywriteup/banner-grabbing-to-dos-and-memory-corruption-2442b1c25bbb)
+3. [**profile-picture name parameter with large value lead to DoS for other users and programs on the platform**](https://hackerone.com/reports/764434)
+4. [**XMLRPC.php FILE IS enable it will used for Bruteforce attack and Denial of Service(DoS)**](https://hackerone.com/reports/752073)
+5. [**XMLRPC.php FILE IS enable it will be used for brute force attack and denial of service**](https://hackerone.com/reports/325040)
+6. [**DOS on the Issue page by exploiting Mermaid.**](https://hackerone.com/reports/470067)
+7. [**Character limitation bypass can lead to DoS on Twitter App and 500 Internal Server Error**](https://hackerone.com/reports/819088)
+8. [**Permanent DoS with one click.**](https://hackerone.com/reports/975827)
+9. [**A very long name in hey.com can prevent anyone from accessing their contacts and probably can cause denial of service**](https://hackerone.com/reports/1018037)
+10. [**ActiveStorage throws exception when using whitespace as filename, may lead to denial of service of multiple pages**](https://hackerone.com/reports/713407)
+11. [**Denial of Service twitter.com & mobile.twitter.com**](https://hackerone.com/reports/903740)
+12. [**DOS attack via comment on Issue**](https://hackerone.com/reports/557154)
+13. [**DOS of https://nordvpn.com/ via CVE-2018-6389 exploitation**](https://hackerone.com/reports/752010)
+14. [**Denial of Service [Chrome]**](https://hackerone.com/reports/921286)
+15. [**DOS: type confusion in mrb_no_method_error**](https://hackerone.com/reports/181871)
+16. [**Api.tumblr.com Denial of Service by cookies manipulation**](https://hackerone.com/reports/1005421)
+17. [**Application DOS via specially crafted payload on 3d.cs.money**](https://hackerone.com/reports/993582)
+18. [**Pixel Flood Attack leads to Application level DoS**](https://hackerone.com/reports/970760)
+19. [**lack of input validation that can lead Denial of Service (DOS)**](https://hackerone.com/reports/768677)pvotes, $560
+
+---
+
+## S3
+
+1. [**Open AWS S3 bucket leaks all Images uploaded to Zomato chat**](https://hackerone.com/reports/507097)
+1. [**AWS S3 bucket writeable for authenticated aws users**](https://hackerone.com/reports/128088)
+1. [**Open S3 Bucket Accessible by any Aws User**](https://hackerone.com/reports/819278) 
+1. [**Open S3 Bucket WriteAble To Any Aws User**](https://hackerone.com/reports/209223) 
+1. [**API - Amazon S3 bucket misconfiguration**](https://hackerone.com/reports/764243) 
+1. [**No ACL on S3 Bucket in [https://www.██████████/]**](https://hackerone.com/reports/809212) 
+1. [**Amazon S3 bucket misconfiguration (share)**](https://hackerone.com/reports/229690) 
+1. [**Listing of Amazon S3 Bucket accessible to any amazon authenticated user (metrics.pscp.tv)**](https://hackerone.com/reports/278191) 
+1. [**S3 bucket Upload on studio.redditinc.com (s3-r-w.ap-east-1.amazonaws.com)**](https://hackerone.com/reports/1276733)
+1. [**unclaimed s3 bucket takeover in the 3 js file located on the github page of brave software**](https://hackerone.com/reports/1316650)
+1. [**S3 bucket data at http://rockset-support.s3-us-west-2.amazonaws.com/ reveals user addresses based on latitudes and longitudes.**](https://hackerone.com/reports/947725)
+1. [**Writable RubyCi Amazon s3 bucket**](https://hackerone.com/reports/207053)
+1. [**public report - Reproducible - Writable RubyCi Amazon s3 bucket[207053]**](https://hackerone.com/reports/209251)
+1. [**niche s3 buckets are readable/writeable/deleteable by authorized AWS users**](https://hackerone.com/reports/129381)
+1. [**How-i-dumped-millions-of-crypto-currencies-accounts**](https://medium.com/@ddigvijay/how-i-dumped-millions-of-crypto-currencies-accounts-28d388053713)
+1. [**Subdomain Takeover on happymondays.starbucks.com due to non-used AWS S3 DNS record**](https://hackerone.com/reports/186766)
+1. [**Subdomain takeover via unsecured s3 bucket**](https://blog.securitybreached.org/2018/09/24/subdomain-takeover-via-unsecured-s3-bucket/)
+
+---
+
+## SQLI
+
+1. [**SQL injection in Harvard subdomain**](https://noob3xploiter.medium.com/sql-injection-in-harvard-subdomain-be67a5dbf664)
+1. [**SQLi in HackerOne (crit)**](https://hackerone.com/reports/363815)(https://hamzamohdzubair.github.io/redant/)
+1. [**SSRF to sqli**](https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299)
+1. [**Blind sqli Hootsuite**](https://ahussam.me/Blind-sqli-Hootsuite/)
+1. [**Tesla motors blind sql injection**](https://bitquark.co.uk/blog/2014/02/23/tesla_motors_blind_sql_injection) **' + sleep(10) + '**
+1. [**Popping_a_shell_on_the_oculus_developer_portal**](https://bitquark.co.uk/blog/2014/08/31/popping_a_shell_on_the_oculus_developer_portal)
+1. [**Pwning-child-company-to-get-access-to-parentcompanys-slack-team**](https://blog.parthmalhotra.com/pwning-child-company-to-get-access-to-parentcompanys-slack-team/)
+1. [**SQL-injection-in-insert-update-query-without-comma**](https://blog.redforce.io/sql-injection-in-insert-update-query-without-comma/)
+1. [**SQLI-extracting-data-without-knowing-columns-names**](https://blog.redforce.io/sqli-extracting-data-without-knowing-columns-names/)
+1. [**SQLI-bootcampnutanix-com-bug-bounty-poc**](https://blog.securitybreached.org/2018/09/08/sqli-bootcampnutanix-com-bug-bounty-poc/)
+1. [**Zol-zimbabwe-authbypass-sqli-xss**](https://blog.securitybreached.org/2018/09/09/zol-zimbabwe-authbypass-sqli-xss/)
+1. [**SQLI-login-bypass-autotraders**](https://blog.securitybreached.org/2018/09/10/sqli-login-bypass-autotraders/)
+1. [**SQL-injection-via-stopping-the-redirection-to-a-login-page**](https://medium.com/@St00rm/sql-injection-via-stopping-the-redirection-to-a-login-page-52b0792d5592)
+1. [**Yahoo-root-access-sql-injection-tw-yahoo-com**](https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/)
+1. [**Step-by-step-exploiting-sql-injection**](https://josipfranjkovic.blogspot.com/2014/09/step-by-step-exploiting-sql-injection.html)
+1. [**Fileupload-blind-sqli**](https://jspin.re/fileupload-blind-sqli/)
+1. [**First-bug-bounty-submission**](https://renaudmarti.net/posts/first-bug-bounty-submission/)
+1. [**Exploiting-a-tricky-blind-sql-injection-inside-limit-clause**](https://blog.noob.ninja/exploiting-a-tricky-blind-sql-injection-inside-limit-clause/)
+1. [**H1-4420-From-Quiz-to-Admin-Chaining-Two-0-Days-to-Compromise-an-Uber-Wordpress**](https://www.rcesecurity.com/2019/09/H1-4420-From-Quiz-to-Admin-Chaining-Two-0-Days-to-Compromise-an-Uber-Wordpress/)
+1. [**Hacking-the-nhs-for-fun-and-no-profit**](https://nathonsecurity.medium.com/hacking-the-nhs-for-fun-and-no-profit-90931029dcb4)
+1. [**Hacking-makes-me-forget-my-pain**](https://abidafahd.medium.com/hacking-makes-me-forget-my-pain-b04bf51d0407)
+1. [**SQL-injection-vulnerability-in-university-of-cambridge**](https://adeshkolte.medium.com/sql-injection-vulnerability-in-university-of-cambridge-b4c8d0381e1)
+1. [**SQL-injection-bug-bounty**](https://ariffadhlullah2310.medium.com/sql-injection-bug-bounty-110e92e71ec3)
+1. [**Shodan-is-your-friend-if-you-lose-him-you-will-lose-many**](https://bathinivijaysimhareddy.medium.com/shodan-is-your-friend-if-you-lose-him-you-will-lose-many-657d07472f75)
+1. [**SQL-injection-through-user-agent**](https://frostnull.medium.com/sql-injection-through-user-agent-44a1150f6888)
+1. [**Union-based-sql-injection-write-up-a-private-company-site**](https://nuraalamdipu.medium.com/union-based-sql-injection-write-up-a-private-company-site-273f89a49ed9)
+1. [**SQL-injection-for-50-bounty-but-still-worth-reading**](https://orthonviper.medium.com/sql-injection-for-50-bounty-but-still-worth-reading-468442c1cc1a)
+1. [**Source-code-analysis-in-ysurvey-luminate-bug**](https://rojanrijal.medium.com/source-code-analysis-in-ysurvey-luminate-bug-c86dc29b70c4)
+1. [**SQL-injection-saadahmedx**](https://saadahmedx.medium.com/sql-injection-c87a390afdd3)
+1. [**A-five-minute-sql-i**](https://infosecwriteups.com/a-five-minute-sql-i-16ab75b20fe4)
+1. [**Bug-bounty-writeups-exploiting-sql-injection-vulnerability**](https://medium.com/sud0root/bug-bounty-writeups-exploiting-sql-injection-vulnerability-20b019553716)
+1. [**Twitter**](https://twitter.com/0x01alka/status/816403077074976768)
+1. [**Youtube**](https://www.youtube.com/watch?v=8gm1z9bPJ7w)
+1. [**bypass sql injection #1109311**](https://hackerone.com/reports/1224660)
+1. [**SQL injection in https://www.acronis.cz/ via the log parameter**](https://hackerone.com/reports/1109311)
+1. [**blind sql injection**](https://hackerone.com/reports/374027)
+1. [**Time based sql injection**](https://hackerone.com/reports/9921)
+1. [**[critical] sql injection by GET method**](https://hackerone.com/reports/319279)
+1. [**Blind SQL Injection**](https://hackerone.com/reports/1069531)
+1. [**SQL injection [futexpert.mtngbissau.com]**](https://hackerone.com/reports/924855)
+1. [**Sql injection on docs.atavist.com**](https://hackerone.com/reports/1039315)
+1. [**[windows10.hi-tech.mail.ru] Blind SQL Injection**](https://hackerone.com/reports/786044)
+1. [**SQL injection in https://labs.data.gov/dashboard/datagov/csv_to_json via User-agent**](https://hackerone.com/reports/297478)
+1. [**Blind SQL injection in Hall of Fap**](https://hackerone.com/reports/295841)
+1. [**SQL Injection in ████**](https://hackerone.com/reports/519631)
+1. [**SQL Injection in ████**](https://hackerone.com/reports/419017)
+
+---
+
+## XXE
+
+1. [**External-xml-entity-via-file-upload-svg**](https://web.archive.org/web/20200724124912/https://blog.0xatul.me/posts/2020/02/external-xml-entity-via-file-upload-svg/)
+2. [**0day-writeup-xxe-in-ubercom**](https://httpsonly.blogspot.com/2017/01/0day-writeup-xxe-in-ubercom.html)
+3. [**An-interesting-xxe-in-sap**](https://medium.com/@zain.sabahat/an-interesting-xxe-in-sap-8b35fec6ef33)
+4. [**Bug-bounty-fastmail**](https://infosecwriteups.com/bug-bounty-fastmail-feeda67905f5)
+5. [**Exploiting-xxe-with-local-dtd-files**](https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/)
+6. [**XSS-to-XXE-in-Prince**](https://www.corben.io/XSS-to-XXE-in-Prince/)
+7. [**Multiple-vulnerabilities-in-oracle-ebs**](https://web.archive.org/web/20210122093352/https://www.guptashubham.com/multiple-vulnerabilities-in-oracle-ebs/)
+10. [**From-blind-xxe-to-root-level-file-read-access**](https://honoki.net/2018/12/12/from-blind-xxe-to-root-level-file-read-access/)
+14. [**SOAP-based-unauthenticated-out-of-band-xml-external-entity-oob-xxe-in-a-help-desk-software**](https://infosecwriteups.com/soap-based-unauthenticated-out-of-band-xml-external-entity-oob-xxe-in-a-help-desk-software-c27a6abf182a)
+15. [**How-i-loose-5005-in-a-day-dos-billion-laugh-attack-xxe**](https://www.protector47.com/2020/03/08/how-i-loose-5005-in-a-day-dos-billion-laugh-attack-xxe/)
+18. [**XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx**](https://hackerone.com/reports/500515)
+19. [**XXE on sms-be-vip.twitter.com in SXMP Processor**](https://hackerone.com/reports/248668)
+
+BLIND - XXE OOB ❌
+
+1. [**A-tale-of-two-formats-exploiting-insecure-xml-and-zip-file-parsers-to-create**](https://spaceraccoon.dev/a-tale-of-two-formats-exploiting-insecure-xml-and-zip-file-parsers-to-create-a)
+2. [**How-I-Found-CVE-2018-8819-Out-of-Band-(OOB)-XXE**]( https://www.coalfire.com/The-Coalfire-Blog/June-2018/How-I-Found-CVE-2018-8819-Out-of-Band-(OOB)-XXE?feed=blogs)
+11. [**XXE-oob-exploitation-at-java-17**](http://lab.onsec.ru/2014/06/xxe-oob-exploitation-at-java-17.html)
+12. [**Blind-xml-external-entities-out-of-band-channel-vulnerability-paypal-case-study**](https://r00thunt.com/2018/10/05/blind-xml-external-entities-out-of-band-channel-vulnerability-paypal-case-study/)
+13. [**OOB-xxe-in-prizmdoc-cve-2018-15805**](https://blog.niksthehacker.com/oob-xxe-in-prizmdoc-cve-2018-15805-dfb1e474345c)
+14. [**Exploiting-out-of-band-xxe-using**](https://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html)
+15. [**Blind XXE via Powerpoint files**](https://hackerone.com/reports/334488)
+16. [**Phone Call to XXE via Interactive Voice Response**](https://hackerone.com/reports/395296)
+17. [**XXE in Site Audit function exposing file and directory contents**](https://hackerone.com/reports/312543)
+
+---
+
+## IDOR
+
+1. [**IDOR in HackerOne**](https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431) (Medium)
+2. [**IDOR with Geolocation data not stripped from images**](https://hackerone.com/reports/906907) (h1)
+3. [**IDOR in HackerOne**](https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431) (Medium)
+5. [**How-i-could-have-hacked-your-uber-account**](https://appsecure.security/blog/how-i-could-have-hacked-your-uber-account)
+6. [**IDOR-via-websockets**](https://footstep.ninja/posts/idor-via-websockets/)
+7. [**Fbctf-IDOR/**](https://georgeosterweil.com/2019-02-20-fbctf-idor/)
+8. [**Disclosing privately shared gaming clips of any user**](https://bugreader.com/rony@disclosing-privately-shared-gaming-clips-of-any-user-128)
+9. [**Adding anyone including non-friend and blocked people as co-host in personal event!**](https://bugreader.com/binit@adding-anyone-including-non-friend-and-blocked-people-as-co-host-in-personal-event-181)
+10. [**Page analyst could view job application details**](https://bugreader.com/rony@page-analyst-could-view-job-application-details-213)
+11. [**Deleting Anyone's Video Poll**](https://bugreader.com/testgrounds@deleting-anyones-video-poll-175)
+12. [**IDOR bug to See hidden slowvote of any user even when you dont have access right**](https://hackerone.com/reports/661978)
+13. [**IDOR allow to extract all registered email**](https://hackerone.com/reports/302485)
+14. [**Another image removal vulnerability on Facebook**](https://blog.darabi.me/2020/06/image-removal-vulnerability-on-facebook.html)
+15. [**Gsuite Hangouts Chat 5k IDOR**](https://secreltyhiddenwriteups.blogspot.com/2018/07/gsuite-hangouts-chat-5k-idor.html)
+16. [**How I pwned a company using IDOR and Blind XSS**](https://www.ansariosama.com/2017/11/how-i-pwned-company-using-idor-blind-xss.html)
+17. [**Disclose Private Dashboard Chart's name and data in Facebook Analytics**](https://bugreader.com/jubabaghdad@disclose-private-dashboard-charts-name-and-data-in-facebook-analytics-184)
+18. [**DoD_IDOR**](http://galnagli.com/DoD_IDOR/)
+19. [**IDOR when editing users leads to Account Takeover without User Interaction at CrowdSignal**](https://hackerone.com/reports/915114)
+20. [**IDOR leads to Edit Anyone's Blogs / Websites**](https://hackerone.com/reports/974222)
+21. [**IDOR and statistics leakage in Orders**](https://hackerone.com/reports/544329)
+22. [**IDOR in https://3d.cs.money/**](https://hackerone.com/reports/990878)
+23. [**IDOR leading to downloading of any attachment**](https://hackerone.com/reports/668439)
+25. [**IDOR when moving contents at CrowdSignal**](https://hackerone.com/reports/915127)
+26. [**IDOR unsubscribe Anyone from NextClouds Newsletters by knowing their Email**](https://hackerone.com/reports/230328)
+27. [**IDOR to delete images from other stores**](https://hackerone.com/reports/404797)
+28. [**IDOR in marketing calendar tool**](https://hackerone.com/reports/797685)
+29. [**IDOR when creating App on [platform.streamlabs.com/api/v1/store/whitelist] with user_id field**](https://hackerone.com/reports/983070)
+30. [**IDOR with Geolocation data not stripped from images**](https://hackerone.com/reports/906907)
+31. [**IDOR in semrush academy**](https://hackerone.com/reports/783708)
+32. [**IDOR on the DELETE /comments/**](https://hackerone.com/reports/861849)
+33. [**IDOR [NR Insights] - Modify the filter settings for any NR Insights dashboard through internal_api endpoint**](https://hackerone.com/reports/459443)
+34. [**IDOR in editing courses**](https://hackerone.com/reports/227522)
+35. [**IDOR when editing email leads to Account Takeover on Atavist**](https://hackerone.com/reports/950881)
+36. [**IDOR to view User Order Information**](https://hackerone.com/reports/287789)
+37. [**IDOR on deleting drafts on https://apps.topcoder.com/wiki/users/viewmydrafts.action via discardDraftId parameter**](https://hackerone.com/reports/868590)
+38. [**IDOR - Deleting other user's signature via /appsuite/api/snippet?action=update (although an error is thrown)**](https://hackerone.com/reports/199321)
+39. [**IDOR to view User Order Information**](https://hackerone.com/reports/287789)
+
+---
+
+## HTTP Parameter Pollution (HPP)
+
+1. [**Recaptcha-bypass-via-http-parameter-pollution**](https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution/)
+2. [**Twitter-hpp-vulnerability**](https://blog.mert.ninja/twitter-hpp-vulnerability/)
+3. [**Improper-input-validation-add-custom-text-and-urls-in-sms-send-by-snapchat-bug-bounty-poc**](https://blog.securitybreached.org/2020/01/26/improper-input-validation-add-custom-text-and-urls-in-sms-send-by-snapchat-bug-bounty-poc/)
+4. [**Tale-of-account-takeovers-part**](https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-1-b24e1f3c3187)
+5. [**Bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http**](https://logicbomb.medium.com/bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http-4288068b901f)
+6. [**From-parameter-pollution-to-xss**](https://medium.com/@momenbasel/from-parameter-pollution-to-xss-d095e13be060)
+7. [**How-i-earned-60k-from-private-program**](https://medium.com/@sivakrishnasamireddi/how-i-earned-60k-from-private-program-71bd51554490)
+
+---
+
+## Host Header Injection
+
+1. [**Love-story-of-account-takeover-chaining**](https://chainlover.blogspot.com/2018/11/love-story-of-account-takeover-chaining.html) 
+2. [**Host-header-injection**](https://lightningsecurity.io/blog/host-header-injection/) 
+3. [**How-i-was-able-to-take-over-any-users-account-with-host-header-injection**](https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-take-over-any-users-account-with-host-header-injection-546fff6d0f2) 
+4. [**Pwn-them-all-bugbounty**](https://medium.com/@bilalmerokhel/pwn-them-all-bugbounty-4ee60e13c83) 
+5. [**How-i-earned-800-for-host-header-injection-vulnerability**](https://pethuraj.com/blog/how-i-earned-800-for-host-header-injection-vulnerability/) 
+6. [**10k-host-header**](https://sites.google.com/site/testsitehacking/10k-host-header) 
+22. [**ATO-via-host-header-poisoning**](https://sechunter.medium.com/ato-via-host-header-poisoning-dc5c29d2fd0d) 
+23. [**From-host-header-injection-to-sql-injection**](https://medium.com/@daoud_youssef/from-host-header-injection-to-sql-injection-e7c61a61b575) 
+24. [**Awesome-host-header-injection-worth-2k**](https://medium.com/@imunissar786/awesome-host-header-injection-worth-2k-a7e5be1dbb1d) 
+25. [**Bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie**](https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82)
+7. [**https://hackerone.com/reports/698416**](https://hackerone.com/reports/698416) 
+8. [**https://hackerone.com/reports/758380**](https://hackerone.com/reports/758380) 
+9. [**https://hackerone.com/reports/158019**](https://hackerone.com/reports/158019) 
+10. [**https://hackerone.com/reports/182670**](https://hackerone.com/reports/182670) 
+11. [**https://hackerone.com/reports/13286**](https://hackerone.com/reports/13286) 
+12. [**https://hackerone.com/reports/229498**](https://hackerone.com/reports/229498) 
+13. [**https://hackerone.com/reports/170333**](https://hackerone.com/reports/170333) 
+14. [**https://hackerone.com/reports/221908**](https://hackerone.com/reports/221908) 
+15. [**https://hackerone.com/reports/264405**](https://hackerone.com/reports/264405)  **CloudFlare**
+16. [**https://hackerone.com/reports/226659**](https://hackerone.com/reports/226659) 
+17. [**https://hackerone.com/reports/94637**](https://hackerone.com/reports/94637) 
+18. [**https://hackerone.com/reports/791293**](https://hackerone.com/reports/791293) 
+19. [**https://hackerone.com/reports/123513**](https://hackerone.com/reports/123513) 
+20. [**https://hackerone.com/reports/158482**](https://hackerone.com/reports/158482) 
+21. [**https://hackerone.com/reports/7357**](https://hackerone.com/reports/7357) 
+
+---
+
+## SSRF
+
+1. **[SSRF to SQLI](https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299)**
+2. **[Escalating xss in phantomjs image rendering to ssrflocal file read](https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/)**
+3. **[Escalating-blind-ssrf-get-rce-santosh-kumar-sha](https://www.linkedin.com/pulse/escalating-blind-ssrf-get-rce-santosh-kumar-sha)**
+4. **[aws-takeover-ssrf-javascript](http://web.archive.org/web/20190522083351/http://10degres.net/aws-takeover-ssrf-javascript/)**
+5. **[Local-file-read-via-xss-in-dynamically](https://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html)**
+6. **[AWS-takeover-ssrf-javascript](http://10degres.net/aws-takeover-ssrf-javascript/)** 
+7. **[Downnotifer-ssrf](http://blog.haao.sh/notes/downnotifer-ssrf/)** 
+8. **[Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul](http://www.kernelpicnic.net/2017/05/29/Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul.html)**
+9. **[Esea-server-side-request-forgery-and-querying-aws-meta-data](https://buer.haus/2016/04/18/esea-server-side-request-forgery-and-querying-aws-meta-data/)**
+10. **[Airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat](https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/)**
+11. **[Escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/](https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/)**
+12. **[Yahoo-small-business-luminate-and-the-not-so-secret-keys](https://dos.sh/blog/2017/6/21/yahoo-small-business-luminate-and-the-not-so-secret-keys)**
+13. **[SSRF-vulnerability-in](https://evanricafort.blogspot.com/2019/08/ssrf-vulnerability-in.html)**
+14. **[My-first-ssrf-using-dns-rebinfing/](https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/)**
+16. **[Bugbounty-a-simple-ssrf/](https://jinone.github.io/bugbounty-a-simple-ssrf/)**
+17. **[Blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration](https://medium.com/@0ktavandi/blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration-60ebb6a40b5)**
+18. **[Jow-i-convert-ssrf-to-xss-in-a-ssrf-vulnerable-jira](https://medium.com/@D0rkerDevil/how-i-convert-ssrf-to-xss-in-a-ssrf-vulnerable-jira-e9f37ad5b158)**
+19. **[Escalating-ssrf-to-rce](https://medium.com/@GeneralEG/escalating-ssrf-to-rce-f28c482eb8b9)**
+20. **[How-outdated-jira-instances-suffers-from-multiple-security-vulnerabilities](https://medium.com/@Skylinearafat/how-outdated-jira-instances-suffers-from-multiple-security-vulnerabilities-6a88c45e9ec6)**
+21. **[How-i-found-xss-via-ssrf-vulnerability-adesh-kolte](https://medium.com/@adeshkolte/how-i-found-xss-via-ssrf-vulnerability-adesh-kolte-873b30a6b89f)**
+22. **[Gain-adfly-smtp-access-with-ssrf-via-gopher-protocol](https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb)**
+23. **[Pdfreacter-ssrf-to-root-level-local-file-read-which-led-to-rce](https://medium.com/@armaanpathan/pdfreacter-ssrf-to-root-level-local-file-read-which-led-to-rce-eb460ffb3129)**
+24. **[Piercing-the-veal-short-stories-to-read-with-friends](https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5)**
+25. **[Vimeo-upload-function-ssrf](https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437)**
+26. **[1-000-ssrf-in-slack](https://medium.com/@elberandre/1-000-ssrf-in-slack-7737935d3884)**
+27. **[SSRF-trick-ssrf-xspa-in-microsofts-bing-webmaster-central](https://medium.com/@elberandre/ssrf-trick-ssrf-xspa-in-microsofts-bing-webmaster-central-8015b5d487fb)**
+28. **[Hunting-good-bugs-with-only-html](https://medium.com/@know.0nix/hunting-good-bugs-with-only-html-d8fd40d17b38)**
+29. **[Blind-ssrf-on-coda-io](https://medium.com/@kurtikleiton/blind-ssrf-on-coda-io-c7063f304455)**
+30. **[Chain-of-hacks-leading-to-database-compromise](https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915)**
+31. **[The-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise](https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82)**
+32. **[The-unusual-case-of-open-redirection-to-aws-security-credentials-compromise](https://medium.com/@logicbomb_1/the-unusual-case-of-open-redirection-to-aws-security-credentials-compromise-59acc312f02b)**
+33. **[Pcextreme-nl-fake-bug-bounty](https://medium.com/@maxon3/pcextreme-nl-fake-bug-bounty-1a8bf01d518f)**
+34. **[SSRF-on-pdf-generator](https://medium.com/@michan001/ssrf-on-pdf-generator-36b81e16d67b)**
+35. **[Reading-internal-files-using-ssrf-vulnerability](https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb)**
+36. **[Using-vulnerability-analytics-feature-like-a-boss](https://medium.com/@ozguralp/using-vulnerability-analytics-feature-like-a-boss-655fc1f1543b)**
+37. **[SSRF-via-ffmpeg-hls-processing](https://medium.com/@pflash0x0punk/ssrf-via-ffmpeg-hls-processing-a04e0288a8c5)**
+38. **[SSRF-to-read-local-files-and-abusing-the-aws-metadata](https://medium.com/@pratiky054/ssrf-to-read-local-files-and-abusing-the-aws-metadata-8621a4bf382)**
+39. **[SSRF-in-openid-support](https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41)**
+40. **[Yhe-story-of-blind-ssrf-leads-to-internal-host-discovery](https://medium.com/@rooterkaustubh/the-story-of-blind-ssrf-leads-to-internal-host-discovery-ee65b9b91e23)**
+41. **[vimeo-ssrf-with-code-execution-potential](https://medium.com/@rootxharsh_90844/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e)**
+42. **[Just-another-tale-of-severe-bugs-on-a-private-program](https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532)**
+43. **[How-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4](https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4)**
+44. **[From-ssrf-to-local-file-disclosure](https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f)**
+45. **[SSRF-port-issue-hidden-approch](https://medium.com/@w_hat_boy/server-side-request-forgery-ssrf-port-issue-hidden-approch-f4e67bd8cc86)**
+46. **[Exploiting-ssrf-like-a-boss-c090dc63d326](https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326)**
+47. **[Exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a](https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a)**
+48. **[The-bugs-are-out-there-hiding-in-plain-sight-12d056613ea3](https://medium.com/a-bugz-life/the-bugs-are-out-there-hiding-in-plain-sight-12d056613ea3)**
+49. **[Bug-bounty-fastmail](https://medium.com/bugbountywriteup/bug-bounty-fastmail-feeda67905f5)**
+50. **[Piercing-the-veil-server-side-request-forgery-to-niprnet-access](https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a)**
+51. **[SSRF_P4toP2](https://mike-n1.github.io/SSRF_P4toP2)**
+52. **[Old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice](https://ngailong.wordpress.com/2019/04/07/old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice/amp/)**
+53. **[Google-vrp-ssrf-in-google-cloud-platform-stackdriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/)**
+54. **[Into-the-borg-ssrf-inside-google-production-network](https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/)**
+55. **[CVE-2018-16794-on-fs-thefacebook-com](https://philippeharewood.com/cve-2018-16794-on-fs-thefacebook-com/)**
+56. **[Stored-XSS-and-SSRF-Google](https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html)**
+57. **[Exploiting-single-request-for-multiple](https://www.ansariosama.com/2017/09/exploiting-single-request-for-multiple.html)**
+58. **[How-i-got-access-to-local-aws-info-via-jira](https://www.coengoedegebure.com/how-i-got-access-to-local-aws-info-via-jira/)**
+59. **[SSRF-in.html#.XGWpfioiVM4.twitter](https://www.mohamedharon.com/2019/02/ssrf-server-side-request-forgery-in.html#.XGWpfioiVM4.twitter)**
+60. **[SSRF-reading-local-files-from-downnotifier-server/](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)**
+61. **[Ok-google-give-me-all-your-internal-dns-information/](https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/)**
+62. **[01-slack-webrtc-turn-compromise/](https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/)**
+63. **[Getting-read-access-on-edmodo.html](https://www.shawarkhan.com/2018/05/getting-read-access-on-edmodo.html)**
+64. **[A-pair-of-plotly-bugs-stored-xss-and-aws-metadata-ssrf/](https://ysx.me.uk/a-pair-of-plotly-bugs-stored-xss-and-aws-metadata-ssrf/)**
+65. **[Exploiting an SSRF trials and tribulations](https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a)**
+66. **[SSRF on PDF generator](https://medium.com/@michan001/ssrf-on-pdf-generator-36b81e16d67b)**
+67. **[Google VRP SSRF in Google cloud platform stackdriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/)**
+68. **[Vimeo upload function SSRF](https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437)**
+69. **[SSRF via ffmeg processing](https://medium.com/@pflash0x0punk/ssrf-via-ffmpeg-hls-processing-a04e0288a8c5)**
+70. **[My first SSRF using DNS rebinding](https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/)**
+71. **[Bugbounty simple SSRF](https://jin0ne.blogspot.com/2019/11/bugbounty-simple-ssrf.html)**
+72. **[SSRF reading local files from downnotifier server](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)**
+73. **[SSRF vulnerability](https://evanricafort.blogspot.com/2019/08/ssrf-vulnerability-in.html)**
+74. **[Gain adfly SMTP access with SSRF via gopher protocol](https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb)**
+75. **[Blind SSRF in stripe.com due to senntry misconfiguration](https://medium.com/@0ktavandi/blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration-60ebb6a40b5)**
+76. **[SSRF port issue hidden approch](https://medium.com/@w_hat_boy/server-side-request-forgery-ssrf-port-issue-hidden-approch-f4e67bd8cc86)**
+77. **[The jorney of web cache firewall bypass to SSRF to AWS credentials compromise](https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82)**
+78. **[SSRF to local file read and abusing aws metadata](https://medium.com/@pratiky054/ssrf-to-read-local-files-and-abusing-the-aws-metadata-8621a4bf382)**
+79. **[pdfreactor SSRF to root level local files read which lead to RCE](https://medium.com/@armaanpathan/pdfreacter-ssrf-to-root-level-local-file-read-which-led-to-rce-eb460ffb3129)**
+80. **[SSRF trick : SSRF XSPA in micosoft's bing webwaster](https://medium.com/@elberandre/ssrf-trick-ssrf-xspa-in-microsofts-bing-webmaster-central-8015b5d487fb)**
+81. **[Downnotifeer SSRF](https://m-q-t.github.io/notes/downnotifer-ssrf/)**
+82. **[Escalating SSRF to RCE](https://medium.com/cesppa/escalating-ssrf-to-rce-f28c482eb8b9)**
+83. **[Vimeo SSRF with code execution potential](https://medium.com/@rootxharsh_90844/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e)**
+84. **[SSRF in slack](https://medium.com/@elberandre/1-000-ssrf-in-slack-7737935d3884)**
+85. **[Exploiting SSRF like a boss](https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326)**
+86. **[AWS takeover SSRF javascript](http://10degres.net/aws-takeover-ssrf-javascript/)**
+87. **[Into the borg of SSRF inside google production network](https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/)**
+88. **[SSRF to local file disclosure](https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f)**
+89. **[How I found an SSRF in yahoo guesthouse (recon wins)](https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4)**
+90. **[Reading internal files using SSRF vulnerability](https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb)**
+91. **[Airbnb chaining third party open redirect into SSRF via liveperson chat](https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/)**
+92. **[SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876)**
+93. **[SSRF using Javascript allows to exfill data from Google Metadata](https://hackerone.com/reports/530974)**
+94. **[SSRF in Google cloud platform stackdriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/)**
+95. **[SSRF to ROOT Access](https://hackerone.com/reports/341876)**
+96. **[SSRF reading local files from downnotifier server](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)**
+97. **[Facebook SSRF](https://medium.com/@amineaboud/10000-facebook-ssrf-bug-bounty-402bd21e58e5)**
+98. **[31k$ SSRF in Google Cloud Monitoring led to metadata exposure](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html)**
+99. **[How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!](http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html)**
+100. **[My Expense Report resulted in a Server-Side Request Forgery (SSRF) on Lyft to Lyft](https://hackerone.com/reports/885975)**
+101. **[SSRF in Exchange leads to ROOT access in all instances to Shopify](https://hackerone.com/reports/341876)**
+
+---
+
+## OS Command Injection
+
+1. [**Command Injection (via CVE-2019-11510 and CVE-2019-11539)**](https://hackerone.com/reports/680480) 
+2. [**RCE using bash command injection on /system/images (toimitilat.lahitapiola.fi)**](https://hackerone.com/reports/303061) 
+3. [**Remote Code Execution via Extract App Plugin**](https://hackerone.com/reports/546753) 
+4. [**OS Command Injection in Nexus Repository Manager 2.x(bypass CVE-2019-5475)**](https://hackerone.com/reports/688270) 
+5. [**https://hackerone.com/reports/212696**](https://hackerone.com/reports/212696) 
+
+---
 
 ## LFI/LFD - Path Traversal - RFI
 
@@ -682,6 +705,8 @@ BLIND - XXE OOB ❌
 15. **[Client-not-client](https://medium.com/@tungpun/client-not-client-aa448cfdedd2)**
 16. **[Exploiting-ssrf-like-a-boss](https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326)**
 17. **[Bugbounty-journey-from-lfi-to-rce-how](https://medium.com/bugbountywriteup/bugbounty-journey-from-lfi-to-rce-how-a69afe5a0899)**
+
+---
 
 ## File Upload
 
