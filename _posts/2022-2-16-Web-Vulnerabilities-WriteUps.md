@@ -10,33 +10,28 @@ published: true
 
 
 
-
-
-
 | Vulnerabilities Name                                                                                                                                             | 
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| [**1️⃣ Cross Site Scripting (XSS)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#cross-site-scripting-xss)                             | 
-| [**2️⃣ Content Security Policy (CSP)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#content-security-policy-csp)                       |   
-| [**3️⃣ Html Injection**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#html-injection)                                                   |
-| [**4️⃣ Clickjacking (UI redressing)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#clickjacking-ui-redressing)                         |
-| [**5️⃣ Cross Site Request Forgery (CSRF)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#cross-site-request-forgery-csrf)               |
-| [**6️⃣ Cross Origin Resource Sharing (CORS)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#cross-origin-resource-sharing-cors)         |
-| [**7️⃣ Same Origin Policy (SOP)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#same-origin-policy-sop)                                 |
-| [**8️⃣ Open Redirect**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#open-redirect)                                                     |
-| [**9️⃣ Information Disclosure**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#information-disclosure)                                   |
-| [**🔟Denial Of Service (DOS)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#denial-of-service-dos)                                   |
-| [**1️⃣1️ Simple Storage Service (S3)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#simple-storage-service-s3)                           |
-| [**1️⃣2️⃣ SQLI**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#sqli)                                                                       |
-| [**1️⃣3️⃣ EXternal Xml Entity (XXE)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#external-xml-entity-xxe)                               |
-| [**1️⃣4️⃣ Insecure Direct Object References (IDOR)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#insecure-direct-object-references-idor) |
-| [**1️⃣5️⃣ HTTP Parameter Pollution (HPP)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#http-parameter-pollution-hpp)                     |
-| [**1️⃣6️⃣ Host Header Injection (HHI)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#host-header-injection-hhi)                           |
-| [**1️⃣7️⃣ Server Side Request Forgery (SSRF)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#server-side-request-forgery-ssrf)             | 
-| [**1️⃣8️⃣ OS Command Injection**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#os-command-injection)                                       |
-| [**1️⃣9️⃣ LFI/LFD - Path Traversal - RFI**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#lfilfd---path-traversal---rfi)                    |
-| [**2️⃣0️⃣ File Upload**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#file-upload)                                                         | 
-
-
+| [**1️ - Cross Site Scripting (XSS)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#cross-site-scripting-xss)                             | 
+| [**2️ - Content Security Policy (CSP)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#content-security-policy-csp)                       |   
+| [**3️ - Html Injection**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#html-injection)                                                   |
+| [**4️ - Clickjacking (UI redressing)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#clickjacking-ui-redressing)                         |
+| [**5️ - Cross Site Request Forgery (CSRF)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#cross-site-request-forgery-csrf)               |
+| [**6️ - Cross Origin Resource Sharing (CORS)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#cross-origin-resource-sharing-cors)         |
+| [**7️ - Same Origin Policy (SOP)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#same-origin-policy-sop)                                 |
+| [**8️ - Open Redirect**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#open-redirect)                                                     |
+| [**9️ - Information Disclosure**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#information-disclosure)                                   |
+| [**10 - Denial Of Service (DOS)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#denial-of-service-dos)                                   |
+| [**1️1️ - Simple Storage Service (S3)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#simple-storage-service-s3)                           |
+| [**1️2️ - SQLI**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#sqli)                                                                       |
+| [**1️3️ - EXternal Xml Entity (XXE)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#external-xml-entity-xxe)                               |
+| [**1️4️ - Insecure Direct Object References (IDOR)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#insecure-direct-object-references-idor) |
+| [**1️5️ - HTTP Parameter Pollution (HPP)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#http-parameter-pollution-hpp)                     |
+| [**1️6️ - Host Header Injection (HHI)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#host-header-injection-hhi)                           |
+| [**1️7️ - Server Side Request Forgery (SSRF)**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#server-side-request-forgery-ssrf)             | 
+| [**1️8️ - OS Command Injection**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#os-command-injection)                                       |
+| [**1️9️ - LFI/LFD - Path Traversal - RFI**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#lfilfd---path-traversal---rfi)                    |
+| [**2️0️ - File Upload**](https://0xkourama.github.io/0xKourama/posts/Web-Vulnerabilities-WriteUps/#file-upload)                                                         | 
 
 
 ## Cross Site Scripting (XSS) 
