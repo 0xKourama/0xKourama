@@ -3,7 +3,7 @@ title: REST API WriteUps
 layout: post
 categories: [Writeups,REST-API]
 tags: [Writeups]
-toc: false
+toc: true
 published: true
 ---
 
