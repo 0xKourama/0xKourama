@@ -3,7 +3,7 @@ title: XSS prevention | CSP
 layout: post
 categories: [Web-Vulnerabilities,CSP]
 tags: [Vulnerability,XSS,CSP]
-toc: false
+toc: true
 published: true
 ---
 # XSS prevention | CSP Header
