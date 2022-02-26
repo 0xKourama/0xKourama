@@ -3,7 +3,7 @@ title: CyberTalents-Web-Hard
 layout: post
 categories: [Web-CyberTalents, Hard]
 tags: [Web, CTF]
-toc: false
+toc: true
 published: true
 ---
 
