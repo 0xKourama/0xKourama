@@ -1,5 +1,5 @@
 ---
-title: S3 Bucket
+title: HTTP Parameter Pollution HPP
 layout: post
 categories: [Web-Vulnerabilities,HPP]
 tags: [Vulnerability,HPP]
@@ -65,8 +65,13 @@ In order to prevent these kinds of vulnerabilities, an extensive and proper inpu
 ## 📕 Referance
 
 [**Imperva**](https://www.imperva.com/learn/application-security/http-parameter-pollution/)
+
 [**PayloadsAllTheThings**](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/HTTP%20Parameter%20Pollution)
+
 [**OWASP**](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/04-Testing_for_HTTP_Parameter_Pollution)
+
 [**Hacktricks**](https://book.hacktricks.xyz/pentesting-web/parameter-pollution)
+
 [**Acunetix**](https://www.acunetix.com/blog/whitepaper-http-parameter-pollution/)
+
 [**PwnFunction**](https://www.youtube.com/watch?v=QVZBl8yxVX0)
