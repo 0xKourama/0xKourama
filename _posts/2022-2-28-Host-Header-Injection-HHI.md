@@ -1,11 +1,12 @@
 ---
 title: Host Header Injection (HHI)
 layout: post
-categories: [Web-Vulnerabilities,,host-header-injection]
-tags: [Vulnerability,,host-header-injection]
+categories: [Web-Vulnerabilities,host-header-injection]
+tags: [Vulnerability,host-header-injection]
 toc: true
 published: true
 ---
+
 
 # Host Header Injection (HHI)
 
